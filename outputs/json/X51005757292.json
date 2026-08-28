@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "MR.O.1.YMSDNBHD",
+    "confidence": 0.95,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "18-03-1812",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "9690059",
+      "price": "3.3"
+    },
+    {
+      "name": "9690059",
+      "price": "6.6"
+    }
+  ],
+  "total_amount": {
+    "value": 0.37,
+    "confidence": 0.73,
+    "is_low_confidence": false
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "store_name": {
+    "value": "HAPPY SNACKS ENTERPRISE",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "1SK9556173380636",
+      "price": "14.31"
+    },
+    {
+      "name": "1SK9556173380636",
+      "price": "14.31"
+    },
+    {
+      "name": "9556296307411",
+      "price": "12.51"
+    },
+    {
+      "name": "9556296307411",
+      "price": "12.51"
+    },
+    {
+      "name": "Rounding Adjustment",
+      "price": "26.82"
+    },
+    {
+      "name": "Rounding Adjustment",
+      "price": "0.02"
+    },
+    {
+      "name": "Amount To Be Paid",
+      "price": "26.8"
+    },
+    {
+      "name": "Amount To Be Paid",
+      "price": "50.0"
+    },
+    {
+      "name": "6.00",
+      "price": "25.3"
+    },
+    {
+      "name": "6.00",
+      "price": "1.52"
+    }
+  ],
+  "total_amount": {
+    "value": 26.82,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

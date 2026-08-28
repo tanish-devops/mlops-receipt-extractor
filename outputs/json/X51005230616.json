@@ -1,0 +1,31 @@
+{
+  "store_name": {
+    "value": "Q0543",
+    "confidence": 0.9,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "19-18/01",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "2 M SpicyDeluxe",
+      "price": "25.4"
+    },
+    {
+      "name": "1 M Gri1ChicBgr",
+      "price": "12.5"
+    },
+    {
+      "name": "1 Sma11 Cone",
+      "price": "1.0"
+    }
+  ],
+  "total_amount": {
+    "value": 38.9,
+    "confidence": 1.0,
+    "is_low_confidence": false
+  }
+}

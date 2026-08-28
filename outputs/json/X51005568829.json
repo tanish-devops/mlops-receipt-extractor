@@ -1,0 +1,31 @@
+{
+  "store_name": {
+    "value": "THAI DELICIOUS RESTAURANT",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "51GARLICFRIED",
+      "price": "13.0"
+    },
+    {
+      "name": "51GARLICFRIED",
+      "price": "13.0"
+    },
+    {
+      "name": "AVERAGE/PAX(S",
+      "price": "23.2"
+    }
+  ],
+  "total_amount": {
+    "value": 92.8,
+    "confidence": 1.0,
+    "is_low_confidence": false
+  }
+}

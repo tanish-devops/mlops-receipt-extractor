@@ -1,0 +1,43 @@
+{
+  "store_name": {
+    "value": "SUPER SEVEN C4SH & CARRY SDN BHD",
+    "confidence": 0.97,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "27-01-2018",
+    "confidence": 1.0,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "KK KACANGCiORENG 300G",
+      "price": "5.9"
+    },
+    {
+      "name": "10",
+      "price": "59.0"
+    },
+    {
+      "name": "SR (6",
+      "price": "55.66"
+    },
+    {
+      "name": "SR (6",
+      "price": "3.34"
+    },
+    {
+      "name": "ZR (0",
+      "price": "0.0"
+    },
+    {
+      "name": "ZR (0",
+      "price": "0.0"
+    }
+  ],
+  "total_amount": {
+    "value": 59.0,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

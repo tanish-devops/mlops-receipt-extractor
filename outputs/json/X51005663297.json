@@ -1,0 +1,143 @@
+{
+  "store_name": {
+    "value": "31803 014",
+    "confidence": 0.97,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "11028",
+      "price": "150.0"
+    },
+    {
+      "name": "11028",
+      "price": "159.0"
+    },
+    {
+      "name": "11028",
+      "price": "159.0"
+    },
+    {
+      "name": "11046",
+      "price": "80.0"
+    },
+    {
+      "name": "11046",
+      "price": "169.6"
+    },
+    {
+      "name": "11000",
+      "price": "16.0"
+    },
+    {
+      "name": "3 00",
+      "price": "3.18"
+    },
+    {
+      "name": "3 00",
+      "price": "3.18"
+    },
+    {
+      "name": "10012",
+      "price": "3.0"
+    },
+    {
+      "name": "10012",
+      "price": "3.18"
+    },
+    {
+      "name": "10012",
+      "price": "6.36"
+    },
+    {
+      "name": "200",
+      "price": "2.12"
+    },
+    {
+      "name": "200",
+      "price": "2.12"
+    },
+    {
+      "name": "2567",
+      "price": "16.0"
+    },
+    {
+      "name": "2567",
+      "price": "16.96"
+    },
+    {
+      "name": "450",
+      "price": "4.77"
+    },
+    {
+      "name": "1521",
+      "price": "19.9"
+    },
+    {
+      "name": "1521",
+      "price": "21.09"
+    },
+    {
+      "name": "1521",
+      "price": "21.09"
+    },
+    {
+      "name": "3879",
+      "price": "100.0"
+    },
+    {
+      "name": "3879",
+      "price": "106.0"
+    },
+    {
+      "name": "3879",
+      "price": "106.0"
+    },
+    {
+      "name": "3416",
+      "price": "1.2"
+    },
+    {
+      "name": "3416",
+      "price": "1.27"
+    },
+    {
+      "name": "3416",
+      "price": "1.27"
+    },
+    {
+      "name": "000",
+      "price": "0.0"
+    },
+    {
+      "name": "000",
+      "price": "0.0"
+    },
+    {
+      "name": "Discount",
+      "price": "0.0"
+    },
+    {
+      "name": "otalGST",
+      "price": "33.93"
+    },
+    {
+      "name": "Rounding",
+      "price": "0.02"
+    },
+    {
+      "name": "Sales (Inclusive of GsT",
+      "price": "599.45"
+    }
+  ],
+  "total_amount": {
+    "value": 565.5,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

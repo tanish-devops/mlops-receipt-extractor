@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "Banh Mi CafE",
+    "confidence": 0.97,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "29-10-2017",
+    "confidence": 1.0,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "205SUONG NON RAM CHUA",
+      "price": "9.9"
+    },
+    {
+      "name": "605TRA DA",
+      "price": "1.5"
+    },
+    {
+      "name": "Serv.Charge(3",
+      "price": "0.65"
+    },
+    {
+      "name": "GSTpayable6",
+      "price": "1.31"
+    },
+    {
+      "name": "Rounding Adj",
+      "price": "0.01"
+    }
+  ],
+  "total_amount": {
+    "value": 21.3,
+    "confidence": 1.0,
+    "is_low_confidence": false
+  }
+}

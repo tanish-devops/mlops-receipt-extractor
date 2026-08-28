@@ -1,0 +1,51 @@
+{
+  "store_name": {
+    "value": "CROSS CHANNEL NETWORK SDN.BHD",
+    "confidence": 0.97,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "SCHNEIDERE15R 13ASWITCH",
+      "price": "6.36"
+    },
+    {
+      "name": "Rounding Adjustment",
+      "price": "6.36"
+    },
+    {
+      "name": "Rounding Adjustment",
+      "price": "0.01"
+    },
+    {
+      "name": "PaidAmount",
+      "price": "6.35"
+    },
+    {
+      "name": "PaidAmount",
+      "price": "10.0"
+    },
+    {
+      "name": "PaidAmount",
+      "price": "3.65"
+    },
+    {
+      "name": "SR@A",
+      "price": "6.0"
+    },
+    {
+      "name": "SR@A",
+      "price": "0.36"
+    }
+  ],
+  "total_amount": {
+    "value": 6.36,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

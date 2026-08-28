@@ -1,0 +1,47 @@
+{
+  "store_name": {
+    "value": "SIN LIANHAP SON BHD",
+    "confidence": 0.97,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "05/02/2018",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "1.000PCx",
+      "price": "2.0"
+    },
+    {
+      "name": "1.000PCX",
+      "price": "5.3"
+    },
+    {
+      "name": "TutaSaes Erng GsT",
+      "price": "6.69"
+    },
+    {
+      "name": "tounding Adjustment",
+      "price": "0.0"
+    },
+    {
+      "name": "Payment",
+      "price": "7.3"
+    },
+    {
+      "name": "SR6",
+      "price": "6.89"
+    },
+    {
+      "name": "SR6",
+      "price": "0.41"
+    }
+  ],
+  "total_amount": {
+    "value": 7.3,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

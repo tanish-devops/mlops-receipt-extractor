@@ -1,0 +1,31 @@
+{
+  "store_name": {
+    "value": "99SPEEDMART57B519537-X",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "24-01-18",
+    "confidence": 1.0,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "1973 GARBAGE BAG BLUE74C",
+      "price": "1.25"
+    },
+    {
+      "name": "1974 GARBAGE BAG GREEN)74",
+      "price": "1.25"
+    },
+    {
+      "name": "14",
+      "price": "2.36"
+    }
+  ],
+  "total_amount": {
+    "value": 2.5,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

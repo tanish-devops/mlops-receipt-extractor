@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "UNIHAKKA INTERNATIONAL SDN BHD",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "SR 100100000121-YongTauFooS",
+      "price": "1.6"
+    },
+    {
+      "name": "SR 100100000121-YongTauFooS",
+      "price": "1.6"
+    },
+    {
+      "name": "Payment Mode",
+      "price": "8.7"
+    },
+    {
+      "name": "Amount",
+      "price": "8.7"
+    },
+    {
+      "name": "827",
+      "price": "0.49"
+    }
+  ],
+  "total_amount": {
+    "value": 8.7,
+    "confidence": 0.73,
+    "is_low_confidence": false
+  }
+}

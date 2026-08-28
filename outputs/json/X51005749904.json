@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "SWCENTERPRISE SDNBHI",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "06/03/2018",
+    "confidence": 1.0,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "0L523B621-1",
+      "price": "2.0"
+    },
+    {
+      "name": "0L523B621-1",
+      "price": "2.0"
+    },
+    {
+      "name": "OPPTAPE1.5",
+      "price": "2.0"
+    },
+    {
+      "name": "OPPTAPE1.5",
+      "price": "2.0"
+    },
+    {
+      "name": "GST o% Incnded n Tots",
+      "price": "0.22"
+    }
+  ],
+  "total_amount": {
+    "value": 4.0,
+    "confidence": 0.54,
+    "is_low_confidence": true
+  }
+}

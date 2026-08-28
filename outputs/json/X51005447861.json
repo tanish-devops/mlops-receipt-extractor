@@ -1,0 +1,59 @@
+{
+  "store_name": {
+    "value": "POPULAR BOOK",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "01/03/1819",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "2pc@9.89",
+      "price": "19.78"
+    },
+    {
+      "name": "L11 X-VENTURE UNEXPLA[BK",
+      "price": "12.0"
+    },
+    {
+      "name": "Member Discount",
+      "price": "1.2"
+    },
+    {
+      "name": "PU EXPANDING FILE-TS",
+      "price": "20.9"
+    },
+    {
+      "name": "Member Discount",
+      "price": "2.09"
+    },
+    {
+      "name": "Rounding Adj",
+      "price": "0.01"
+    },
+    {
+      "name": "T@6",
+      "price": "36.41"
+    },
+    {
+      "name": "T@6",
+      "price": "2.18"
+    },
+    {
+      "name": "Z@0",
+      "price": "10.8"
+    },
+    {
+      "name": "Z@0",
+      "price": "0.0"
+    }
+  ],
+  "total_amount": {
+    "value": 49.39,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

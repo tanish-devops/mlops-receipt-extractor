@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "POPULAR BOOK",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "20/08/1712",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "4pce1.40",
+      "price": "5.6"
+    },
+    {
+      "name": "Member Discount",
+      "price": "0.58"
+    },
+    {
+      "name": "Rounding Adj",
+      "price": "0.01"
+    },
+    {
+      "name": "T@6",
+      "price": "4.75"
+    },
+    {
+      "name": "T@6",
+      "price": "0.29"
+    }
+  ],
+  "total_amount": {
+    "value": 5.04,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

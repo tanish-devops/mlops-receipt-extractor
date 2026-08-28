@@ -1,0 +1,43 @@
+{
+  "store_name": {
+    "value": "MR.D.I.Y.MSDN BHD",
+    "confidence": 0.97,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "04-2/60",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "9072363",
+      "price": "29.9"
+    },
+    {
+      "name": "9072363",
+      "price": "29.9"
+    },
+    {
+      "name": "6942131561408",
+      "price": "8.9"
+    },
+    {
+      "name": "6942131561408",
+      "price": "8.9"
+    },
+    {
+      "name": "GST S@6",
+      "price": "36.6"
+    },
+    {
+      "name": "GST S@6",
+      "price": "2.2"
+    }
+  ],
+  "total_amount": {
+    "value": 38.8,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "store_name": {
+    "value": "SWC ENTERPRISE",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "28/03/2018",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "0025679U",
+      "price": "8.0"
+    },
+    {
+      "name": "0025679U",
+      "price": "24.0"
+    },
+    {
+      "name": "0025679U",
+      "price": "7.0"
+    },
+    {
+      "name": "0025679U",
+      "price": "7.0"
+    },
+    {
+      "name": "PD3.20",
+      "price": "3.8"
+    },
+    {
+      "name": "0020323PKT",
+      "price": "1.0"
+    },
+    {
+      "name": "0020323PKT",
+      "price": "1.0"
+    },
+    {
+      "name": "0020324PKT",
+      "price": "1.8"
+    },
+    {
+      "name": "0020324PKT",
+      "price": "1.8"
+    },
+    {
+      "name": "Item 4",
+      "price": "30.0"
+    },
+    {
+      "name": "Spec.Disc",
+      "price": "0.0"
+    },
+    {
+      "name": "Saving 3.80",
+      "price": "0.0"
+    },
+    {
+      "name": "Saving 3.80",
+      "price": "30.0"
+    },
+    {
+      "name": "S(6",
+      "price": "28.3"
+    },
+    {
+      "name": "S(6",
+      "price": "1.7"
+    }
+  ],
+  "total_amount": {
+    "value": 30.0,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

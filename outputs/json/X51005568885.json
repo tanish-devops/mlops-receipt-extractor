@@ -1,0 +1,35 @@
+{
+  "store_name": {
+    "value": "EYERGREEN LIGHT SDNBHD",
+    "confidence": 0.96,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "10/07/2017",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "TotGTE",
+      "price": "3.17"
+    },
+    {
+      "name": "ROLINDING ADIUET",
+      "price": "0.01"
+    },
+    {
+      "name": "8E)-6",
+      "price": "52.84"
+    },
+    {
+      "name": "8E)-6",
+      "price": "3.17"
+    }
+  ],
+  "total_amount": {
+    "value": 52.84,
+    "confidence": 0.73,
+    "is_low_confidence": false
+  }
+}

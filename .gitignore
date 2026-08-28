@@ -1,0 +1,16 @@
+# Virtual environment
+myenv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Dataset images (Do not upload hundreds of raw images to GitHub)
+data/receipts/
+*.png
+*.jpg
+*.jpeg
+
+# Cache / OS files
+.DS_Store
+raw_ocr_results.json

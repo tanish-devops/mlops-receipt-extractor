@@ -1,0 +1,43 @@
+{
+  "store_name": {
+    "value": "YONG TAT HARDWARE TRADING",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "8603",
+      "price": "1.0"
+    },
+    {
+      "name": "8603",
+      "price": "67.92"
+    },
+    {
+      "name": "8603",
+      "price": "72.0"
+    },
+    {
+      "name": "Tota SalesExcluding GST",
+      "price": "67.92"
+    },
+    {
+      "name": "Discount",
+      "price": "0.0"
+    },
+    {
+      "name": "Rounding",
+      "price": "0.0"
+    }
+  ],
+  "total_amount": {
+    "value": 4.08,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

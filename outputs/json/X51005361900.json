@@ -1,0 +1,35 @@
+{
+  "store_name": {
+    "value": "TEOHENG STATIONERY &BOOKS",
+    "confidence": 0.97,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "9557546631393",
+      "price": "2.08"
+    },
+    {
+      "name": "9557546631393",
+      "price": "0.0"
+    },
+    {
+      "name": "9557546631393",
+      "price": "10.38"
+    },
+    {
+      "name": "ROUNDING",
+      "price": "0.0"
+    }
+  ],
+  "total_amount": {
+    "value": 1.02,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

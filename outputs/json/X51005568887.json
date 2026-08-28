@@ -1,0 +1,47 @@
+{
+  "store_name": {
+    "value": "HONHWAHARDWARETRADING",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "1.234ALUMINIUMROD",
+      "price": "6.0"
+    },
+    {
+      "name": "1.234ALUMINIUMROD",
+      "price": "7.2"
+    },
+    {
+      "name": "1.2Type1",
+      "price": "7.2"
+    },
+    {
+      "name": "Discount",
+      "price": "0.0"
+    },
+    {
+      "name": "Rounding Adj",
+      "price": "0.0"
+    },
+    {
+      "name": "041",
+      "price": "6.79"
+    },
+    {
+      "name": "041",
+      "price": "7.2"
+    }
+  ],
+  "total_amount": {
+    "value": 7.2,
+    "confidence": 0.74,
+    "is_low_confidence": false
+  }
+}

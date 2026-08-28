@@ -1,0 +1,75 @@
+{
+  "store_name": {
+    "value": "EDAI BUKU NEW ACHEIVERS",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "15/09/2017",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "12363087",
+      "price": "3.8"
+    },
+    {
+      "name": "12363087",
+      "price": "4.03"
+    },
+    {
+      "name": "12363087",
+      "price": "12.08"
+    },
+    {
+      "name": "70448257",
+      "price": "7.9"
+    },
+    {
+      "name": "70448257",
+      "price": "8.37"
+    },
+    {
+      "name": "70448257",
+      "price": "8.37"
+    },
+    {
+      "name": "1300514",
+      "price": "2.73"
+    },
+    {
+      "name": "1300637",
+      "price": "2.73"
+    },
+    {
+      "name": "1300637",
+      "price": "2.89"
+    },
+    {
+      "name": "1300637",
+      "price": "8.68"
+    },
+    {
+      "name": "TOTQTY:13",
+      "price": "48.0"
+    },
+    {
+      "name": "Discount",
+      "price": "0.0"
+    },
+    {
+      "name": "Rounding",
+      "price": "0.0"
+    },
+    {
+      "name": "Murah",
+      "price": "0.0"
+    }
+  ],
+  "total_amount": {
+    "value": 45.28,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

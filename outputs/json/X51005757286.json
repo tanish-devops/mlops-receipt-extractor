@@ -1,0 +1,35 @@
+{
+  "store_name": {
+    "value": "TSHPOWERHARDWARE",
+    "confidence": 1.0,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "1 MAJESTA HSS",
+      "price": "4.0"
+    },
+    {
+      "name": "Round Amt",
+      "price": "0.0"
+    },
+    {
+      "name": "SR=6.00",
+      "price": "7.55"
+    },
+    {
+      "name": "SR=6.00",
+      "price": "0.45"
+    }
+  ],
+  "total_amount": {
+    "value": 8.0,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

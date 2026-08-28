@@ -1,0 +1,23 @@
+{
+  "store_name": {
+    "value": "MRD.1.YMSDNBHD",
+    "confidence": 0.95,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "52-62-25",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "10.E0",
+      "price": "5.3"
+    }
+  ],
+  "total_amount": {
+    "value": 20.0,
+    "confidence": 0.93,
+    "is_low_confidence": false
+  }
+}

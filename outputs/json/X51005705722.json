@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "ASO ELECTRICAL TRADING SDN BHD",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "27/09/201",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "107636",
+      "price": "78.0"
+    },
+    {
+      "name": "107636",
+      "price": "82.68"
+    },
+    {
+      "name": "107636",
+      "price": "248.04"
+    },
+    {
+      "name": "Discount",
+      "price": "0.0"
+    },
+    {
+      "name": "Rounding",
+      "price": "0.01"
+    }
+  ],
+  "total_amount": {
+    "value": 234.0,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

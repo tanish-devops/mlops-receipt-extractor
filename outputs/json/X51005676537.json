@@ -1,0 +1,31 @@
+{
+  "store_name": {
+    "value": "318.01",
+    "confidence": 0.93,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "03/01/2018",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "1611",
+      "price": "4.24"
+    },
+    {
+      "name": "Discount",
+      "price": "0.0"
+    },
+    {
+      "name": "Rounding",
+      "price": "0.0"
+    }
+  ],
+  "total_amount": {
+    "value": 89.0,
+    "confidence": 1.0,
+    "is_low_confidence": false
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "store_name": {
+    "value": "SUPER SEVEN CASH & CARRY SDN BHD",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "21-03-2018",
+    "confidence": 1.0,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "KIMBALL TOMATO PUREE 430G",
+      "price": "3.8"
+    },
+    {
+      "name": "9556191030230",
+      "price": "3.8"
+    },
+    {
+      "name": "KIMBALL TOMATO PUREE 430G",
+      "price": "3.8"
+    },
+    {
+      "name": "YOUNG CORN425G MS",
+      "price": "2.9"
+    },
+    {
+      "name": "9555654400313*1",
+      "price": "2.9"
+    },
+    {
+      "name": "18.ho",
+      "price": "18.3"
+    },
+    {
+      "name": "ZR (0",
+      "price": "4.99"
+    },
+    {
+      "name": "ZR (0",
+      "price": "0.0"
+    },
+    {
+      "name": "SRE",
+      "price": "12.54"
+    },
+    {
+      "name": "SRE",
+      "price": "0.76"
+    }
+  ],
+  "total_amount": {
+    "value": 18.29,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

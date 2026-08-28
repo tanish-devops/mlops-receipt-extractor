@@ -1,0 +1,35 @@
+{
+  "store_name": {
+    "value": "SWEET FOREST CAFE",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "14-02-2018",
+    "confidence": 1.0,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "GST payable 6",
+      "price": "1.72"
+    },
+    {
+      "name": "14/2/18",
+      "price": "50.0"
+    },
+    {
+      "name": "6",
+      "price": "28.58"
+    },
+    {
+      "name": "6",
+      "price": "1.72"
+    }
+  ],
+  "total_amount": {
+    "value": 28.58,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

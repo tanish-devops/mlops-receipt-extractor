@@ -1,0 +1,55 @@
+{
+  "store_name": {
+    "value": "PERNIAGAAN ZHENG HU",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "09/02/2018",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "6783",
+      "price": "3.5"
+    },
+    {
+      "name": "55.DC",
+      "price": "55.0"
+    },
+    {
+      "name": "99.0c",
+      "price": "33.0"
+    },
+    {
+      "name": "9428",
+      "price": "10.0"
+    },
+    {
+      "name": "TOT QTY:46",
+      "price": "411.5"
+    },
+    {
+      "name": "Discount(RM",
+      "price": "411.5"
+    },
+    {
+      "name": "000",
+      "price": "24.69"
+    },
+    {
+      "name": "Rounding (RM",
+      "price": "0.01"
+    },
+    {
+      "name": "Rounding (RM",
+      "price": "436.2"
+    }
+  ],
+  "total_amount": {
+    "value": 411.5,
+    "confidence": 0.74,
+    "is_low_confidence": false
+  }
+}

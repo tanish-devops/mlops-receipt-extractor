@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "LAN HiING STATIONERY SDN BHD",
+    "confidence": 0.96,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "30/03/2018",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "Durafile H399110x95mm",
+      "price": "116.6"
+    },
+    {
+      "name": "809 Metal Name Badge Clip",
+      "price": "42.4"
+    },
+    {
+      "name": "Paid Amount",
+      "price": "200.0"
+    },
+    {
+      "name": "SR.@A",
+      "price": "150.0"
+    },
+    {
+      "name": "SR.@A",
+      "price": "9.0"
+    }
+  ],
+  "total_amount": {
+    "value": 159.0,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

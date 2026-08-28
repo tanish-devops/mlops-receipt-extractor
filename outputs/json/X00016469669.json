@@ -1,0 +1,23 @@
+{
+  "store_name": {
+    "value": "tan chay yee",
+    "confidence": 1.0,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "Plastic",
+      "price": "15.5"
+    }
+  ],
+  "total_amount": {
+    "value": 31.0,
+    "confidence": 1.0,
+    "is_low_confidence": false
+  }
+}

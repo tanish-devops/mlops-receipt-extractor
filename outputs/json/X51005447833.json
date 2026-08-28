@@ -1,0 +1,31 @@
+{
+  "store_name": {
+    "value": "SUN WONG KUT SDNBHD",
+    "confidence": 0.96,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "21/02/1811",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "Visa",
+      "price": "88.17"
+    },
+    {
+      "name": "CRM",
+      "price": "0.0"
+    },
+    {
+      "name": "CRM",
+      "price": "88.17"
+    }
+  ],
+  "total_amount": {
+    "value": 88.17,
+    "confidence": 0.52,
+    "is_low_confidence": true
+  }
+}

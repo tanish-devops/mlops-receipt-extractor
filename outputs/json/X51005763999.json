@@ -1,0 +1,83 @@
+{
+  "store_name": {
+    "value": "Segi Cash & Carry Sdn.Bhd/317041-W",
+    "confidence": 0.96,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "2x9.90",
+      "price": "19.8"
+    },
+    {
+      "name": "1 x 11.50 Disc:1.60",
+      "price": "9.9"
+    },
+    {
+      "name": "3.18x39.90",
+      "price": "126.88"
+    },
+    {
+      "name": "3.15x39.90",
+      "price": "125.69"
+    },
+    {
+      "name": "2x4.51",
+      "price": "9.02"
+    },
+    {
+      "name": "1.36x55.00",
+      "price": "74.8"
+    },
+    {
+      "name": "1x210.00",
+      "price": "210.0"
+    },
+    {
+      "name": "169.90",
+      "price": "69.9"
+    },
+    {
+      "name": "1x28.00",
+      "price": "28.0"
+    },
+    {
+      "name": "Rounding:RM",
+      "price": "0.01"
+    },
+    {
+      "name": "VISAxxxxxxxxxxXx7118",
+      "price": "674.0"
+    },
+    {
+      "name": "Savings:RM",
+      "price": "1.6"
+    },
+    {
+      "name": "S@6.0",
+      "price": "234.63"
+    },
+    {
+      "name": "S@6.0",
+      "price": "14.09"
+    },
+    {
+      "name": "Z@0.0",
+      "price": "425.27"
+    },
+    {
+      "name": "Z@0.0",
+      "price": "0.0"
+    }
+  ],
+  "total_amount": {
+    "value": 673.99,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

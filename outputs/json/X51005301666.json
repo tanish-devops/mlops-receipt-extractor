@@ -1,0 +1,43 @@
+{
+  "store_name": {
+    "value": "LIGHTROOM GALLERY SDN BHD",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "20/11/2017",
+    "confidence": 0.97,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "RM45.29UNI5.43=RM",
+      "price": "90.57"
+    },
+    {
+      "name": "RM155.66UNI9.34=RM",
+      "price": "155.66"
+    },
+    {
+      "name": "SR@6",
+      "price": "263.02"
+    },
+    {
+      "name": "SR@6",
+      "price": "15.78"
+    },
+    {
+      "name": "ZR/OS/EZ",
+      "price": "0.0"
+    },
+    {
+      "name": "ZR/OS/EZ",
+      "price": "0.0"
+    }
+  ],
+  "total_amount": {
+    "value": 278.8,
+    "confidence": 0.54,
+    "is_low_confidence": true
+  }
+}

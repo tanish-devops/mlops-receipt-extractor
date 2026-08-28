@@ -1,0 +1,55 @@
+{
+  "store_name": {
+    "value": "IKANO HANDEL SDN BHD",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "09/08/17",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "SRM",
+      "price": "9.8"
+    },
+    {
+      "name": "70350938 TE0D0RES CH",
+      "price": "90.0"
+    },
+    {
+      "name": "Tota1 RM Including GST 6",
+      "price": "99.8"
+    },
+    {
+      "name": "Rounding Adj",
+      "price": "0.0"
+    },
+    {
+      "name": "Tota1 Rounded",
+      "price": "99.8"
+    },
+    {
+      "name": "Mastercard",
+      "price": "99.8"
+    },
+    {
+      "name": "GSTSR",
+      "price": "99.8"
+    },
+    {
+      "name": "GSTSR",
+      "price": "5.64"
+    },
+    {
+      "name": "Amt.Exc1.GST",
+      "price": "94.16"
+    }
+  ],
+  "total_amount": {
+    "value": 99.8,
+    "confidence": 0.54,
+    "is_low_confidence": true
+  }
+}

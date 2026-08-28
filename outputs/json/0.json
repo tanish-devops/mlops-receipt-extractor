@@ -1,0 +1,35 @@
+{
+  "store_name": {
+    "value": "WAL*MART",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "08/20/10",
+    "confidence": 1.0,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "0.411b",
+      "price": "0.49"
+    },
+    {
+      "name": "0.411b",
+      "price": "0.2"
+    },
+    {
+      "name": "001200010451F",
+      "price": "5.48"
+    },
+    {
+      "name": "DISCOUNT GIVEN",
+      "price": "0.57"
+    }
+  ],
+  "total_amount": {
+    "value": 5.11,
+    "confidence": 1.0,
+    "is_low_confidence": false
+  }
+}

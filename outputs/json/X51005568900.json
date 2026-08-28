@@ -1,0 +1,35 @@
+{
+  "store_name": {
+    "value": "MR.D.I.Y.SDN BHD",
+    "confidence": 0.96,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "28-12-1718",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "6942131561507",
+      "price": "9.9"
+    },
+    {
+      "name": "6942131561507",
+      "price": "9.9"
+    },
+    {
+      "name": "GST S@6",
+      "price": "9.34"
+    },
+    {
+      "name": "GST S@6",
+      "price": "0.56"
+    }
+  ],
+  "total_amount": {
+    "value": 9.9,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

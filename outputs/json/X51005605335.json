@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "POPULAR BOOK",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "12/01/1816",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "2pc e 13.69",
+      "price": "27.38"
+    },
+    {
+      "name": "Stat-Great Saving",
+      "price": "6.4"
+    },
+    {
+      "name": "Rounding Adj",
+      "price": "0.02"
+    },
+    {
+      "name": "T @ 6",
+      "price": "19.79"
+    },
+    {
+      "name": "T @ 6",
+      "price": "1.19"
+    }
+  ],
+  "total_amount": {
+    "value": 20.98,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

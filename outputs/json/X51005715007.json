@@ -1,0 +1,31 @@
+{
+  "store_name": {
+    "value": "3-1708032",
+    "confidence": 1.0,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "25-03-1818",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "PLASTIC TRAY-GLOSS R pCS",
+      "price": "8.9"
+    },
+    {
+      "name": "KEYCHAIN -SCARF STA pcs",
+      "price": "5.9"
+    },
+    {
+      "name": "KEYCHAIN -KNIT SCAR pcs",
+      "price": "3.9"
+    }
+  ],
+  "total_amount": {
+    "value": 18.7,
+    "confidence": 1.0,
+    "is_low_confidence": false
+  }
+}

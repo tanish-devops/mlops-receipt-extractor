@@ -1,0 +1,35 @@
+{
+  "store_name": {
+    "value": "SLF CASH & CARRY",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "6194020100124",
+      "price": "11.32"
+    },
+    {
+      "name": "6194020100124",
+      "price": "45.28"
+    },
+    {
+      "name": "DISC",
+      "price": "0.0"
+    },
+    {
+      "name": "ROUNDING",
+      "price": "0.0"
+    }
+  ],
+  "total_amount": {
+    "value": 45.28,
+    "confidence": 0.74,
+    "is_low_confidence": false
+  }
+}

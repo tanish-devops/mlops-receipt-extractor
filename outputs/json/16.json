@@ -1,0 +1,47 @@
+{
+  "store_name": {
+    "value": "See back of receipt for your chance",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "11/13/1712",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "6WING PLATE 020108870398",
+      "price": "3.98"
+    },
+    {
+      "name": "ASST27",
+      "price": "4.88"
+    },
+    {
+      "name": "063099656644",
+      "price": "12.88"
+    },
+    {
+      "name": "CUTIE CAR",
+      "price": "21.74"
+    },
+    {
+      "name": "DEBIT TEND",
+      "price": "23.19"
+    },
+    {
+      "name": "DEBIT TEND",
+      "price": "23.19"
+    },
+    {
+      "name": "DEBIT TEND",
+      "price": "0.0"
+    }
+  ],
+  "total_amount": {
+    "value": 21.74,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

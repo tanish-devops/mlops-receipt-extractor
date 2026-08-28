@@ -1,0 +1,43 @@
+{
+  "store_name": {
+    "value": "CROSS CHANNEL NEIWORK SDN.BHD",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "31/12/2017",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "3X32862A1PVC NUTBOX",
+      "price": "0.53"
+    },
+    {
+      "name": "Rounding Adjustment",
+      "price": "7.95"
+    },
+    {
+      "name": "Paid Amount",
+      "price": "7.95"
+    },
+    {
+      "name": "205",
+      "price": "4.0"
+    },
+    {
+      "name": "SR@A",
+      "price": "7.5"
+    },
+    {
+      "name": "SR@A",
+      "price": "0.45"
+    }
+  ],
+  "total_amount": {
+    "value": 7.95,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

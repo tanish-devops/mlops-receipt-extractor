@@ -1,0 +1,95 @@
+{
+  "store_name": {
+    "value": "MR.D.I.Y.KUCHAISDN BHD",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "3-21-12",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "9555075106825",
+      "price": "8.5"
+    },
+    {
+      "name": "9555075106825",
+      "price": "8.5"
+    },
+    {
+      "name": "9067170",
+      "price": "2.7"
+    },
+    {
+      "name": "9067170",
+      "price": "2.7"
+    },
+    {
+      "name": "9082115",
+      "price": "2.5"
+    },
+    {
+      "name": "9082115",
+      "price": "2.5"
+    },
+    {
+      "name": "6946759900212",
+      "price": "2.5"
+    },
+    {
+      "name": "6946759900212",
+      "price": "2.5"
+    },
+    {
+      "name": "9002148",
+      "price": "4.5"
+    },
+    {
+      "name": "9002148",
+      "price": "13.5"
+    },
+    {
+      "name": "9750009",
+      "price": "6.3"
+    },
+    {
+      "name": "9750009",
+      "price": "6.3"
+    },
+    {
+      "name": "9045734",
+      "price": "7.5"
+    },
+    {
+      "name": "9045734",
+      "price": "7.5"
+    },
+    {
+      "name": "9002107",
+      "price": "4.9"
+    },
+    {
+      "name": "9002107",
+      "price": "9.8"
+    },
+    {
+      "name": "EDC",
+      "price": "53.3"
+    },
+    {
+      "name": "GST S@6",
+      "price": "50.28"
+    },
+    {
+      "name": "GST S@6",
+      "price": "3.02"
+    }
+  ],
+  "total_amount": {
+    "value": 53.3,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "store_name": {
+    "value": "SYARIKAT PERNIAGAAN GIN KEE",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "03/01/2018",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "1938",
+      "price": "13.78"
+    },
+    {
+      "name": "1618",
+      "price": "40.28"
+    },
+    {
+      "name": "2225",
+      "price": "4.77"
+    },
+    {
+      "name": "Tota!Sales (Excluding GST",
+      "price": "89.5"
+    },
+    {
+      "name": "Discount",
+      "price": "0.0"
+    },
+    {
+      "name": "Rounding",
+      "price": "0.0"
+    }
+  ],
+  "total_amount": {
+    "value": 5.37,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

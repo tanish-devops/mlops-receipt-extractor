@@ -1,0 +1,23 @@
+{
+  "store_name": {
+    "value": "KAISON FURNISHING SDN BHD",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "29-01-1820",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "SR67,395.09",
+      "price": "443.71"
+    }
+  ],
+  "total_amount": {
+    "value": 838.8,
+    "confidence": 1.0,
+    "is_low_confidence": false
+  }
+}

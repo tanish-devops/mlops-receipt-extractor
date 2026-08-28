@@ -1,0 +1,35 @@
+{
+  "store_name": {
+    "value": "SOLARIS",
+    "confidence": 1.0,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "Rate A",
+      "price": "4.0"
+    },
+    {
+      "name": "14118",
+      "price": "3.77"
+    },
+    {
+      "name": "GST",
+      "price": "6.0"
+    },
+    {
+      "name": "Paid",
+      "price": "4.0"
+    }
+  ],
+  "total_amount": {
+    "value": 4.0,
+    "confidence": 0.74,
+    "is_low_confidence": false
+  }
+}

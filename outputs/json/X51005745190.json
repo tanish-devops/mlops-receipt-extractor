@@ -1,0 +1,63 @@
+{
+  "store_name": {
+    "value": "SUPER SEVEN CASH & CARRY SDN 3HD",
+    "confidence": 0.97,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "12-02-2018",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "9556606389992",
+      "price": "53.5"
+    },
+    {
+      "name": "EAWANG BESAR INDIA/CINA GUNI",
+      "price": "8.5"
+    },
+    {
+      "name": "95:606500035",
+      "price": "19.5"
+    },
+    {
+      "name": "9536065000345",
+      "price": "17.2"
+    },
+    {
+      "name": "9554100157801*1",
+      "price": "7.9"
+    },
+    {
+      "name": "olal Sales Incl.GST 6",
+      "price": "367.1"
+    },
+    {
+      "name": "Nel leta",
+      "price": "367.1"
+    },
+    {
+      "name": "ZR(0",
+      "price": "359.2"
+    },
+    {
+      "name": "ZR(0",
+      "price": "0.0"
+    },
+    {
+      "name": "SR6",
+      "price": "7.45"
+    },
+    {
+      "name": "SR6",
+      "price": "0.45"
+    }
+  ],
+  "total_amount": {
+    "value": 367.1,
+    "confidence": 0.53,
+    "is_low_confidence": true
+  }
+}

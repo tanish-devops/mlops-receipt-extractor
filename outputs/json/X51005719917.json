@@ -1,0 +1,35 @@
+{
+  "store_name": {
+    "value": "DOMINO'S PIZZA",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "26/03/18",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "9HT",
+      "price": "30.3"
+    },
+    {
+      "name": "2P2C-R",
+      "price": "30.3"
+    },
+    {
+      "name": "Coupon Discount",
+      "price": "27.6"
+    },
+    {
+      "name": "6% GST Included",
+      "price": "1.87"
+    }
+  ],
+  "total_amount": {
+    "value": 60.6,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

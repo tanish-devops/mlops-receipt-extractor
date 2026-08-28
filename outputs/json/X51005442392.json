@@ -1,0 +1,35 @@
+{
+  "store_name": {
+    "value": "UNIHAKKA INTERNATIONAL SDN BHD",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "Payment Mode",
+      "price": "7.1"
+    },
+    {
+      "name": "Amount",
+      "price": "7.1"
+    },
+    {
+      "name": "3n=S",
+      "price": "6.7"
+    },
+    {
+      "name": "3n=S",
+      "price": "0.4"
+    }
+  ],
+  "total_amount": {
+    "value": 7.1,
+    "confidence": 0.72,
+    "is_low_confidence": false
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "store_name": {
+    "value": "Cash Saie",
+    "confidence": 0.95,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "3UNIT",
+      "price": "0.0"
+    },
+    {
+      "name": "NIT",
+      "price": "2.8"
+    },
+    {
+      "name": "NIT",
+      "price": "0.0"
+    },
+    {
+      "name": "NIT",
+      "price": "22.4"
+    },
+    {
+      "name": "6 UNIT",
+      "price": "9.0"
+    },
+    {
+      "name": "11 UNIT",
+      "price": "4.9"
+    },
+    {
+      "name": "11 UNIT",
+      "price": "0.0"
+    },
+    {
+      "name": "11 UNIT",
+      "price": "53.9"
+    },
+    {
+      "name": "Rounding Adjustment",
+      "price": "0.0"
+    },
+    {
+      "name": "SR@6",
+      "price": "103.49"
+    },
+    {
+      "name": "SR@6",
+      "price": "6.21"
+    }
+  ],
+  "total_amount": {
+    "value": 109.7,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

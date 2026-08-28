@@ -1,0 +1,175 @@
+{
+  "store_name": {
+    "value": "GREAT ZONE HOUSEHOLD CENTRE SDN BHD",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "18/02/2018",
+    "confidence": 1.0,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "1PC",
+      "price": "3.3"
+    },
+    {
+      "name": "1PC",
+      "price": "0.0"
+    },
+    {
+      "name": "1PC",
+      "price": "3.3"
+    },
+    {
+      "name": "1200G",
+      "price": "3.6"
+    },
+    {
+      "name": "1200G",
+      "price": "0.0"
+    },
+    {
+      "name": "1200G",
+      "price": "3.6"
+    },
+    {
+      "name": "1200G",
+      "price": "2.5"
+    },
+    {
+      "name": "1200G",
+      "price": "0.0"
+    },
+    {
+      "name": "1200G",
+      "price": "2.5"
+    },
+    {
+      "name": "1 PC",
+      "price": "1.6"
+    },
+    {
+      "name": "1 PC",
+      "price": "0.0"
+    },
+    {
+      "name": "1 PC",
+      "price": "1.6"
+    },
+    {
+      "name": "1 PC",
+      "price": "8.6"
+    },
+    {
+      "name": "1 PC",
+      "price": "0.0"
+    },
+    {
+      "name": "1 PC",
+      "price": "8.6"
+    },
+    {
+      "name": "1PC",
+      "price": "49.9"
+    },
+    {
+      "name": "1PC",
+      "price": "0.0"
+    },
+    {
+      "name": "1PC",
+      "price": "49.9"
+    },
+    {
+      "name": "20PC",
+      "price": "10.9"
+    },
+    {
+      "name": "20PC",
+      "price": "0.0"
+    },
+    {
+      "name": "20PC",
+      "price": "218.0"
+    },
+    {
+      "name": "1 PC",
+      "price": "1.0"
+    },
+    {
+      "name": "1 PC",
+      "price": "0.0"
+    },
+    {
+      "name": "1 PC",
+      "price": "1.0"
+    },
+    {
+      "name": "1PC",
+      "price": "22.9"
+    },
+    {
+      "name": "1PC",
+      "price": "0.0"
+    },
+    {
+      "name": "1PC",
+      "price": "22.9"
+    },
+    {
+      "name": "6 PC",
+      "price": "6.0"
+    },
+    {
+      "name": "6 PC",
+      "price": "0.0"
+    },
+    {
+      "name": "6 PC",
+      "price": "36.0"
+    },
+    {
+      "name": "1PC",
+      "price": "19.9"
+    },
+    {
+      "name": "1PC",
+      "price": "0.0"
+    },
+    {
+      "name": "1PC",
+      "price": "19.9"
+    },
+    {
+      "name": "GST 6",
+      "price": "20.79"
+    },
+    {
+      "name": "Service Charge",
+      "price": "0.0"
+    },
+    {
+      "name": "Rounding Adjustment",
+      "price": "0.0"
+    },
+    {
+      "name": "Credit Card",
+      "price": "367.3"
+    },
+    {
+      "name": "SR@6",
+      "price": "346.51"
+    },
+    {
+      "name": "SR@6",
+      "price": "20.79"
+    }
+  ],
+  "total_amount": {
+    "value": 346.51,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

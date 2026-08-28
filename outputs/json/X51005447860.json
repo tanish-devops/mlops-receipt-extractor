@@ -1,0 +1,43 @@
+{
+  "store_name": {
+    "value": "AEON CO.MBHD126926-H",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "1x000004089728",
+      "price": "5.9"
+    },
+    {
+      "name": "1x000007572029",
+      "price": "5.9"
+    },
+    {
+      "name": "1x000006731878",
+      "price": "5.9"
+    },
+    {
+      "name": "Iten Count 3",
+      "price": "33.0"
+    },
+    {
+      "name": "SR@6",
+      "price": "16.71"
+    },
+    {
+      "name": "SR@6",
+      "price": "0.99"
+    }
+  ],
+  "total_amount": {
+    "value": 17.7,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

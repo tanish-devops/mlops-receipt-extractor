@@ -1,0 +1,35 @@
+{
+  "store_name": {
+    "value": "BEYOND BROTHERS HARDWARE",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "05/02/2018",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "USER",
+      "price": "14.0"
+    },
+    {
+      "name": "Rounding",
+      "price": "0.0"
+    },
+    {
+      "name": "360",
+      "price": "60.0"
+    },
+    {
+      "name": "360",
+      "price": "60.0"
+    }
+  ],
+  "total_amount": {
+    "value": 60.0,
+    "confidence": 0.73,
+    "is_low_confidence": false
+  }
+}

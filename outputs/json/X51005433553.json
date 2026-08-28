@@ -1,0 +1,51 @@
+{
+  "store_name": {
+    "value": "YHM Aeon Tebrau City",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "FG-A00019",
+      "price": "1.5"
+    },
+    {
+      "name": "FG-A00019",
+      "price": "1.5"
+    },
+    {
+      "name": "FG-H00001",
+      "price": "8.8"
+    },
+    {
+      "name": "FG-H00001",
+      "price": "8.8"
+    },
+    {
+      "name": "FG-H00100",
+      "price": "2.8"
+    },
+    {
+      "name": "FG-H00100",
+      "price": "2.0"
+    },
+    {
+      "name": "SubTeta",
+      "price": "13.1"
+    },
+    {
+      "name": "Payment Details",
+      "price": "20.1"
+    }
+  ],
+  "total_amount": {
+    "value": 13.1,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

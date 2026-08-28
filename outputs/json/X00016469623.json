@@ -1,0 +1,67 @@
+{
+  "store_name": {
+    "value": "tan woon yann",
+    "confidence": 1.0,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "18-11-1813",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "9556916500133",
+      "price": "3.11"
+    },
+    {
+      "name": "9556916500133",
+      "price": "3.11"
+    },
+    {
+      "name": "95559165001260",
+      "price": "4.62"
+    },
+    {
+      "name": "95559165001260",
+      "price": "4.62"
+    },
+    {
+      "name": "079567600084",
+      "price": "11.23"
+    },
+    {
+      "name": "9555651400385",
+      "price": "7.45"
+    },
+    {
+      "name": "9555651400385",
+      "price": "7.45"
+    },
+    {
+      "name": "9090822",
+      "price": "4.5"
+    },
+    {
+      "name": "9090822",
+      "price": "4.5"
+    },
+    {
+      "name": "ROUNDING ADJUSTMENT",
+      "price": "30.91"
+    },
+    {
+      "name": "ROUNDING ADJUSTMENT",
+      "price": "0.01"
+    },
+    {
+      "name": "ROUNDING ADJUSTMENT",
+      "price": "30.9"
+    }
+  ],
+  "total_amount": {
+    "value": 30.91,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

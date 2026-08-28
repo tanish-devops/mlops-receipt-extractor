@@ -1,0 +1,43 @@
+{
+  "store_name": {
+    "value": "TRI SHAAS SDN BHD 728515-M",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "13/03/2017",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "Rounding Adjustment",
+      "price": "5.0"
+    },
+    {
+      "name": "Rounding Adjustment",
+      "price": "0.0"
+    },
+    {
+      "name": "S=6",
+      "price": "4.72"
+    },
+    {
+      "name": "0",
+      "price": "0.28"
+    },
+    {
+      "name": "0",
+      "price": "0.0"
+    },
+    {
+      "name": "0",
+      "price": "0.0"
+    }
+  ],
+  "total_amount": {
+    "value": 5.0,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

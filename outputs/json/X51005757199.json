@@ -1,0 +1,35 @@
+{
+  "store_name": {
+    "value": "POPULAR BOOK",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "01/03/1812",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "W/ENV4.5*9.5",
+      "price": "1.9"
+    },
+    {
+      "name": "Uni P&S Env 4.5X9.75",
+      "price": "2.1"
+    },
+    {
+      "name": "T6",
+      "price": "3.77"
+    },
+    {
+      "name": "T6",
+      "price": "0.23"
+    }
+  ],
+  "total_amount": {
+    "value": 4.0,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

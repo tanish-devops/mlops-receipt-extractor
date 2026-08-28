@@ -1,0 +1,59 @@
+{
+  "store_name": {
+    "value": "VIVOPAC MARKETING SDN BHD 1070687-M",
+    "confidence": 0.97,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "1.00PKT",
+      "price": "8.0"
+    },
+    {
+      "name": "1.00PKT",
+      "price": "8.0"
+    },
+    {
+      "name": "1.00PKT",
+      "price": "6.0"
+    },
+    {
+      "name": "2.0OROLL",
+      "price": "1.5"
+    },
+    {
+      "name": "2.0OROLL",
+      "price": "3.0"
+    },
+    {
+      "name": "Item Count:4",
+      "price": "5.0"
+    },
+    {
+      "name": "GST6",
+      "price": "1.07"
+    },
+    {
+      "name": "Rounding Adj",
+      "price": "0.02"
+    },
+    {
+      "name": "SR@6",
+      "price": "17.75"
+    },
+    {
+      "name": "SR@6",
+      "price": "1.07"
+    }
+  ],
+  "total_amount": {
+    "value": 17.75,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

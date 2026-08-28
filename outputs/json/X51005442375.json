@@ -1,0 +1,43 @@
+{
+  "store_name": {
+    "value": "UNIHAKKA INTERNATIONAL SDN BHD",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "SR 100100000057-Fried N00dle(L",
+      "price": "3.0"
+    },
+    {
+      "name": "SR 100100000057-Fried N00dle(L",
+      "price": "3.0"
+    },
+    {
+      "name": "Payment Mode",
+      "price": "8.5"
+    },
+    {
+      "name": "Amount",
+      "price": "8.5"
+    },
+    {
+      "name": "SR-GST@6",
+      "price": "8.02"
+    },
+    {
+      "name": "SR-GST@6",
+      "price": "0.48"
+    }
+  ],
+  "total_amount": {
+    "value": 8.5,
+    "confidence": 0.72,
+    "is_low_confidence": false
+  }
+}

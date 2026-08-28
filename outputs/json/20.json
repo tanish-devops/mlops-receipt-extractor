@@ -1,0 +1,119 @@
+{
+  "store_name": {
+    "value": "NDOLLAR TREE",
+    "confidence": 0.92,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "9/17/22",
+    "confidence": 1.0,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "BANBOO CHARCOAL TOOTHBRUSH",
+      "price": "1.0"
+    },
+    {
+      "name": "BANBOO CHARCOAL TOOTHBRUSH",
+      "price": "1.0"
+    },
+    {
+      "name": "SP STICK ACTIVE DEO 1.8Z",
+      "price": "1.0"
+    },
+    {
+      "name": "SP STICK ACTIVE DEO 1.8Z",
+      "price": "1.0"
+    },
+    {
+      "name": "SP STICK ACTIVE DEO 1.8Z",
+      "price": "1.0"
+    },
+    {
+      "name": "SP STICK ACTIVE DEO 1.8Z",
+      "price": "1.0"
+    },
+    {
+      "name": "SP STICK ACTIVE DEO 1.8Z",
+      "price": "1.0"
+    },
+    {
+      "name": "SP STICK ACTIVE DEO 1.8Z",
+      "price": "1.0"
+    },
+    {
+      "name": "SP STICK ACTIVE DEO 1.8Z",
+      "price": "1.0"
+    },
+    {
+      "name": "SP STICK ACTIVE DEO 1.8Z",
+      "price": "1.0"
+    },
+    {
+      "name": "SPEED STCK A/P OLT sPRT 1.82",
+      "price": "1.0"
+    },
+    {
+      "name": "SPEED STCK A/P OLT sPRT 1.82",
+      "price": "1.0"
+    },
+    {
+      "name": "SPEED STCK A/P OLT sPRT 1.82",
+      "price": "1.0"
+    },
+    {
+      "name": "SPEED STCK A/P OLT sPRT 1.82",
+      "price": "1.0"
+    },
+    {
+      "name": "BANBOO CHARCOAL TOOTHBRUSH",
+      "price": "1.0"
+    },
+    {
+      "name": "BANBOO CHARCOAL TOOTHBRUSH",
+      "price": "1.0"
+    },
+    {
+      "name": "BANBOO CHARCOAL TOOTHBRUSH",
+      "price": "1.0"
+    },
+    {
+      "name": "BANBOO CHARCOAL TOOTHBRUSH",
+      "price": "1.0"
+    },
+    {
+      "name": "BANBOO CHARCOAL TOOTHBRUSH",
+      "price": "1.0"
+    },
+    {
+      "name": "BAHBOO CHARCOAL TOOTHBRUSH",
+      "price": "1.0"
+    },
+    {
+      "name": "BAMBOO CHARCOAL TOOTHBRUSH",
+      "price": "1.0"
+    },
+    {
+      "name": "BAMBOO CHARCOAL TOOTHBRUSH",
+      "price": "1.0"
+    },
+    {
+      "name": "BAMBOO CHARCOAL TOOTHBRUSH",
+      "price": "24.0"
+    },
+    {
+      "name": "FIFTHTHIRD DEBIT",
+      "price": "25.44"
+    },
+    {
+      "name": "FIFTHTHIRD DEBIT",
+      "price": "25.44"
+    }
+  ],
+  "total_amount": {
+    "value": 24.0,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

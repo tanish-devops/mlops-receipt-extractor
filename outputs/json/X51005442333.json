@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "UNIHAKKA INTERNATIONAL SDN BHD",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "SR 100100000015-Vegetable",
+      "price": "1.1"
+    },
+    {
+      "name": "SR 100100000015-Vegetable",
+      "price": "2.2"
+    },
+    {
+      "name": "Amount",
+      "price": "6.9"
+    },
+    {
+      "name": "Payment Mode",
+      "price": "6.9"
+    },
+    {
+      "name": "038",
+      "price": "6.51"
+    }
+  ],
+  "total_amount": {
+    "value": 6.9,
+    "confidence": 0.74,
+    "is_low_confidence": false
+  }
+}

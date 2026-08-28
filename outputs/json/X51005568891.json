@@ -1,0 +1,127 @@
+{
+  "store_name": {
+    "value": "HON HWA HARDWARE TRADING",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "21TOWELROD",
+      "price": "6.0"
+    },
+    {
+      "name": "21TOWELROD",
+      "price": "12.0"
+    },
+    {
+      "name": "23/4TOWELROD",
+      "price": "4.0"
+    },
+    {
+      "name": "23/4TOWELROD",
+      "price": "8.0"
+    },
+    {
+      "name": "53/4TOWELROD",
+      "price": "4.0"
+    },
+    {
+      "name": "53/4TOWELROD",
+      "price": "20.0"
+    },
+    {
+      "name": "43/4TOWELROD",
+      "price": "5.5"
+    },
+    {
+      "name": "43/4TOWELROD",
+      "price": "22.0"
+    },
+    {
+      "name": "125MMX10WALLPLUG",
+      "price": "3.5"
+    },
+    {
+      "name": "125MMX10WALLPLUG",
+      "price": "3.5"
+    },
+    {
+      "name": "1SANDFLEXSAW",
+      "price": "4.5"
+    },
+    {
+      "name": "1SANDFLEXSAW",
+      "price": "4.5"
+    },
+    {
+      "name": "1SCREW",
+      "price": "7.0"
+    },
+    {
+      "name": "1SCREW",
+      "price": "7.0"
+    },
+    {
+      "name": "53/4VBRACKET",
+      "price": "1.5"
+    },
+    {
+      "name": "53/4VBRACKET",
+      "price": "7.5"
+    },
+    {
+      "name": "61S/STEELROD",
+      "price": "15.8"
+    },
+    {
+      "name": "61S/STEELROD",
+      "price": "94.8"
+    },
+    {
+      "name": "Item Dscount",
+      "price": "0.0"
+    },
+    {
+      "name": "173/4ALUMNUMROD",
+      "price": "5.8"
+    },
+    {
+      "name": "173/4ALUMNUMROD",
+      "price": "98.6"
+    },
+    {
+      "name": "44Type10",
+      "price": "277.9"
+    },
+    {
+      "name": "Discount",
+      "price": "0.9"
+    },
+    {
+      "name": "Rounding Adj",
+      "price": "0.0"
+    },
+    {
+      "name": "Tolal",
+      "price": "261.32"
+    },
+    {
+      "name": "Tolal",
+      "price": "15.68"
+    },
+    {
+      "name": "Tolal",
+      "price": "277.0"
+    }
+  ],
+  "total_amount": {
+    "value": 277.9,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

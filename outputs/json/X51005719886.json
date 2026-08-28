@@ -1,0 +1,43 @@
+{
+  "store_name": {
+    "value": "SUNFISH",
+    "confidence": 1.0,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "SALTED F.RICE",
+      "price": "8.5"
+    },
+    {
+      "name": "eFRIED EGG",
+      "price": "1.8"
+    },
+    {
+      "name": "NASI LEMAK DRUMSTICK",
+      "price": "9.8"
+    },
+    {
+      "name": "SOYA CINCAU",
+      "price": "4.3"
+    },
+    {
+      "name": "LARGE/ ICE TEA",
+      "price": "4.3"
+    },
+    {
+      "name": "INC 6%GST",
+      "price": "1.62"
+    }
+  ],
+  "total_amount": {
+    "value": 28.7,
+    "confidence": 1.0,
+    "is_low_confidence": false
+  }
+}

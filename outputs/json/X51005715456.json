@@ -1,0 +1,31 @@
+{
+  "store_name": {
+    "value": "3-1708032",
+    "confidence": 1.0,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "22/03/2018",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "Discount",
+      "price": "0.0"
+    },
+    {
+      "name": "Totai GsT",
+      "price": "5.76"
+    },
+    {
+      "name": "Rounding",
+      "price": "0.01"
+    }
+  ],
+  "total_amount": {
+    "value": 96.0,
+    "confidence": 1.0,
+    "is_low_confidence": false
+  }
+}

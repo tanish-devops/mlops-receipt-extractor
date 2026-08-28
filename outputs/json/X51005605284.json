@@ -1,0 +1,51 @@
+{
+  "store_name": {
+    "value": "ADVANCO COMPANY",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "5 27499",
+      "price": "11.0"
+    },
+    {
+      "name": "5 27499",
+      "price": "55.0"
+    },
+    {
+      "name": "Item Discount",
+      "price": "0.2"
+    },
+    {
+      "name": "Item Discount",
+      "price": "1.0"
+    },
+    {
+      "name": "1 27736",
+      "price": "29.0"
+    },
+    {
+      "name": "1 27736",
+      "price": "29.0"
+    },
+    {
+      "name": "6 Type",
+      "price": "84.0"
+    },
+    {
+      "name": "Rounding Adj",
+      "price": "0.0"
+    }
+  ],
+  "total_amount": {
+    "value": 84.0,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

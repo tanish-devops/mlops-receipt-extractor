@@ -1,0 +1,71 @@
+{
+  "store_name": {
+    "value": "RESTAURANT",
+    "confidence": 1.0,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "1NY STRIP",
+      "price": "67.67"
+    },
+    {
+      "name": "NY STRIP",
+      "price": "67.67"
+    },
+    {
+      "name": "NY STRIP",
+      "price": "67.67"
+    },
+    {
+      "name": "ICE LATTE",
+      "price": "9.35"
+    },
+    {
+      "name": "7UP",
+      "price": "9.35"
+    },
+    {
+      "name": "PEPSI",
+      "price": "9.35"
+    },
+    {
+      "name": "10%Srv Chg",
+      "price": "23.1"
+    },
+    {
+      "name": "GST @6",
+      "price": "15.25"
+    },
+    {
+      "name": "GST @6",
+      "price": "269.4"
+    },
+    {
+      "name": "S-GST6",
+      "price": "254.17"
+    },
+    {
+      "name": "S-GST6",
+      "price": "15.25"
+    },
+    {
+      "name": "Z=GST 00",
+      "price": "0.0"
+    },
+    {
+      "name": "Z=GST 00",
+      "price": "0.0"
+    }
+  ],
+  "total_amount": {
+    "value": 231.06,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

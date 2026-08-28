@@ -1,0 +1,67 @@
+{
+  "store_name": {
+    "value": "ASIA MART",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "22/12/2017",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "9556641320027",
+      "price": "0.9"
+    },
+    {
+      "name": "9556231110045",
+      "price": "3.55"
+    },
+    {
+      "name": "9556231110045",
+      "price": "3.55"
+    },
+    {
+      "name": "9556231110045",
+      "price": "3.55"
+    },
+    {
+      "name": "9556127101331",
+      "price": "1.5"
+    },
+    {
+      "name": "230",
+      "price": "2.44"
+    },
+    {
+      "name": "230",
+      "price": "2.44"
+    },
+    {
+      "name": "955657031213",
+      "price": "2.74"
+    },
+    {
+      "name": "955657031213",
+      "price": "2.9"
+    },
+    {
+      "name": "Discount",
+      "price": "0.0"
+    },
+    {
+      "name": "Rounding",
+      "price": "0.02"
+    },
+    {
+      "name": "Ttal Sales (Inclusive of GsT",
+      "price": "32.7"
+    }
+  ],
+  "total_amount": {
+    "value": 31.03,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

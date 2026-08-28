@@ -1,0 +1,43 @@
+{
+  "store_name": {
+    "value": "POTTERS GARDEN SDN BHD",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "AA00007 PLASTIC PLATE",
+      "price": "1.0"
+    },
+    {
+      "name": "2@7.90",
+      "price": "15.8"
+    },
+    {
+      "name": "AA00016 PLANT",
+      "price": "16.0"
+    },
+    {
+      "name": "AA00016 PLANT",
+      "price": "7.0"
+    },
+    {
+      "name": "SR Inclusive GST 6",
+      "price": "37.54"
+    },
+    {
+      "name": "SR Inclusive GST 6",
+      "price": "2.26"
+    }
+  ],
+  "total_amount": {
+    "value": 39.8,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "99SPEEDMART5/B519537-X",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "03-02-18",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "7094 NEOBUN PLASTER 1OPCS",
+      "price": "3.2"
+    },
+    {
+      "name": "21",
+      "price": "3.49"
+    }
+  ],
+  "total_amount": {
+    "value": 3.7,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

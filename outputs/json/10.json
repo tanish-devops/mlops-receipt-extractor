@@ -1,0 +1,115 @@
+{
+  "store_name": {
+    "value": "SPAR",
+    "confidence": 1.0,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "LAZENBY WORCESTER SAUCE 125ML",
+      "price": "17.99"
+    },
+    {
+      "name": "80GR",
+      "price": "16.99"
+    },
+    {
+      "name": "500GR",
+      "price": "33.99"
+    },
+    {
+      "name": "400G",
+      "price": "82.99"
+    },
+    {
+      "name": "1KG",
+      "price": "44.99"
+    },
+    {
+      "name": "375ML",
+      "price": "14.99"
+    },
+    {
+      "name": "1'S",
+      "price": "12.99"
+    },
+    {
+      "name": "85GR",
+      "price": "20.99"
+    },
+    {
+      "name": "80GR",
+      "price": "16.99"
+    },
+    {
+      "name": "TUB",
+      "price": "24.99"
+    },
+    {
+      "name": "500GR",
+      "price": "11.99"
+    },
+    {
+      "name": "270GR",
+      "price": "27.99"
+    },
+    {
+      "name": "1'S",
+      "price": "0.75"
+    },
+    {
+      "name": "kg",
+      "price": "15.99"
+    },
+    {
+      "name": "kg",
+      "price": "9.53"
+    },
+    {
+      "name": "FOR 14 ITEMS",
+      "price": "338.16"
+    },
+    {
+      "name": "TENDERED Nedbank",
+      "price": "338.16"
+    },
+    {
+      "name": "0.00",
+      "price": "119.48"
+    },
+    {
+      "name": "0.00",
+      "price": "0.0"
+    },
+    {
+      "name": "0.00",
+      "price": "119.48"
+    },
+    {
+      "name": "15.00",
+      "price": "190.16"
+    },
+    {
+      "name": "15.00",
+      "price": "28.52"
+    },
+    {
+      "name": "15.00",
+      "price": "218.68"
+    },
+    {
+      "name": "101",
+      "price": "23.02"
+    }
+  ],
+  "total_amount": {
+    "value": 338.16,
+    "confidence": 0.54,
+    "is_low_confidence": true
+  }
+}

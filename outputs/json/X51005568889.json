@@ -1,0 +1,43 @@
+{
+  "store_name": {
+    "value": "HON HWA HARDWARE TRADING",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "383/4ALUMINIUMROD",
+      "price": "5.8"
+    },
+    {
+      "name": "383/4ALUMINIUMROD",
+      "price": "19.6"
+    },
+    {
+      "name": "Item Discount",
+      "price": "0.0"
+    },
+    {
+      "name": "Tolal",
+      "price": "19.6"
+    },
+    {
+      "name": "Discount",
+      "price": "0.0"
+    },
+    {
+      "name": "RoundingAdj",
+      "price": "0.0"
+    }
+  ],
+  "total_amount": {
+    "value": 19.6,
+    "confidence": 0.74,
+    "is_low_confidence": false
+  }
+}

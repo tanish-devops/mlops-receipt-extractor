@@ -1,0 +1,35 @@
+{
+  "store_name": {
+    "value": "baskinBRrobbiNs",
+    "confidence": 0.95,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "Double Rg.Cup",
+      "price": "20.0"
+    },
+    {
+      "name": "Double Rg.Cup",
+      "price": "20.0"
+    },
+    {
+      "name": "6.0",
+      "price": "20.28"
+    },
+    {
+      "name": "6.0",
+      "price": "1.22"
+    }
+  ],
+  "total_amount": {
+    "value": 21.5,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

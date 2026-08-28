@@ -1,0 +1,51 @@
+{
+  "store_name": {
+    "value": "BREWERYTAF",
+    "confidence": 0.97,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "30/03/2018",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "Tiger 2 Bucket -HH",
+      "price": "95.0"
+    },
+    {
+      "name": "Chicken wings",
+      "price": "22.0"
+    },
+    {
+      "name": "French Fries",
+      "price": "12.0"
+    },
+    {
+      "name": "TigerEucket-HH",
+      "price": "50.0"
+    },
+    {
+      "name": "GST6",
+      "price": "10.74"
+    },
+    {
+      "name": "Rounding Adj",
+      "price": "0.01"
+    },
+    {
+      "name": "SR:GST",
+      "price": "179.0"
+    },
+    {
+      "name": "SR:GST",
+      "price": "10.74"
+    }
+  ],
+  "total_amount": {
+    "value": 179.0,
+    "confidence": 0.74,
+    "is_low_confidence": false
+  }
+}

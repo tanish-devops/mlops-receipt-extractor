@@ -1,0 +1,47 @@
+{
+  "store_name": {
+    "value": "DOllaR TREE STOREs,INC",
+    "confidence": 0.89,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "2/20/1419",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "CONDITIONER",
+      "price": "1.0"
+    },
+    {
+      "name": "CONDITIONER",
+      "price": "1.0"
+    },
+    {
+      "name": "GINSENG TA3 50OMG",
+      "price": "1.0"
+    },
+    {
+      "name": "GINSENG TA3 50OMG",
+      "price": "1.0"
+    },
+    {
+      "name": "GENERAL EXEM",
+      "price": "10.0"
+    },
+    {
+      "name": "GENERAL EXEM",
+      "price": "0.0"
+    },
+    {
+      "name": "GENERAL EXEM",
+      "price": "0.21"
+    }
+  ],
+  "total_amount": {
+    "value": 10.0,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

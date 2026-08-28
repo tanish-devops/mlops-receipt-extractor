@@ -1,0 +1,35 @@
+{
+  "store_name": {
+    "value": "MR.D.I.YMSON BHD",
+    "confidence": 0.96,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "25-03-1818",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "9555493002853",
+      "price": "26.9"
+    },
+    {
+      "name": "9555493002853",
+      "price": "26.9"
+    },
+    {
+      "name": "9034713",
+      "price": "23.9"
+    },
+    {
+      "name": "9034713",
+      "price": "23.9"
+    }
+  ],
+  "total_amount": {
+    "value": 50.8,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

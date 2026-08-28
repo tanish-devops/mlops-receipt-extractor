@@ -1,0 +1,31 @@
+{
+  "store_name": {
+    "value": "KEDA",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "1C50",
+      "price": "17.49"
+    },
+    {
+      "name": "Discount",
+      "price": "0.0"
+    },
+    {
+      "name": "Rounding",
+      "price": "0.0"
+    }
+  ],
+  "total_amount": {
+    "value": 295.0,
+    "confidence": 1.0,
+    "is_low_confidence": false
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "store_name": {
+    "value": "99SPEEDMARTS/B519537-X",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "17-02-18",
+    "confidence": 1.0,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "483 CARLSBERG CAN 4*6*320ML",
+      "price": "106.5"
+    },
+    {
+      "name": "2101 CARLSBERG SMOOTH DRAUG",
+      "price": "106.5"
+    },
+    {
+      "name": "S=6",
+      "price": "200.94"
+    },
+    {
+      "name": "S=6",
+      "price": "12.06"
+    }
+  ],
+  "total_amount": {
+    "value": 213.0,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

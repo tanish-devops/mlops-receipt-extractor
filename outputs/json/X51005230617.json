@@ -1,0 +1,31 @@
+{
+  "store_name": {
+    "value": "Gerbang Alaf Restaurants Sdn Bhd",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "19-18/01",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "2ChicMcMuffin",
+      "price": "11.0"
+    },
+    {
+      "name": "1 M Porridge",
+      "price": "5.6"
+    },
+    {
+      "name": "1 BM 2HotCakes",
+      "price": "10.0"
+    }
+  ],
+  "total_amount": {
+    "value": 26.6,
+    "confidence": 1.0,
+    "is_low_confidence": false
+  }
+}

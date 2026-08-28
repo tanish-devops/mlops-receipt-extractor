@@ -1,0 +1,18 @@
+{
+  "store_name": {
+    "value": "TEO HENG STATIONERY S BOOKS",
+    "confidence": 0.97,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "29/01/2018",
+    "confidence": 1.0,
+    "is_low_confidence": false
+  },
+  "items": [],
+  "total_amount": {
+    "value": 1.0,
+    "confidence": 1.0,
+    "is_low_confidence": false
+  }
+}

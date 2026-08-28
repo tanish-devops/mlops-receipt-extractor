@@ -1,0 +1,47 @@
+{
+  "store_name": {
+    "value": "MR.D.I.YKUCHAISDN BHD",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "41-71-10",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "9001620",
+      "price": "29.9"
+    },
+    {
+      "name": "9001620",
+      "price": "29.9"
+    },
+    {
+      "name": "9071246",
+      "price": "2.5"
+    },
+    {
+      "name": "6909906163107",
+      "price": "3.3"
+    },
+    {
+      "name": "6909906163107",
+      "price": "3.3"
+    },
+    {
+      "name": "GST S@6",
+      "price": "35.66"
+    },
+    {
+      "name": "GST S@6",
+      "price": "2.14"
+    }
+  ],
+  "total_amount": {
+    "value": 37.8,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

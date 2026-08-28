@@ -1,0 +1,35 @@
+{
+  "store_name": {
+    "value": "erbang Alaf Restaurants Sdn Bhd",
+    "confidence": 0.97,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "19-02/03",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "1L McChicken",
+      "price": "11.1"
+    },
+    {
+      "name": "16Nuggets",
+      "price": "7.5"
+    },
+    {
+      "name": "1AyamGoreng(TA",
+      "price": "9.9"
+    },
+    {
+      "name": "Che",
+      "price": "21.5"
+    }
+  ],
+  "total_amount": {
+    "value": 28.5,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

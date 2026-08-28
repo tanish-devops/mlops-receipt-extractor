@@ -1,0 +1,55 @@
+{
+  "store_name": {
+    "value": "KIKUJAPANESE RESTAURANT",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "BEN02",
+      "price": "12.9"
+    },
+    {
+      "name": "BEN02",
+      "price": "0.0"
+    },
+    {
+      "name": "BEN02",
+      "price": "12.9"
+    },
+    {
+      "name": "Set10",
+      "price": "6.9"
+    },
+    {
+      "name": "Set10",
+      "price": "0.0"
+    },
+    {
+      "name": "Set10",
+      "price": "6.9"
+    },
+    {
+      "name": "TS02 Kat",
+      "price": "9.9"
+    },
+    {
+      "name": "Service Charge",
+      "price": "0.0"
+    },
+    {
+      "name": "Rounding Ad justment",
+      "price": "0.0"
+    }
+  ],
+  "total_amount": {
+    "value": 29.7,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "store_name": {
+    "value": "3i803060",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "2-5/100",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "9074624",
+      "price": "19.9"
+    },
+    {
+      "name": "9074624",
+      "price": "19.9"
+    },
+    {
+      "name": "9180501",
+      "price": "0.8"
+    },
+    {
+      "name": "9180501",
+      "price": "0.8"
+    }
+  ],
+  "total_amount": {
+    "value": 28.0,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "store_name": {
+    "value": "RESTORAN WAN SHENG",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "1 x",
+      "price": "2.2"
+    },
+    {
+      "name": "1 x",
+      "price": "1.7"
+    },
+    {
+      "name": "4 x",
+      "price": "0.2"
+    },
+    {
+      "name": "Tota1 Excluding GST",
+      "price": "8.59"
+    },
+    {
+      "name": "GST payable 6",
+      "price": "0.51"
+    },
+    {
+      "name": "6",
+      "price": "8.59"
+    },
+    {
+      "name": "6",
+      "price": "0.51"
+    }
+  ],
+  "total_amount": {
+    "value": 9.1,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

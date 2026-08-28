@@ -1,0 +1,35 @@
+{
+  "store_name": {
+    "value": "HOME MASTER HARDWARE",
+    "confidence": 0.97,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "Tota Incl.ofGST",
+      "price": "15.9"
+    },
+    {
+      "name": "Payment",
+      "price": "50.0"
+    },
+    {
+      "name": "6",
+      "price": "15.0"
+    },
+    {
+      "name": "6",
+      "price": "0.9"
+    }
+  ],
+  "total_amount": {
+    "value": 15.9,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "store_name": {
+    "value": "HONHWA HARDWARETRADING",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "5PVCWALLPLUG",
+      "price": "1.0"
+    },
+    {
+      "name": "5PVCWALLPLUG",
+      "price": "5.0"
+    },
+    {
+      "name": "5Type",
+      "price": "5.0"
+    },
+    {
+      "name": "Rounding Adj",
+      "price": "0.0"
+    }
+  ],
+  "total_amount": {
+    "value": 5.0,
+    "confidence": 0.7,
+    "is_low_confidence": false
+  }
+}

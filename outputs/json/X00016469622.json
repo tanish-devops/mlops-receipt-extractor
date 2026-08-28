@@ -1,0 +1,35 @@
+{
+  "store_name": {
+    "value": "tan woon yann",
+    "confidence": 1.0,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "USER",
+      "price": "1231.0"
+    },
+    {
+      "name": "TolaGST",
+      "price": "0.0"
+    },
+    {
+      "name": "80.90",
+      "price": "100.0"
+    },
+    {
+      "name": "80.90",
+      "price": "19.1"
+    }
+  ],
+  "total_amount": {
+    "value": 80.91,
+    "confidence": 0.73,
+    "is_low_confidence": false
+  }
+}

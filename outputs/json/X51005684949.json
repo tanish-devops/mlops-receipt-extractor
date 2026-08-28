@@ -1,0 +1,31 @@
+{
+  "store_name": {
+    "value": "WESIERN EASTERN",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "GSTTAAMT",
+      "price": "7.0"
+    },
+    {
+      "name": "ROUNDING",
+      "price": "0.02"
+    },
+    {
+      "name": "ROUNDING",
+      "price": "7.4"
+    }
+  ],
+  "total_amount": {
+    "value": 7.42,
+    "confidence": 0.7,
+    "is_low_confidence": false
+  }
+}

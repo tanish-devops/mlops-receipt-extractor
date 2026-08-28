@@ -1,0 +1,75 @@
+{
+  "store_name": {
+    "value": "PASARAYA BORONG PINTAR",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "WALK",
+      "price": "1.2"
+    },
+    {
+      "name": "WALK",
+      "price": "1.2"
+    },
+    {
+      "name": "WALK",
+      "price": "1.2"
+    },
+    {
+      "name": "WALK",
+      "price": "1.9"
+    },
+    {
+      "name": "WALK",
+      "price": "1.9"
+    },
+    {
+      "name": "WALK",
+      "price": "1.9"
+    },
+    {
+      "name": "WALK",
+      "price": "2.7"
+    },
+    {
+      "name": "WALK",
+      "price": "2.7"
+    },
+    {
+      "name": "ZRL",
+      "price": "2.7"
+    },
+    {
+      "name": "WALK",
+      "price": "4.6"
+    },
+    {
+      "name": "WALK",
+      "price": "4.6"
+    },
+    {
+      "name": "WALK",
+      "price": "4.6"
+    },
+    {
+      "name": "ZRL=0",
+      "price": "10.4"
+    },
+    {
+      "name": "ZRL=0",
+      "price": "0.0"
+    }
+  ],
+  "total_amount": {
+    "value": 4.0,
+    "confidence": 0.72,
+    "is_low_confidence": false
+  }
+}

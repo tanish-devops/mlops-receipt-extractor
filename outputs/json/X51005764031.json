@@ -1,0 +1,51 @@
+{
+  "store_name": {
+    "value": "SUPER SEVEN CASH & CARRY SDN 3HD",
+    "confidence": 0.97,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "01-02-2018",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "LADY CHOICE 3LTARTAR SAUC",
+      "price": "35.5"
+    },
+    {
+      "name": "9556024001383",
+      "price": "35.5"
+    },
+    {
+      "name": "SAYUR RMT.00",
+      "price": "1.0"
+    },
+    {
+      "name": "SAYUP.RMT.00",
+      "price": "1.0"
+    },
+    {
+      "name": "SR6",
+      "price": "33.49"
+    },
+    {
+      "name": "SR6",
+      "price": "2.01"
+    },
+    {
+      "name": "ZR10",
+      "price": "6.6"
+    },
+    {
+      "name": "ZR10",
+      "price": "0.0"
+    }
+  ],
+  "total_amount": {
+    "value": 42.1,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

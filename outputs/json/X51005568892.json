@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "EVERGREENLIGHT SDNBHD",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "11598",
+      "price": "12.26"
+    },
+    {
+      "name": "11598",
+      "price": "24.57"
+    },
+    {
+      "name": "TOIGETE",
+      "price": "1.47"
+    },
+    {
+      "name": "ROUNDING ADILET",
+      "price": "0.01"
+    },
+    {
+      "name": "8RE-6",
+      "price": "34.52"
+    }
+  ],
+  "total_amount": {
+    "value": 24.52,
+    "confidence": 0.71,
+    "is_low_confidence": false
+  }
+}

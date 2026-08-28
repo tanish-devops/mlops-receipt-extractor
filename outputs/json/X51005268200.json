@@ -1,0 +1,31 @@
+{
+  "store_name": {
+    "value": "AIK HUAT HARDWAKE",
+    "confidence": 0.97,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "SUB-1OTAL GS",
+      "price": "15.0"
+    },
+    {
+      "name": "UISC",
+      "price": "0.0"
+    },
+    {
+      "name": "ROUNDING",
+      "price": "0.0"
+    }
+  ],
+  "total_amount": {
+    "value": 15.0,
+    "confidence": 1.0,
+    "is_low_confidence": false
+  }
+}

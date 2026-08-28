@@ -1,0 +1,43 @@
+{
+  "store_name": {
+    "value": "PETRON BKT LANJAN SB",
+    "confidence": 0.96,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "01/02/2018",
+    "confidence": 1.0,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "A2 double mint te",
+      "price": "3.0"
+    },
+    {
+      "name": "A1 sandwich vanill",
+      "price": "1.9"
+    },
+    {
+      "name": "GST RM",
+      "price": "0.28"
+    },
+    {
+      "name": "Tota1 RM inc.GST",
+      "price": "4.9"
+    },
+    {
+      "name": "A=6.00",
+      "price": "4.62"
+    },
+    {
+      "name": "A=6.00",
+      "price": "0.28"
+    }
+  ],
+  "total_amount": {
+    "value": 6.0,
+    "confidence": 0.54,
+    "is_low_confidence": true
+  }
+}

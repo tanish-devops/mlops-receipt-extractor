@@ -1,0 +1,59 @@
+{
+  "store_name": {
+    "value": "YONG TAT HARDWARE TRADING",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "2587",
+      "price": "48.0"
+    },
+    {
+      "name": "2587",
+      "price": "1.0"
+    },
+    {
+      "name": "5736",
+      "price": "1.0"
+    },
+    {
+      "name": "5736",
+      "price": "47.17"
+    },
+    {
+      "name": "18-3/412PCSHOLLOWPUNCHSET",
+      "price": "100.88"
+    },
+    {
+      "name": "Discount",
+      "price": "0.0"
+    },
+    {
+      "name": "Tota GST",
+      "price": "5.71"
+    },
+    {
+      "name": "Rounding",
+      "price": "0.02"
+    },
+    {
+      "name": "Rounding",
+      "price": "100.9"
+    },
+    {
+      "name": "Iax Code",
+      "price": "5.71"
+    }
+  ],
+  "total_amount": {
+    "value": 100.88,
+    "confidence": 0.74,
+    "is_low_confidence": false
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "store_name": {
+    "value": "32 PUB & BISTRO OWn by CNU TRADING",
+    "confidence": 0.96,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "11-03-2018",
+    "confidence": 1.0,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "GST Payable",
+      "price": "10.75"
+    },
+    {
+      "name": "6",
+      "price": "79.25"
+    },
+    {
+      "name": "6",
+      "price": "10.75"
+    }
+  ],
+  "total_amount": {
+    "value": 179.25,
+    "confidence": 1.0,
+    "is_low_confidence": false
+  }
+}

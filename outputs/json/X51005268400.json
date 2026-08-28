@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "RESTORAN HASSANBISTRO",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "GST 6",
+      "price": "15.0"
+    },
+    {
+      "name": "Rounding",
+      "price": "15.0"
+    }
+  ],
+  "total_amount": {
+    "value": 1.0,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

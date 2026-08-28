@@ -1,0 +1,31 @@
+{
+  "store_name": {
+    "value": "SAINT HEARTPASTRY",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "25/03/2018",
+    "confidence": 1.0,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "Discount",
+      "price": "0.0"
+    },
+    {
+      "name": "Service Charge",
+      "price": "0.0"
+    },
+    {
+      "name": "Rounding",
+      "price": "0.0"
+    }
+  ],
+  "total_amount": {
+    "value": 7.74,
+    "confidence": 1.0,
+    "is_low_confidence": false
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "store_name": {
+    "value": "POPULAR BOOK",
+    "confidence": 1.0,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "23/12/1715",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "Shoe White SW1101*2S",
+      "price": "4.29"
+    },
+    {
+      "name": "MR C.TAPE REF WH624R",
+      "price": "31.99"
+    },
+    {
+      "name": "KITKAT2FPM)17G",
+      "price": "1.35"
+    },
+    {
+      "name": "FC GRIP BPO.5 BLK PK",
+      "price": "4.2"
+    },
+    {
+      "name": "Member Discount",
+      "price": "0.42"
+    },
+    {
+      "name": "FC GRIP BPO.5 BLU PK",
+      "price": "4.2"
+    },
+    {
+      "name": "Member Discount",
+      "price": "0.42"
+    },
+    {
+      "name": "3M GlueStick 7gm 4's",
+      "price": "10.59"
+    },
+    {
+      "name": "STAT-PROMO SPECIAL",
+      "price": "3.69"
+    },
+    {
+      "name": "PU F/C B/L A4 450's",
+      "price": "16.99"
+    },
+    {
+      "name": "STAT-PROMO SPECIAL",
+      "price": "2.99"
+    },
+    {
+      "name": "PLUS stapler set 010E",
+      "price": "8.89"
+    },
+    {
+      "name": "STAT-PROMO SPECIAL",
+      "price": "3.89"
+    },
+    {
+      "name": "FC EXM.ERS 4S 187016",
+      "price": "3.9"
+    },
+    {
+      "name": "STAT-PROMO SPECIAL",
+      "price": "0.91"
+    },
+    {
+      "name": "S4 SUPER S M AKT SPM [BK",
+      "price": "9.9"
+    },
+    {
+      "name": "Rev-BTS Promotion",
+      "price": "1.49"
+    },
+    {
+      "name": "SUCCESS SPM ADD MATHS[BK",
+      "price": "37.0"
+    },
+    {
+      "name": "Rev-BTS Promotion",
+      "price": "7.4"
+    },
+    {
+      "name": "SUCCESS SPM SCI",
+      "price": "35.7"
+    },
+    {
+      "name": "Rev-BTS Promotion",
+      "price": "7.14"
+    },
+    {
+      "name": "Mastercard",
+      "price": "140.65"
+    },
+    {
+      "name": "T@6",
+      "price": "69.9"
+    },
+    {
+      "name": "T@6",
+      "price": "4.18"
+    },
+    {
+      "name": "Z@0",
+      "price": "66.57"
+    },
+    {
+      "name": "Z@0",
+      "price": "0.0"
+    }
+  ],
+  "total_amount": {
+    "value": 140.65,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

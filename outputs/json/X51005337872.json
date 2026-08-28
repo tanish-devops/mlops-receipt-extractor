@@ -1,0 +1,55 @@
+{
+  "store_name": {
+    "value": "SYL ROASTEDDELIGHTS SDN.BHD",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "06/03/2018",
+    "confidence": 1.0,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "1200",
+      "price": "12.0"
+    },
+    {
+      "name": "1.0",
+      "price": "12.0"
+    },
+    {
+      "name": "1.0",
+      "price": "12.0"
+    },
+    {
+      "name": "2.0",
+      "price": "2.3"
+    },
+    {
+      "name": "2.0",
+      "price": "4.6"
+    },
+    {
+      "name": "1.0",
+      "price": "11.9"
+    },
+    {
+      "name": "1.0",
+      "price": "11.9"
+    },
+    {
+      "name": "Discount",
+      "price": "0.0"
+    },
+    {
+      "name": "Rounding",
+      "price": "0.0"
+    }
+  ],
+  "total_amount": {
+    "value": 51.42,
+    "confidence": 0.74,
+    "is_low_confidence": false
+  }
+}

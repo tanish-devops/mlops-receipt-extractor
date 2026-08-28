@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "EAGLE ENTERPRISE",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "12089",
+      "price": "3.5"
+    },
+    {
+      "name": "12089",
+      "price": "7.0"
+    },
+    {
+      "name": "DISC",
+      "price": "0.0"
+    },
+    {
+      "name": "GST",
+      "price": "0.4"
+    },
+    {
+      "name": "ROUNDING",
+      "price": "0.0"
+    }
+  ],
+  "total_amount": {
+    "value": 6.6,
+    "confidence": 0.73,
+    "is_low_confidence": false
+  }
+}

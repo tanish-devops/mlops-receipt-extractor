@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "MRD.I.YSDNBHD",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "24-11-17",
+    "confidence": 0.96,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "GSTS@6",
+      "price": "3.68"
+    },
+    {
+      "name": "GSTS@6",
+      "price": "0.22"
+    }
+  ],
+  "total_amount": {
+    "value": 3.9,
+    "confidence": 1.0,
+    "is_low_confidence": false
+  }
+}

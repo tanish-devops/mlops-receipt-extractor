@@ -1,0 +1,79 @@
+{
+  "store_name": {
+    "value": "PASAR MINI JIN SENG",
+    "confidence": 0.95,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "18/03/1809",
+    "confidence": 0.97,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "VEGETABLES",
+      "price": "2.2"
+    },
+    {
+      "name": "LTK OMEGA PLUS 105",
+      "price": "5.7"
+    },
+    {
+      "name": "VEGETALES",
+      "price": "1.0"
+    },
+    {
+      "name": "VEGETABLES",
+      "price": "2.0"
+    },
+    {
+      "name": "VEGETABLES",
+      "price": "8.0"
+    },
+    {
+      "name": "SEAFOOD",
+      "price": "8.5"
+    },
+    {
+      "name": "FISH BALI./CAXE",
+      "price": "1.2"
+    },
+    {
+      "name": "Iten Count",
+      "price": "28.6"
+    },
+    {
+      "name": "TL:RM",
+      "price": "28.6"
+    },
+    {
+      "name": "6GST",
+      "price": "0.07"
+    },
+    {
+      "name": "Payment Details",
+      "price": "100.0"
+    },
+    {
+      "name": "86",
+      "price": "1.2"
+    },
+    {
+      "name": "86",
+      "price": "0.07"
+    },
+    {
+      "name": "ZRL",
+      "price": "27.4"
+    },
+    {
+      "name": "00",
+      "price": "0.0"
+    }
+  ],
+  "total_amount": {
+    "value": 28.6,
+    "confidence": 0.71,
+    "is_low_confidence": false
+  }
+}

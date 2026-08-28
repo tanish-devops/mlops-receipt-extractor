@@ -1,0 +1,55 @@
+{
+  "store_name": {
+    "value": "KING'SCONFECTIONERYS/B273500-UKSB",
+    "confidence": 0.96,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "11/03/1821",
+    "confidence": 0.95,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "231027 Slice Cak",
+      "price": "8.7"
+    },
+    {
+      "name": "231027 Slice Cak",
+      "price": "8.7"
+    },
+    {
+      "name": "101110 CheeseLe",
+      "price": "3.5"
+    },
+    {
+      "name": "251030CheeseTa",
+      "price": "3.4"
+    },
+    {
+      "name": "251030CheeseTa",
+      "price": "3.4"
+    },
+    {
+      "name": "Qty",
+      "price": "25.15"
+    },
+    {
+      "name": "Rounding Adj",
+      "price": "0.0"
+    },
+    {
+      "name": "Due",
+      "price": "25.15"
+    },
+    {
+      "name": "Fay",
+      "price": "25.15"
+    }
+  ],
+  "total_amount": {
+    "value": 1.42,
+    "confidence": 0.71,
+    "is_low_confidence": false
+  }
+}

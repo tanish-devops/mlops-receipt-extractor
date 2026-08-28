@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "Gerbang Alaf Restaurants Sdn Bhd",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "19-18/03",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "1LMcChicken",
+      "price": "11.1"
+    },
+    {
+      "name": "2 Sma11 Cone",
+      "price": "2.0"
+    }
+  ],
+  "total_amount": {
+    "value": 13.1,
+    "confidence": 1.0,
+    "is_low_confidence": false
+  }
+}

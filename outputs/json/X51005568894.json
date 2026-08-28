@@ -1,0 +1,59 @@
+{
+  "store_name": {
+    "value": "VIVOPACMARKETING SDNBHD 1070687-M",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "1.00PKT",
+      "price": "14.6"
+    },
+    {
+      "name": "1.00PKT",
+      "price": "14.6"
+    },
+    {
+      "name": "1.00PKT",
+      "price": "14.6"
+    },
+    {
+      "name": "1.00PKT",
+      "price": "6.0"
+    },
+    {
+      "name": "1.00PCS",
+      "price": "0.8"
+    },
+    {
+      "name": "ItemCount:5",
+      "price": "5.0"
+    },
+    {
+      "name": "GST 6",
+      "price": "2.64"
+    },
+    {
+      "name": "Rounding Adj",
+      "price": "0.01"
+    },
+    {
+      "name": "SR@6",
+      "price": "44.0"
+    },
+    {
+      "name": "SR@6",
+      "price": "2.64"
+    }
+  ],
+  "total_amount": {
+    "value": 44.0,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

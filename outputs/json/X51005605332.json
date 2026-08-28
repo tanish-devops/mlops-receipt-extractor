@@ -1,0 +1,31 @@
+{
+  "store_name": {
+    "value": "POPULAR BOOK",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "14/03/18",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "CBE Rubber Band200gm",
+      "price": "7.95"
+    },
+    {
+      "name": "T @ 6",
+      "price": "7.5"
+    },
+    {
+      "name": "T @ 6",
+      "price": "0.45"
+    }
+  ],
+  "total_amount": {
+    "value": 7.95,
+    "confidence": 0.74,
+    "is_low_confidence": false
+  }
+}

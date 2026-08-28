@@ -1,0 +1,31 @@
+{
+  "store_name": {
+    "value": "BILLION SIX ENTERPRISE",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "Discount",
+      "price": "0.0"
+    },
+    {
+      "name": "nclusive GST @6.00",
+      "price": "83.8"
+    },
+    {
+      "name": "Master Card",
+      "price": "63.8"
+    }
+  ],
+  "total_amount": {
+    "value": 63.8,
+    "confidence": 0.73,
+    "is_low_confidence": false
+  }
+}

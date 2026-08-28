@@ -1,0 +1,47 @@
+{
+  "store_name": {
+    "value": "MUN HENG ELECTRICAL",
+    "confidence": 0.96,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "01/02/2018",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "ESWHITE SPRAY",
+      "price": "1.0"
+    },
+    {
+      "name": "ESWHITE SPRAY",
+      "price": "7.0"
+    },
+    {
+      "name": "ToaAninol.GSTO",
+      "price": "7.0"
+    },
+    {
+      "name": "Rounding Adjusment",
+      "price": "0.01"
+    },
+    {
+      "name": "Paid Amount",
+      "price": "7.0"
+    },
+    {
+      "name": "Chenge",
+      "price": "0.0"
+    },
+    {
+      "name": "50",
+      "price": "0.4"
+    }
+  ],
+  "total_amount": {
+    "value": 7.0,
+    "confidence": 0.74,
+    "is_low_confidence": false
+  }
+}

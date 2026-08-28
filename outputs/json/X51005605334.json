@@ -1,0 +1,35 @@
+{
+  "store_name": {
+    "value": "POPULAR BOOK",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "29/03/18",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "2pc @ 3.50",
+      "price": "7.0"
+    },
+    {
+      "name": "R RING 500'S",
+      "price": "2.65"
+    },
+    {
+      "name": "T @ 6",
+      "price": "9.1"
+    },
+    {
+      "name": "T @ 6",
+      "price": "0.55"
+    }
+  ],
+  "total_amount": {
+    "value": 9.65,
+    "confidence": 0.73,
+    "is_low_confidence": false
+  }
+}

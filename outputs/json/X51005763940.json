@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "Harvey Norman",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "2",
+      "price": "30.0"
+    },
+    {
+      "name": "2",
+      "price": "60.0"
+    },
+    {
+      "name": "UOB Terminal",
+      "price": "60.0"
+    },
+    {
+      "name": "S6=6.00%of",
+      "price": "60.0"
+    },
+    {
+      "name": "S6=6.00%of",
+      "price": "3.4"
+    }
+  ],
+  "total_amount": {
+    "value": 60.0,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

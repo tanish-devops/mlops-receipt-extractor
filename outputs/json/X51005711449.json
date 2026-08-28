@@ -1,0 +1,31 @@
+{
+  "store_name": {
+    "value": "RESTORAN WAN SHENG",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "2 x",
+      "price": "2.2"
+    },
+    {
+      "name": "GSTpayable6",
+      "price": "0.26"
+    },
+    {
+      "name": "6",
+      "price": "0.26"
+    }
+  ],
+  "total_amount": {
+    "value": 4.54,
+    "confidence": 1.0,
+    "is_low_confidence": false
+  }
+}

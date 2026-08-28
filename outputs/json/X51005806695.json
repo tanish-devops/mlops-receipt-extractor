@@ -1,0 +1,23 @@
+{
+  "store_name": {
+    "value": "JUWITA WEDDINGS (366310-U",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "BALANCE",
+      "price": "0.0"
+    }
+  ],
+  "total_amount": {
+    "value": 4.1,
+    "confidence": 0.99,
+    "is_low_confidence": false
+  }
+}

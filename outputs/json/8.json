@@ -1,0 +1,43 @@
+{
+  "store_name": {
+    "value": "COSTCO",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "2XMember 111826278335",
+      "price": "23.99"
+    },
+    {
+      "name": "34.29",
+      "price": "12.87"
+    },
+    {
+      "name": "55992 GRND TURKEY",
+      "price": "18.47"
+    },
+    {
+      "name": "89.3",
+      "price": "3.52"
+    },
+    {
+      "name": "Check/Member Prntd",
+      "price": "89.13"
+    },
+    {
+      "name": "Check/Member Prntd",
+      "price": "0.0"
+    }
+  ],
+  "total_amount": {
+    "value": 85.61,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

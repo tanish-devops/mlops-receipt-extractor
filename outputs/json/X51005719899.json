@@ -1,0 +1,51 @@
+{
+  "store_name": {
+    "value": "NYONYA COLORS@1UTAMA",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "KUIH KETAYAP",
+      "price": "2.7"
+    },
+    {
+      "name": "ONDEH ONDEH",
+      "price": "2.95"
+    },
+    {
+      "name": "YELLOW LAKSA",
+      "price": "11.6"
+    },
+    {
+      "name": "YELLOW LAKSA",
+      "price": "11.6"
+    },
+    {
+      "name": "YELLOWLAKSA",
+      "price": "11.6"
+    },
+    {
+      "name": "CENDOL",
+      "price": "5.3"
+    },
+    {
+      "name": "CHEE CHEONG FUN (SOS",
+      "price": "7.2"
+    },
+    {
+      "name": "6%GST",
+      "price": "3.03"
+    }
+  ],
+  "total_amount": {
+    "value": 53.6,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

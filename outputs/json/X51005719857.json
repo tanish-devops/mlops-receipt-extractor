@@ -1,0 +1,31 @@
+{
+  "store_name": {
+    "value": "Salon Du Chocolat",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "19-02-2018",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "Serv.Charge10",
+      "price": "2.04"
+    },
+    {
+      "name": "GST Payable",
+      "price": "1.35"
+    },
+    {
+      "name": "Rounding Adj",
+      "price": "0.01"
+    }
+  ],
+  "total_amount": {
+    "value": 20.4,
+    "confidence": 1.0,
+    "is_low_confidence": false
+  }
+}

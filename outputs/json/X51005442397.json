@@ -1,0 +1,47 @@
+{
+  "store_name": {
+    "value": "Triple Six Point Enterprise 666",
+    "confidence": 0.97,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "2xHey Song",
+      "price": "4.3"
+    },
+    {
+      "name": "2xHey Song",
+      "price": "7.6"
+    },
+    {
+      "name": "tea580ml",
+      "price": "1.0"
+    },
+    {
+      "name": "Discount",
+      "price": "1.0"
+    },
+    {
+      "name": "Totai Anount",
+      "price": "7.6"
+    },
+    {
+      "name": "Tendered",
+      "price": "10.0"
+    },
+    {
+      "name": "Tendered",
+      "price": "2.4"
+    }
+  ],
+  "total_amount": {
+    "value": 10.0,
+    "confidence": 0.54,
+    "is_low_confidence": true
+  }
+}

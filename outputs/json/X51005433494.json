@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "AEON CO.MBHD126926-H",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "1x000007996511",
+      "price": "75.0"
+    },
+    {
+      "name": "Iten Count 1",
+      "price": "100.0"
+    },
+    {
+      "name": "Iten Count 1",
+      "price": "25.0"
+    },
+    {
+      "name": "Tota",
+      "price": "70.75"
+    },
+    {
+      "name": "Tota",
+      "price": "4.25"
+    }
+  ],
+  "total_amount": {
+    "value": 75.0,
+    "confidence": 0.72,
+    "is_low_confidence": false
+  }
+}

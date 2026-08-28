@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "BHPetrol Subang Airport",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "31/10/2020",
+    "confidence": 1.0,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "iniinit!97E4MP32.570",
+      "price": "16.32"
+    },
+    {
+      "name": "iniinit!97E4MP32.570",
+      "price": "41.95"
+    },
+    {
+      "name": "EDC MASTER",
+      "price": "41.95"
+    },
+    {
+      "name": "S: Standard 6",
+      "price": "39.58"
+    },
+    {
+      "name": "S: Standard 6",
+      "price": "2.37"
+    }
+  ],
+  "total_amount": {
+    "value": 41.95,
+    "confidence": 0.54,
+    "is_low_confidence": true
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "RESTAURANT SIN DPS",
+    "confidence": 0.96,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "DPT.05",
+      "price": "149.0"
+    },
+    {
+      "name": "DPI.04",
+      "price": "21.0"
+    }
+  ],
+  "total_amount": {
+    "value": 170.0,
+    "confidence": 0.94,
+    "is_low_confidence": false
+  }
+}

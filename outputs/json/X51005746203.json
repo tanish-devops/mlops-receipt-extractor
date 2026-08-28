@@ -1,0 +1,63 @@
+{
+  "store_name": {
+    "value": "SLPER SEVEN CASH & CA",
+    "confidence": 0.96,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "01-03-2018",
+    "confidence": 1.0,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "D3.1 TENDERLOIN",
+      "price": "49.42"
+    },
+    {
+      "name": "D31 TENDFRLOIN",
+      "price": "149.66"
+    },
+    {
+      "name": "9556276020392",
+      "price": "34.4"
+    },
+    {
+      "name": "BUTTERCUP LUXURY SPREAD 5O0G",
+      "price": "9.9"
+    },
+    {
+      "name": "BUTTERCUP LUXURY SPREAD SOOG",
+      "price": "9.9"
+    },
+    {
+      "name": "20",
+      "price": "164.0"
+    },
+    {
+      "name": "Tctal Sales (Incl. GST @6",
+      "price": "408.45"
+    },
+    {
+      "name": "ZR0",
+      "price": "186.35"
+    },
+    {
+      "name": "ZR0",
+      "price": "0.0"
+    },
+    {
+      "name": "SR6",
+      "price": "209.53"
+    },
+    {
+      "name": "SR6",
+      "price": "12.57"
+    }
+  ],
+  "total_amount": {
+    "value": 408.45,
+    "confidence": 0.74,
+    "is_low_confidence": false
+  }
+}

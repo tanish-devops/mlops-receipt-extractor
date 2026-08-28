@@ -1,0 +1,67 @@
+{
+  "store_name": {
+    "value": "PASAR MINI JIN SENG",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "03/03/18",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "VEGETABLES",
+      "price": "16.0"
+    },
+    {
+      "name": "TELURTELUR MASIN",
+      "price": "2.4"
+    },
+    {
+      "name": "GL STEWED PORK 256G",
+      "price": "6.8"
+    },
+    {
+      "name": "BOTAN IKAN SARDIN 425G",
+      "price": "6.8"
+    },
+    {
+      "name": "Iten Count",
+      "price": "33.8"
+    },
+    {
+      "name": "TLRM",
+      "price": "33.8"
+    },
+    {
+      "name": "6%GST",
+      "price": "0.77"
+    },
+    {
+      "name": "Payment Details",
+      "price": "50.0"
+    },
+    {
+      "name": "6",
+      "price": "13.6"
+    },
+    {
+      "name": "6",
+      "price": "0.77"
+    },
+    {
+      "name": "00",
+      "price": "20.2"
+    },
+    {
+      "name": "00",
+      "price": "0.0"
+    }
+  ],
+  "total_amount": {
+    "value": 50.0,
+    "confidence": 0.52,
+    "is_low_confidence": true
+  }
+}

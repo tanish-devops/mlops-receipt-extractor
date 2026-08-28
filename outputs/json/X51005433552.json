@@ -1,0 +1,43 @@
+{
+  "store_name": {
+    "value": "WARAKUYA PERMAS CITY SDN BHD",
+    "confidence": 0.97,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "3SABASHIO YAKI SET",
+      "price": "53.7"
+    },
+    {
+      "name": "1SALMON SHIO SET",
+      "price": "21.9"
+    },
+    {
+      "name": "4ICED GREEN TEA",
+      "price": "4.0"
+    },
+    {
+      "name": "DISCOUNT",
+      "price": "70.6"
+    },
+    {
+      "name": "DISCOUNT",
+      "price": "30.0"
+    },
+    {
+      "name": "GST6",
+      "price": "3.27"
+    }
+  ],
+  "total_amount": {
+    "value": 70.6,
+    "confidence": 0.69,
+    "is_low_confidence": true
+  }
+}

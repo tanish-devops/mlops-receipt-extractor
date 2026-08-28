@@ -1,0 +1,59 @@
+{
+  "store_name": {
+    "value": "SUSHI MENTAI -MAHKOTA CHERAS",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "31-03-2018",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "1 X",
+      "price": "19.8"
+    },
+    {
+      "name": "4 X",
+      "price": "1.8"
+    },
+    {
+      "name": "4 X",
+      "price": "7.2"
+    },
+    {
+      "name": "Tota1 Excluding GST",
+      "price": "56.2"
+    },
+    {
+      "name": "Serv.Charge (10",
+      "price": "5.62"
+    },
+    {
+      "name": "GST Payable",
+      "price": "3.71"
+    },
+    {
+      "name": "Rounding Adj",
+      "price": "0.02"
+    },
+    {
+      "name": "VISA",
+      "price": "65.55"
+    },
+    {
+      "name": "6",
+      "price": "61.82"
+    },
+    {
+      "name": "6",
+      "price": "3.71"
+    }
+  ],
+  "total_amount": {
+    "value": 65.53,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

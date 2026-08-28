@@ -1,0 +1,119 @@
+{
+  "store_name": {
+    "value": "7450 CYPRESS GARDENS BLVD",
+    "confidence": 0.97,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "10/31/2110",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "007874235191F",
+      "price": "0.98"
+    },
+    {
+      "name": "007874206203F",
+      "price": "0.98"
+    },
+    {
+      "name": "GREAT VALUE",
+      "price": "2.84"
+    },
+    {
+      "name": "GAIN LFE",
+      "price": "2.84"
+    },
+    {
+      "name": "003700077007",
+      "price": "6.97"
+    },
+    {
+      "name": "GVVEG On",
+      "price": "4.94"
+    },
+    {
+      "name": "SNICKER ES",
+      "price": "7.82"
+    },
+    {
+      "name": "GDBR FS 6PK",
+      "price": "3.78"
+    },
+    {
+      "name": "003400029305 F",
+      "price": "4.76"
+    },
+    {
+      "name": "004000047587F",
+      "price": "13.24"
+    },
+    {
+      "name": "004326880002F",
+      "price": "1.78"
+    },
+    {
+      "name": "003700082355",
+      "price": "1.97"
+    },
+    {
+      "name": "BATTERIES",
+      "price": "9.97"
+    },
+    {
+      "name": "001280051783",
+      "price": "10.97"
+    },
+    {
+      "name": "007874219999",
+      "price": "2.97"
+    },
+    {
+      "name": "003120001605",
+      "price": "1.58"
+    },
+    {
+      "name": "002740026499",
+      "price": "3.46"
+    },
+    {
+      "name": "007874212709F",
+      "price": "0.9"
+    },
+    {
+      "name": "007874212709F",
+      "price": "82.75"
+    },
+    {
+      "name": "Detauyayor",
+      "price": "7.0"
+    },
+    {
+      "name": "Detauyayor",
+      "price": "3.6"
+    },
+    {
+      "name": "Detauyayor",
+      "price": "86.35"
+    },
+    {
+      "name": "DEBIT TEND",
+      "price": "86.35"
+    },
+    {
+      "name": "EFI DEBIT",
+      "price": "0.0"
+    },
+    {
+      "name": "PAY FROM PRIMARY",
+      "price": "86.35"
+    }
+  ],
+  "total_amount": {
+    "value": 82.75,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

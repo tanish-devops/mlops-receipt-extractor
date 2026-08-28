@@ -1,0 +1,43 @@
+{
+  "store_name": {
+    "value": "THREE STOOGES",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "12/03/2018",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "HH TIGER 12 GLASSES",
+      "price": "145.0"
+    },
+    {
+      "name": "SERVICE CHARGE 10",
+      "price": "29.5"
+    },
+    {
+      "name": "GST 6",
+      "price": "19.47"
+    },
+    {
+      "name": "ROUNDING ADJ",
+      "price": "0.02"
+    },
+    {
+      "name": "SVC ERVICE CHAKGL 1O",
+      "price": "295.0"
+    },
+    {
+      "name": "SRGSI6",
+      "price": "324.5"
+    }
+  ],
+  "total_amount": {
+    "value": 295.0,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

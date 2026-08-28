@@ -1,0 +1,51 @@
+{
+  "store_name": {
+    "value": "RESTAURANT JIAWEI",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "42",
+      "price": "0.0"
+    },
+    {
+      "name": "1-3",
+      "price": "5.0"
+    },
+    {
+      "name": "5.0",
+      "price": "0.0"
+    },
+    {
+      "name": "50",
+      "price": "0.0"
+    },
+    {
+      "name": "100",
+      "price": "0.0"
+    },
+    {
+      "name": "scount",
+      "price": "110.0"
+    },
+    {
+      "name": "Service Char",
+      "price": "0.0"
+    },
+    {
+      "name": "Rounding Adjustment",
+      "price": "0.0"
+    }
+  ],
+  "total_amount": {
+    "value": 110.0,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

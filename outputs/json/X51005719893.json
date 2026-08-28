@@ -1,0 +1,43 @@
+{
+  "store_name": {
+    "value": "Mr.Dakgalbi Solaris",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "1ItemInclusive of GsT",
+      "price": "71.0"
+    },
+    {
+      "name": "Round Amt",
+      "price": "0.0"
+    },
+    {
+      "name": "GST@6",
+      "price": "4.02"
+    },
+    {
+      "name": "S=GST@6",
+      "price": "66.98"
+    },
+    {
+      "name": "S=GST@6",
+      "price": "4.02"
+    },
+    {
+      "name": "0.CO",
+      "price": "0.0"
+    }
+  ],
+  "total_amount": {
+    "value": 71.0,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

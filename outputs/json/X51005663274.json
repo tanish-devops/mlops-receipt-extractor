@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "LIM SENG THO HARDWARE TRADING",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "15.0ONOS",
+      "price": "0.7"
+    },
+    {
+      "name": "Payment",
+      "price": "10.5"
+    }
+  ],
+  "total_amount": {
+    "value": 10.5,
+    "confidence": 1.0,
+    "is_low_confidence": false
+  }
+}

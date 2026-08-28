@@ -1,0 +1,31 @@
+{
+  "store_name": {
+    "value": "KEDAI BUKU NEW ACHEIVERS",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "28/12/2017",
+    "confidence": 1.0,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "TOT QTY",
+      "price": "42.16"
+    },
+    {
+      "name": "Discount",
+      "price": "4.0"
+    },
+    {
+      "name": "Rounding",
+      "price": "0.01"
+    }
+  ],
+  "total_amount": {
+    "value": 40.0,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

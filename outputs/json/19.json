@@ -1,0 +1,51 @@
+{
+  "store_name": {
+    "value": "juodean oi",
+    "confidence": 0.8,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "10/16/21",
+    "confidence": 1.0,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "RED GRAPE",
+      "price": "2.48"
+    },
+    {
+      "name": "RED GRAPE",
+      "price": "2.51"
+    },
+    {
+      "name": "SHOPPING CARD TEND",
+      "price": "35.05"
+    },
+    {
+      "name": "SHOPPING CARD TEND",
+      "price": "35.05"
+    },
+    {
+      "name": "SHOP.CARD REDEMPTION",
+      "price": "0.0"
+    },
+    {
+      "name": "SHOP.CARD REDEMPTION",
+      "price": "35.05"
+    },
+    {
+      "name": "157.29",
+      "price": "35.05"
+    },
+    {
+      "name": "157.29",
+      "price": "122.24"
+    }
+  ],
+  "total_amount": {
+    "value": 3.61,
+    "confidence": 0.74,
+    "is_low_confidence": false
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "store_name": {
+    "value": "THE STORE MALAYSIA SDN BHD 8199K",
+    "confidence": 0.96,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "20000004500%403.10",
+      "price": "12.4"
+    },
+    {
+      "name": "2000001592021180",
+      "price": "1.3"
+    },
+    {
+      "name": "2000001592021180",
+      "price": "25.4"
+    },
+    {
+      "name": "SG9T6",
+      "price": "33.82"
+    },
+    {
+      "name": "SG9T6",
+      "price": "1.98"
+    },
+    {
+      "name": "ZGST 0",
+      "price": "0.0"
+    },
+    {
+      "name": "ZGST 0",
+      "price": "0.0"
+    }
+  ],
+  "total_amount": {
+    "value": 35.8,
+    "confidence": 0.74,
+    "is_low_confidence": false
+  }
+}

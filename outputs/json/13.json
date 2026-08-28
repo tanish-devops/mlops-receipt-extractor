@@ -1,0 +1,47 @@
+{
+  "store_name": {
+    "value": "1SWQY8KCH",
+    "confidence": 0.92,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "08/11/17",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "08/458604333",
+      "price": "50.0"
+    },
+    {
+      "name": "SUBIOIAL",
+      "price": "50.0"
+    },
+    {
+      "name": "TOTAI",
+      "price": "60.0"
+    },
+    {
+      "name": "SHOP.CARI ACIIVAIION",
+      "price": "50.0"
+    },
+    {
+      "name": "0.00",
+      "price": "50.0"
+    },
+    {
+      "name": "0.00",
+      "price": "50.0"
+    },
+    {
+      "name": "08/11/17",
+      "price": "19.4"
+    }
+  ],
+  "total_amount": {
+    "value": 60.0,
+    "confidence": 0.53,
+    "is_low_confidence": true
+  }
+}

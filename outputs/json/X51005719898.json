@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "MR.D.I.Y.KUCHAISDN BHD",
+    "confidence": 0.97,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "19-03-1813",
+    "confidence": 0.97,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "9064525",
+      "price": "11.9"
+    },
+    {
+      "name": "9064525",
+      "price": "11.9"
+    },
+    {
+      "name": "tota1incl.GST @6",
+      "price": "11.9"
+    },
+    {
+      "name": "GST S@6",
+      "price": "11.23"
+    },
+    {
+      "name": "GST S@6",
+      "price": "0.67"
+    }
+  ],
+  "total_amount": {
+    "value": 22.0,
+    "confidence": 0.54,
+    "is_low_confidence": true
+  }
+}

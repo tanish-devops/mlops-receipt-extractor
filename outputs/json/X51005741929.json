@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "MyMydin Subang Bestari 2300",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "15/01/2018",
+    "confidence": 0.97,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "9556500903668",
+      "price": "5.5"
+    },
+    {
+      "name": "9556500903668",
+      "price": "5.5"
+    },
+    {
+      "name": "Rounding Adjustment",
+      "price": "0.0"
+    },
+    {
+      "name": "S=6",
+      "price": "5.19"
+    },
+    {
+      "name": "S=6",
+      "price": "0.31"
+    }
+  ],
+  "total_amount": {
+    "value": 5.5,
+    "confidence": 0.73,
+    "is_low_confidence": false
+  }
+}

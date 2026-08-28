@@ -1,0 +1,43 @@
+{
+  "store_name": {
+    "value": "AEON CO.MBHD126926-H",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "09/03/2018",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "1x000002781709",
+      "price": "15.5"
+    },
+    {
+      "name": "1x 000002781709",
+      "price": "15.5"
+    },
+    {
+      "name": "Tota Sa les Incl GST",
+      "price": "31.0"
+    },
+    {
+      "name": "Item Count 2",
+      "price": "19.0"
+    },
+    {
+      "name": "SR@6",
+      "price": "29.24"
+    },
+    {
+      "name": "SR@6",
+      "price": "1.76"
+    }
+  ],
+  "total_amount": {
+    "value": 31.0,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

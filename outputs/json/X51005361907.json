@@ -1,0 +1,35 @@
+{
+  "store_name": {
+    "value": "TEO HENG STATIONERY & BOOKS",
+    "confidence": 0.97,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "12/02/2018",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "9557546953990",
+      "price": "0.85"
+    },
+    {
+      "name": "9557546953990",
+      "price": "0.0"
+    },
+    {
+      "name": "9557546953990",
+      "price": "0.85"
+    },
+    {
+      "name": "ROUNDING",
+      "price": "0.01"
+    }
+  ],
+  "total_amount": {
+    "value": 144.68,
+    "confidence": 1.0,
+    "is_low_confidence": false
+  }
+}

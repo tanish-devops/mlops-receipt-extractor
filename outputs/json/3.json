@@ -1,0 +1,67 @@
+{
+  "store_name": {
+    "value": "Walmart",
+    "confidence": 0.97,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "04/27/19",
+    "confidence": 1.0,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "HRI CL CHS",
+      "price": "2.68"
+    },
+    {
+      "name": "HRI CL CHS",
+      "price": "4.98"
+    },
+    {
+      "name": "003120506000F",
+      "price": "6.88"
+    },
+    {
+      "name": "VOIDED ENTRY",
+      "price": "5.88"
+    },
+    {
+      "name": "HRI CL PEP",
+      "price": "5.88"
+    },
+    {
+      "name": "003120507000F",
+      "price": "5.88"
+    },
+    {
+      "name": "ABF THINBRST 022461710972F",
+      "price": "9.72"
+    },
+    {
+      "name": "002410053523F",
+      "price": "4.0"
+    },
+    {
+      "name": "004400088210F",
+      "price": "2.78"
+    },
+    {
+      "name": "007874207263",
+      "price": "1.28"
+    },
+    {
+      "name": "007874207263",
+      "price": "139.44"
+    },
+    {
+      "name": "ITEMS SOLD26",
+      "price": "6.0"
+    }
+  ],
+  "total_amount": {
+    "value": 139.44,
+    "confidence": 0.74,
+    "is_low_confidence": false
+  }
+}

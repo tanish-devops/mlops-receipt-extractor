@@ -1,0 +1,51 @@
+{
+  "store_name": {
+    "value": "IMAGE PRINTEC (M) SDN BHD",
+    "confidence": 0.96,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "2 COLOR COPY A4",
+      "price": "1.0"
+    },
+    {
+      "name": "2 COLOR COPY A4",
+      "price": "2.0"
+    },
+    {
+      "name": "2 PHOTOCOPY A4",
+      "price": "0.1"
+    },
+    {
+      "name": "2 PHOTOCOPY A4",
+      "price": "0.2"
+    },
+    {
+      "name": "2 LAMINATE A4",
+      "price": "2.5"
+    },
+    {
+      "name": "2 LAMINATE A4",
+      "price": "5.0"
+    },
+    {
+      "name": "GST 6",
+      "price": "0.43"
+    },
+    {
+      "name": "Rounding Adj",
+      "price": "0.02"
+    }
+  ],
+  "total_amount": {
+    "value": 7.2,
+    "confidence": 0.74,
+    "is_low_confidence": false
+  }
+}

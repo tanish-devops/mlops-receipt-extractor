@@ -1,0 +1,67 @@
+{
+  "store_name": {
+    "value": "MRD.I.YMSDNBHD",
+    "confidence": 0.95,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "21-22-36",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "9084134",
+      "price": "1.9"
+    },
+    {
+      "name": "9084134",
+      "price": "1.9"
+    },
+    {
+      "name": "6935818350846",
+      "price": "3.9"
+    },
+    {
+      "name": "6935818350846",
+      "price": "3.9"
+    },
+    {
+      "name": "9084135",
+      "price": "1.9"
+    },
+    {
+      "name": "9084135",
+      "price": "1.9"
+    },
+    {
+      "name": "9554100363103",
+      "price": "11.9"
+    },
+    {
+      "name": "9554100363103",
+      "price": "11.9"
+    },
+    {
+      "name": "9080456",
+      "price": "1.7"
+    },
+    {
+      "name": "9080456",
+      "price": "1.7"
+    },
+    {
+      "name": "99999",
+      "price": "0.2"
+    },
+    {
+      "name": "99999",
+      "price": "0.2"
+    }
+  ],
+  "total_amount": {
+    "value": 21.5,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "store_name": {
+    "value": "MAR",
+    "confidence": 1.0,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "14-03-18",
+    "confidence": 0.96,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "9555221301081",
+      "price": "2.0"
+    },
+    {
+      "name": "9064422",
+      "price": "1.5"
+    },
+    {
+      "name": "9064422",
+      "price": "3.0"
+    },
+    {
+      "name": "9553114461966",
+      "price": "22.9"
+    },
+    {
+      "name": "9553114461966",
+      "price": "22.9"
+    },
+    {
+      "name": "GST S@6",
+      "price": "35.0"
+    },
+    {
+      "name": "GST S@6",
+      "price": "2.1"
+    }
+  ],
+  "total_amount": {
+    "value": 37.1,
+    "confidence": 0.73,
+    "is_low_confidence": false
+  }
+}

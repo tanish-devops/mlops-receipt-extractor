@@ -1,0 +1,31 @@
+{
+  "store_name": {
+    "value": "UNIHAKKA INTERNATIONAL SDN BHD",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "Amount",
+      "price": "8.2"
+    },
+    {
+      "name": "SRGST@6",
+      "price": "7.74"
+    },
+    {
+      "name": "SRGST@6",
+      "price": "0.46"
+    }
+  ],
+  "total_amount": {
+    "value": 8.2,
+    "confidence": 0.72,
+    "is_low_confidence": false
+  }
+}

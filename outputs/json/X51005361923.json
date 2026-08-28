@@ -1,0 +1,23 @@
+{
+  "store_name": {
+    "value": "SWC ENTERPRISE SDN BHD",
+    "confidence": 0.97,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "02/01/2018",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "GST @ot Incuded In Tala",
+      "price": "0.24"
+    }
+  ],
+  "total_amount": {
+    "value": 4.2,
+    "confidence": 1.0,
+    "is_low_confidence": false
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "store_name": {
+    "value": "AL MENDIS-THE MINES",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "21-03-2018",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "1 x",
+      "price": "22.5"
+    },
+    {
+      "name": "1 x",
+      "price": "22.5"
+    },
+    {
+      "name": "1 x",
+      "price": "5.9"
+    },
+    {
+      "name": "1 x",
+      "price": "5.9"
+    },
+    {
+      "name": "1 x",
+      "price": "12.9"
+    },
+    {
+      "name": "Serv.Charge (10",
+      "price": "4.13"
+    },
+    {
+      "name": "GST Payable",
+      "price": "2.73"
+    },
+    {
+      "name": "Rounding Adj",
+      "price": "0.01"
+    },
+    {
+      "name": "6",
+      "price": "2.73"
+    }
+  ],
+  "total_amount": {
+    "value": 41.3,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

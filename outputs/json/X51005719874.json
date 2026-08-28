@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "NADEJE PRESTIGE SDNBHD",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "2018/02/22",
+    "confidence": 0.97,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "OriginalSlice",
+      "price": "26.0"
+    },
+    {
+      "name": "DoubleChoc Slice",
+      "price": "13.0"
+    }
+  ],
+  "total_amount": {
+    "value": 50.0,
+    "confidence": 0.94,
+    "is_low_confidence": false
+  }
+}

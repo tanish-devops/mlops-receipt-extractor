@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "99SPEEDMARTS/B519537-X",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "20-02-18",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "8991 NUTRI PLUS TELUR SEGAR",
+      "price": "9.9"
+    },
+    {
+      "name": "Z=0",
+      "price": "9.9"
+    }
+  ],
+  "total_amount": {
+    "value": 9.9,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

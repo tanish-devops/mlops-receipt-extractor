@@ -1,0 +1,67 @@
+{
+  "store_name": {
+    "value": "AAPHARMACT",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "930602",
+      "price": "3.0"
+    },
+    {
+      "name": "930602",
+      "price": "12.0"
+    },
+    {
+      "name": "9556492002837",
+      "price": "3.0"
+    },
+    {
+      "name": "9556492002837",
+      "price": "12.0"
+    },
+    {
+      "name": "940152",
+      "price": "3.49"
+    },
+    {
+      "name": "940152",
+      "price": "20.94"
+    },
+    {
+      "name": "DISC",
+      "price": "0.0"
+    },
+    {
+      "name": "GST",
+      "price": "1.26"
+    },
+    {
+      "name": "ROUNDING",
+      "price": "0.0"
+    },
+    {
+      "name": "MASTER",
+      "price": "46.2"
+    },
+    {
+      "name": "ZRL",
+      "price": "24.0"
+    },
+    {
+      "name": "ZRL",
+      "price": "0.0"
+    }
+  ],
+  "total_amount": {
+    "value": 1.26,
+    "confidence": 0.74,
+    "is_low_confidence": false
+  }
+}

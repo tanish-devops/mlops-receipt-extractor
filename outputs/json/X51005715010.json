@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "3-1708032",
+    "confidence": 1.0,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "22241",
+      "price": "18.0"
+    },
+    {
+      "name": "21434WS BABYWIPES FRAG",
+      "price": "7.9"
+    },
+    {
+      "name": "PWP LESS30%MAR18",
+      "price": "2.37"
+    },
+    {
+      "name": "95448WATSONS BASKET",
+      "price": "0.0"
+    },
+    {
+      "name": "6.00%39.09",
+      "price": "41.43"
+    }
+  ],
+  "total_amount": {
+    "value": 6.0,
+    "confidence": 0.73,
+    "is_low_confidence": false
+  }
+}

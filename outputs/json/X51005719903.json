@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "Gerbang Alaf Restaurants Sdn Bhd",
+    "confidence": 0.97,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "2 ChocTop",
+      "price": "4.0"
+    },
+    {
+      "name": "1 McFlurryOreos",
+      "price": "4.5"
+    }
+  ],
+  "total_amount": {
+    "value": 8.5,
+    "confidence": 1.0,
+    "is_low_confidence": false
+  }
+}

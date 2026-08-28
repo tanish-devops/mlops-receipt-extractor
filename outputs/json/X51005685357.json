@@ -1,0 +1,59 @@
+{
+  "store_name": {
+    "value": "Farmasi Maluri S/B587969-U",
+    "confidence": 0.97,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "02/03/1805",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "1X111.30",
+      "price": "36.75"
+    },
+    {
+      "name": "1X111.30",
+      "price": "72.35"
+    },
+    {
+      "name": "1X7.00",
+      "price": "7.0"
+    },
+    {
+      "name": "ROUNDING",
+      "price": "0.0"
+    },
+    {
+      "name": "NET",
+      "price": "79.35"
+    },
+    {
+      "name": "TENDER",
+      "price": "100.0"
+    },
+    {
+      "name": "ZRL @0.00",
+      "price": "7.0"
+    },
+    {
+      "name": "ZRL @0.00",
+      "price": "0.0"
+    },
+    {
+      "name": "SR @6.00",
+      "price": "68.25"
+    },
+    {
+      "name": "SR @6.00",
+      "price": "4.1"
+    }
+  ],
+  "total_amount": {
+    "value": 79.35,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

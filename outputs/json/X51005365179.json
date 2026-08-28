@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "3-1707067",
+    "confidence": 1.0,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "01-03-185",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "5 Item(s",
+      "price": "20.0"
+    },
+    {
+      "name": "GST @6",
+      "price": "1.2"
+    },
+    {
+      "name": "Rounding Adj",
+      "price": "0.0"
+    },
+    {
+      "name": "SR@6",
+      "price": "20.0"
+    },
+    {
+      "name": "SR@6",
+      "price": "1.2"
+    }
+  ],
+  "total_amount": {
+    "value": 20.0,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

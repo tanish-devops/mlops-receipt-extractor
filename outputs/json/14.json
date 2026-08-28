@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "JOY XHAHT",
+    "confidence": 0.88,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "05/04/17",
+    "confidence": 1.0,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "EQUATE LINER068113186503",
+      "price": "7.48"
+    },
+    {
+      "name": "DEBIT TEND",
+      "price": "6.6"
+    }
+  ],
+  "total_amount": {
+    "value": 6.6,
+    "confidence": 0.74,
+    "is_low_confidence": false
+  }
+}

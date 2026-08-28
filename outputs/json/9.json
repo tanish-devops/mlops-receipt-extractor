@@ -1,0 +1,131 @@
+{
+  "store_name": {
+    "value": "WinCo",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "09/08/14",
+    "confidence": 1.0,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "N/YORK TX GRLC",
+      "price": "2.18"
+    },
+    {
+      "name": "PICSWEET BLEND",
+      "price": "5.39"
+    },
+    {
+      "name": "201.34",
+      "price": "2.68"
+    },
+    {
+      "name": "201.28",
+      "price": "2.56"
+    },
+    {
+      "name": "PORK LOIN CHOP 20337400000",
+      "price": "5.48"
+    },
+    {
+      "name": "PORK LOIN CHOP 20337400000",
+      "price": "10.87"
+    },
+    {
+      "name": "26841800000",
+      "price": "9.91"
+    },
+    {
+      "name": "DRUMSTICKS",
+      "price": "5.32"
+    },
+    {
+      "name": "EYE RND STK FP 20148200000",
+      "price": "8.39"
+    },
+    {
+      "name": "BEEF F0R STEW 20254300000",
+      "price": "10.48"
+    },
+    {
+      "name": "EYE RND STKFP 20148200000",
+      "price": "8.24"
+    },
+    {
+      "name": "PORK 1/2 L0IN 20323300000",
+      "price": "8.12"
+    },
+    {
+      "name": "B/BESTS STEAK 4497921020",
+      "price": "1.0"
+    },
+    {
+      "name": "4470001903",
+      "price": "3.99"
+    },
+    {
+      "name": "7055280303",
+      "price": "1.68"
+    },
+    {
+      "name": "TNDRBRD CHIX BR 3737101318",
+      "price": "5.98"
+    },
+    {
+      "name": "KRFT DELUXE MAC 2100065886",
+      "price": "3.64"
+    },
+    {
+      "name": "3800037435",
+      "price": "1.96"
+    },
+    {
+      "name": "L/D NUTTY BARS",
+      "price": "1.25"
+    },
+    {
+      "name": "L\\D 0ATMEAL CRM 2430004101",
+      "price": "1.25"
+    },
+    {
+      "name": "LINKS MILD",
+      "price": "5.78"
+    },
+    {
+      "name": "3010010055",
+      "price": "1.98"
+    },
+    {
+      "name": "2700044212",
+      "price": "1.64"
+    },
+    {
+      "name": "2400000164",
+      "price": "1.96"
+    },
+    {
+      "name": "7763306333",
+      "price": "1.98"
+    },
+    {
+      "name": "WINCO HOMO MILK 7055240600",
+      "price": "2.48"
+    },
+    {
+      "name": "7003837280",
+      "price": "1.37"
+    },
+    {
+      "name": "00",
+      "price": "121.92"
+    }
+  ],
+  "total_amount": {
+    "value": 1.37,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

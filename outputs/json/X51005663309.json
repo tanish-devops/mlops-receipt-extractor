@@ -1,0 +1,31 @@
+{
+  "store_name": {
+    "value": "KOH SENG HARDWARE",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "01/02/2018",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "DISC",
+      "price": "0.0"
+    },
+    {
+      "name": "GST",
+      "price": "0.3"
+    },
+    {
+      "name": "ROUNDING",
+      "price": "0.0"
+    }
+  ],
+  "total_amount": {
+    "value": 5.3,
+    "confidence": 1.0,
+    "is_low_confidence": false
+  }
+}

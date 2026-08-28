@@ -1,0 +1,59 @@
+{
+  "store_name": {
+    "value": "RESTORAN IBRAHIM MAJU SB",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "MAKANAN",
+      "price": "2.3"
+    },
+    {
+      "name": "MAKANAN",
+      "price": "2.3"
+    },
+    {
+      "name": "MAKANAN",
+      "price": "1.4"
+    },
+    {
+      "name": "MAKANAN",
+      "price": "1.4"
+    },
+    {
+      "name": "MAKANAN",
+      "price": "1.6"
+    },
+    {
+      "name": "MAKANAN",
+      "price": "1.6"
+    },
+    {
+      "name": "S=6",
+      "price": "5.0"
+    },
+    {
+      "name": "S=6",
+      "price": "0.3"
+    },
+    {
+      "name": "Z=0",
+      "price": "0.0"
+    },
+    {
+      "name": "Z=0",
+      "price": "0.0"
+    }
+  ],
+  "total_amount": {
+    "value": 10.0,
+    "confidence": 0.54,
+    "is_low_confidence": true
+  }
+}

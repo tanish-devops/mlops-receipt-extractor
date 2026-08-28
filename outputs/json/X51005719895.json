@@ -1,0 +1,55 @@
+{
+  "store_name": {
+    "value": "GREEN LANE PHARMACY SDN BHD",
+    "confidence": 0.97,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "1.00X6.00",
+      "price": "6.0"
+    },
+    {
+      "name": "2.004.51",
+      "price": "9.01"
+    },
+    {
+      "name": "3.00X3.00",
+      "price": "9.0"
+    },
+    {
+      "name": "4.00X2.70",
+      "price": "10.8"
+    },
+    {
+      "name": "Rounding",
+      "price": "0.01"
+    },
+    {
+      "name": "GST",
+      "price": "0.51"
+    },
+    {
+      "name": "MASTER",
+      "price": "34.8"
+    },
+    {
+      "name": "20",
+      "price": "25.8"
+    },
+    {
+      "name": "20",
+      "price": "0.0"
+    }
+  ],
+  "total_amount": {
+    "value": 34.8,
+    "confidence": 0.74,
+    "is_low_confidence": false
+  }
+}

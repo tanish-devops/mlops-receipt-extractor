@@ -1,0 +1,55 @@
+{
+  "store_name": {
+    "value": "Nando's",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "DELIVERY CHG",
+      "price": "4.0"
+    },
+    {
+      "name": "1/4 Chic+1sd-T@17.90",
+      "price": "71.6"
+    },
+    {
+      "name": "1/4 Chic+1sd-T@17.90",
+      "price": "53.7"
+    },
+    {
+      "name": "Amt Due",
+      "price": "129.3"
+    },
+    {
+      "name": "GST @6",
+      "price": "7.3"
+    },
+    {
+      "name": "S=GST @6",
+      "price": "122.0"
+    },
+    {
+      "name": "S=GST @6",
+      "price": "7.3"
+    },
+    {
+      "name": "Z=GST @O",
+      "price": "0.0"
+    },
+    {
+      "name": "Z=GST @O",
+      "price": "0.0"
+    }
+  ],
+  "total_amount": {
+    "value": 129.3,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

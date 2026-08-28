@@ -1,0 +1,31 @@
+{
+  "store_name": {
+    "value": "FUNNCHEER(MALURI",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "05/01/2018",
+    "confidence": 1.0,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "ADDGST6%On",
+      "price": "1.69"
+    },
+    {
+      "name": "SR",
+      "price": "28.11"
+    },
+    {
+      "name": "SR",
+      "price": "1.69"
+    }
+  ],
+  "total_amount": {
+    "value": 28.11,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "store_name": {
+    "value": "Gerbang Alaf RestaurantsSdn Bhd",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "19-21/03",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "1 M McChicken",
+      "price": "9.5"
+    },
+    {
+      "name": "1McChicken",
+      "price": "5.0"
+    },
+    {
+      "name": "19Nuggets",
+      "price": "10.9"
+    },
+    {
+      "name": "TakeOut Tota (incl GST",
+      "price": "25.4"
+    }
+  ],
+  "total_amount": {
+    "value": 25.4,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

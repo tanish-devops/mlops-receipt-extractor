@@ -1,0 +1,35 @@
+{
+  "store_name": {
+    "value": "TEO HENG STATIONERY &BDAKS",
+    "confidence": 0.96,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "18/01/2018",
+    "confidence": 1.0,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "9557068000035",
+      "price": "3.5"
+    },
+    {
+      "name": "9557068000035",
+      "price": "5.69"
+    },
+    {
+      "name": "9557068000035",
+      "price": "3.3"
+    },
+    {
+      "name": "ROUNDING",
+      "price": "0.02"
+    }
+  ],
+  "total_amount": {
+    "value": 0.28,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "store_name": {
+    "value": "B.I.G",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "12/03/18",
+    "confidence": 1.0,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "8809069300708",
+      "price": "7.9"
+    },
+    {
+      "name": "8809069300708",
+      "price": "23.7"
+    },
+    {
+      "name": "3068320113784",
+      "price": "53.5"
+    },
+    {
+      "name": "3068320113784",
+      "price": "53.5"
+    },
+    {
+      "name": "Item 2",
+      "price": "77.2"
+    },
+    {
+      "name": "Rounding",
+      "price": "0.0"
+    },
+    {
+      "name": "S=6",
+      "price": "50.47"
+    },
+    {
+      "name": "S=6",
+      "price": "3.03"
+    },
+    {
+      "name": "Z=0",
+      "price": "23.7"
+    },
+    {
+      "name": "Z=0",
+      "price": "0.0"
+    }
+  ],
+  "total_amount": {
+    "value": 77.2,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

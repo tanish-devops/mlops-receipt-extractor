@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "WHOLE FOODS",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "9/15/2020",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "KTTL SEA SALT POT CHP",
+      "price": "1.29"
+    },
+    {
+      "name": "BRAIDED BRIOCHE",
+      "price": "6.99"
+    }
+  ],
+  "total_amount": {
+    "value": 28.28,
+    "confidence": 1.0,
+    "is_low_confidence": false
+  }
+}

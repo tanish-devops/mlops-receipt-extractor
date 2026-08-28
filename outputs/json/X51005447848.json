@@ -1,0 +1,71 @@
+{
+  "store_name": {
+    "value": "LIANCHIPUTIAN VEGETARIAN",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "06/01/1812",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "Date",
+      "price": "1812.17"
+    },
+    {
+      "name": "S",
+      "price": "15.9"
+    },
+    {
+      "name": "515",
+      "price": "16.85"
+    },
+    {
+      "name": "S",
+      "price": "13.9"
+    },
+    {
+      "name": "517",
+      "price": "14.73"
+    },
+    {
+      "name": "12PCS",
+      "price": "12.0"
+    },
+    {
+      "name": "410",
+      "price": "12.72"
+    },
+    {
+      "name": "POT",
+      "price": "3.0"
+    },
+    {
+      "name": "922",
+      "price": "1.59"
+    },
+    {
+      "name": "GST(6",
+      "price": "2.86"
+    },
+    {
+      "name": "Net Amt",
+      "price": "53.55"
+    },
+    {
+      "name": "SR@6",
+      "price": "47.8"
+    },
+    {
+      "name": "SR@6",
+      "price": "2.86"
+    }
+  ],
+  "total_amount": {
+    "value": 1812.17,
+    "confidence": 0.52,
+    "is_low_confidence": true
+  }
+}

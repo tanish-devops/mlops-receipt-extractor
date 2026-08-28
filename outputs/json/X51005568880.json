@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "MR.D.I.YMSDN BHD",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "06-5/40",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "GST S@6",
+      "price": "15.0"
+    },
+    {
+      "name": "GST S@6",
+      "price": "0.9"
+    }
+  ],
+  "total_amount": {
+    "value": 15.9,
+    "confidence": 1.0,
+    "is_low_confidence": false
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "Guardian Health And Heauty Sdn H",
+    "confidence": 0.93,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "09/03/18",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "12104837360N9R510020",
+      "price": "9.95"
+    },
+    {
+      "name": "TOIAL GST INCL",
+      "price": "9.95"
+    }
+  ],
+  "total_amount": {
+    "value": 9.95,
+    "confidence": 0.71,
+    "is_low_confidence": false
+  }
+}

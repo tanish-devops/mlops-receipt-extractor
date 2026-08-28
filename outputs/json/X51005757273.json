@@ -1,0 +1,35 @@
+{
+  "store_name": {
+    "value": "MR.D.I.Y.KUCHAISDN BHD",
+    "confidence": 0.97,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "12-03-1814",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "9556268000210",
+      "price": "15.0"
+    },
+    {
+      "name": "CARD",
+      "price": "45.0"
+    },
+    {
+      "name": "GST S@6",
+      "price": "42.45"
+    },
+    {
+      "name": "GST S@6",
+      "price": "2.55"
+    }
+  ],
+  "total_amount": {
+    "value": 45.0,
+    "confidence": 0.73,
+    "is_low_confidence": false
+  }
+}

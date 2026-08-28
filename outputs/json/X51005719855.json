@@ -1,0 +1,47 @@
+{
+  "store_name": {
+    "value": "ROCKU YAKINIKU",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "SUBTTL",
+      "price": "155.7"
+    },
+    {
+      "name": "10%SVC CHG",
+      "price": "15.57"
+    },
+    {
+      "name": "6%GST",
+      "price": "10.28"
+    },
+    {
+      "name": "T6%GST",
+      "price": "171.27"
+    },
+    {
+      "name": "T6%GST",
+      "price": "10.28"
+    },
+    {
+      "name": "ZZero Rated",
+      "price": "0.0"
+    },
+    {
+      "name": "ZZero Rated",
+      "price": "0.0"
+    }
+  ],
+  "total_amount": {
+    "value": 181.55,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

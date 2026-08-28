@@ -1,0 +1,67 @@
+{
+  "store_name": {
+    "value": "LEE WAHFLORIST SDN BHD",
+    "confidence": 0.97,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "1015",
+      "price": "12.0"
+    },
+    {
+      "name": "3504",
+      "price": "34.03"
+    },
+    {
+      "name": "3504",
+      "price": "144.16"
+    },
+    {
+      "name": "1145",
+      "price": "58.0"
+    },
+    {
+      "name": "6148",
+      "price": "61.48"
+    },
+    {
+      "name": "6.C0",
+      "price": "6.36"
+    },
+    {
+      "name": "6.C0",
+      "price": "12.72"
+    },
+    {
+      "name": "350",
+      "price": "3.71"
+    },
+    {
+      "name": "S.R",
+      "price": "23.32"
+    },
+    {
+      "name": "S.R",
+      "price": "33.32"
+    },
+    {
+      "name": "Discount",
+      "price": "0.0"
+    },
+    {
+      "name": "Rounding",
+      "price": "0.02"
+    }
+  ],
+  "total_amount": {
+    "value": 353.0,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

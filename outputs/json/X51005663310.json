@@ -1,0 +1,31 @@
+{
+  "store_name": {
+    "value": "LIMSENG THO HARDWARE TRADING",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "1200NOS",
+      "price": "0.7"
+    },
+    {
+      "name": "Payment",
+      "price": "8.4"
+    },
+    {
+      "name": "048",
+      "price": "7.92"
+    }
+  ],
+  "total_amount": {
+    "value": 8.4,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

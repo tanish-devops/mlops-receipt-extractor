@@ -1,0 +1,51 @@
+{
+  "store_name": {
+    "value": "SYARIKAT PERNIAGAAN GIN KEE",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "03/01/2018",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "USER",
+      "price": "8.0"
+    },
+    {
+      "name": "1512",
+      "price": "10.6"
+    },
+    {
+      "name": "1512",
+      "price": "10.6"
+    },
+    {
+      "name": "3032",
+      "price": "23.32"
+    },
+    {
+      "name": "3032",
+      "price": "23.32"
+    },
+    {
+      "name": "3313",
+      "price": "19.08"
+    },
+    {
+      "name": "Discount",
+      "price": "0.0"
+    },
+    {
+      "name": "Rounding",
+      "price": "0.0"
+    }
+  ],
+  "total_amount": {
+    "value": 68.0,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

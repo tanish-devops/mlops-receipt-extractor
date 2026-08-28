@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "995PEEDM9RTS/B(519537-X",
+    "confidence": 0.95,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "10-03-18",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "104 SUNQUICKOREN330ML",
+      "price": "5.35"
+    },
+    {
+      "name": "30",
+      "price": "5.05"
+    }
+  ],
+  "total_amount": {
+    "value": 5.35,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

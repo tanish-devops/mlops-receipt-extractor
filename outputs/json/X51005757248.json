@@ -1,0 +1,59 @@
+{
+  "store_name": {
+    "value": "AEON CO.MBHD126926-H",
+    "confidence": 0.97,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "1000001888854",
+      "price": "0.2"
+    },
+    {
+      "name": "1x000000616775",
+      "price": "13.94"
+    },
+    {
+      "name": "1x00000616775",
+      "price": "14.81"
+    },
+    {
+      "name": "1000000616775",
+      "price": "13.53"
+    },
+    {
+      "name": "Rounding Adj",
+      "price": "0.02"
+    },
+    {
+      "name": "Item Count 4",
+      "price": "7.5"
+    },
+    {
+      "name": "SR6",
+      "price": "0.19"
+    },
+    {
+      "name": "SR6",
+      "price": "0.01"
+    },
+    {
+      "name": "ZR@O",
+      "price": "42.28"
+    },
+    {
+      "name": "ZR@O",
+      "price": "0.0"
+    }
+  ],
+  "total_amount": {
+    "value": 42.48,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

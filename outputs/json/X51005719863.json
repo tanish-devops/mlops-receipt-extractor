@@ -1,0 +1,35 @@
+{
+  "store_name": {
+    "value": "SEN LEE HEONG RESTAURANT",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "FOOD SR",
+      "price": "67.0"
+    },
+    {
+      "name": "FOOD SR",
+      "price": "67.0"
+    },
+    {
+      "name": "GST6.0%Amount",
+      "price": "4.38"
+    },
+    {
+      "name": "ROUND ADJ",
+      "price": "0.02"
+    }
+  ],
+  "total_amount": {
+    "value": 73.0,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

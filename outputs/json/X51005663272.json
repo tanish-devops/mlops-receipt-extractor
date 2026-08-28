@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "WAHIN HARDWARE SIN BHD",
+    "confidence": 0.96,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "Gross Amount",
+      "price": "40.0"
+    },
+    {
+      "name": "Rounding Adj",
+      "price": "0.0"
+    },
+    {
+      "name": "Amount Paid",
+      "price": "42.4"
+    },
+    {
+      "name": "SR@6",
+      "price": "40.0"
+    },
+    {
+      "name": "SR@6",
+      "price": "2.4"
+    }
+  ],
+  "total_amount": {
+    "value": 2.4,
+    "confidence": 0.74,
+    "is_low_confidence": false
+  }
+}

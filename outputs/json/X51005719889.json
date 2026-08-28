@@ -1,0 +1,35 @@
+{
+  "store_name": {
+    "value": "HENG KEE DEI.IGHTS BAK KUT TEH",
+    "confidence": 0.97,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "Voucher Discount",
+      "price": "0.0"
+    },
+    {
+      "name": "Deposit",
+      "price": "0.0"
+    },
+    {
+      "name": "Rounding",
+      "price": "0.0"
+    },
+    {
+      "name": "Amount(SR",
+      "price": "39.62"
+    }
+  ],
+  "total_amount": {
+    "value": 42.0,
+    "confidence": 1.0,
+    "is_low_confidence": false
+  }
+}

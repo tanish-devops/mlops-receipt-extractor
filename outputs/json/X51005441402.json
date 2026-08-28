@@ -1,0 +1,35 @@
+{
+  "store_name": {
+    "value": "THREE STOOGES",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "03/03/2018",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "SVC SERVICE CHARGE 10",
+      "price": "150.0"
+    },
+    {
+      "name": "SVC SERVICE CHARGE 10",
+      "price": "15.0"
+    },
+    {
+      "name": "SRGST 6",
+      "price": "165.0"
+    },
+    {
+      "name": "SRGST 6",
+      "price": "9.9"
+    }
+  ],
+  "total_amount": {
+    "value": 150.0,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "store_name": {
+    "value": "YONG CEN ENTERPRISE",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "06/01/2018",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "ROUNDING",
+      "price": "0.01"
+    }
+  ],
+  "total_amount": {
+    "value": 61.99,
+    "confidence": 1.0,
+    "is_low_confidence": false
+  }
+}

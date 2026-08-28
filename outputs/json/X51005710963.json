@@ -1,0 +1,35 @@
+{
+  "store_name": {
+    "value": "TS TOOLS HARDTARE HACHIRERT SUN ED",
+    "confidence": 0.9,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "21/03/2018",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "2017",
+      "price": "7.0"
+    },
+    {
+      "name": "2017",
+      "price": "7.0"
+    },
+    {
+      "name": "DISC",
+      "price": "0.0"
+    },
+    {
+      "name": "ROUNDING",
+      "price": "0.02"
+    }
+  ],
+  "total_amount": {
+    "value": 7.0,
+    "confidence": 0.74,
+    "is_low_confidence": false
+  }
+}

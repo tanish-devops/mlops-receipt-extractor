@@ -1,0 +1,31 @@
+{
+  "store_name": {
+    "value": "KEDAI PAPAN YEWCHUAN",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "31/03/2018",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "101756",
+      "price": "174.9"
+    },
+    {
+      "name": "Discount",
+      "price": "0.0"
+    },
+    {
+      "name": "Rounding",
+      "price": "0.0"
+    }
+  ],
+  "total_amount": {
+    "value": 165.0,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

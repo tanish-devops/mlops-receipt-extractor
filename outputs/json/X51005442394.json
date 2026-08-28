@@ -1,0 +1,51 @@
+{
+  "store_name": {
+    "value": "UNIHAKKA INTERNATIONAL SDN BHD",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "5R100100000015-Vegetable",
+      "price": "1.1"
+    },
+    {
+      "name": "5R100100000015-Vegetable",
+      "price": "1.1"
+    },
+    {
+      "name": "GST6%$0.4",
+      "price": "8.2"
+    },
+    {
+      "name": "GST6%$0.4",
+      "price": "8.2"
+    },
+    {
+      "name": "ASH",
+      "price": "8.2"
+    },
+    {
+      "name": "ASH",
+      "price": "0.0"
+    },
+    {
+      "name": "SFGST@3",
+      "price": "7.74"
+    },
+    {
+      "name": "SFGST@3",
+      "price": "0.4"
+    }
+  ],
+  "total_amount": {
+    "value": 8.2,
+    "confidence": 0.71,
+    "is_low_confidence": false
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "store_name": {
+    "value": "PREMIOSTATIONERYSDNBHD",
+    "confidence": 1.0,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "1SR ENERGIZER",
+      "price": "13.4"
+    },
+    {
+      "name": "1SR ENERGIZER",
+      "price": "13.4"
+    },
+    {
+      "name": "Discount",
+      "price": "0.0"
+    }
+  ],
+  "total_amount": {
+    "value": 13.4,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

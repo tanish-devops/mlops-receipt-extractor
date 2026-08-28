@@ -1,0 +1,67 @@
+{
+  "store_name": {
+    "value": "Triple Six Point Enterprise 666",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "1xVS FUJ|500ml",
+      "price": "10.0"
+    },
+    {
+      "name": "1xVS FUJ|500ml",
+      "price": "10.0"
+    },
+    {
+      "name": "1xApollo cake",
+      "price": "6.8"
+    },
+    {
+      "name": "1xApollo cake",
+      "price": "6.5"
+    },
+    {
+      "name": "original30s",
+      "price": "0.3"
+    },
+    {
+      "name": "nuts mixwd",
+      "price": "4.2"
+    },
+    {
+      "name": "nuts mixwd",
+      "price": "4.2"
+    },
+    {
+      "name": "1xTG Coated",
+      "price": "1.9"
+    },
+    {
+      "name": "1xTG Coated",
+      "price": "1.9"
+    },
+    {
+      "name": "Discount",
+      "price": "0.3"
+    },
+    {
+      "name": "Tendered",
+      "price": "22.6"
+    },
+    {
+      "name": "Tendered",
+      "price": "22.6"
+    }
+  ],
+  "total_amount": {
+    "value": 22.6,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

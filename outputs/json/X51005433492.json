@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "UNIHAKKA INTERNATIONAL SDN BHD",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "SR100100000006-Pork",
+      "price": "2.7"
+    },
+    {
+      "name": "SR100100000006-Pork",
+      "price": "2.7"
+    },
+    {
+      "name": "Payment Mode",
+      "price": "8.2"
+    },
+    {
+      "name": "Arnount",
+      "price": "8.2"
+    },
+    {
+      "name": "774",
+      "price": "0.46"
+    }
+  ],
+  "total_amount": {
+    "value": 8.2,
+    "confidence": 0.72,
+    "is_low_confidence": false
+  }
+}

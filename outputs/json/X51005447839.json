@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "RESTAURANT JIAWEI",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "Service Charge",
+      "price": "0.0"
+    },
+    {
+      "name": "Rounding Ad justment",
+      "price": "0.0"
+    }
+  ],
+  "total_amount": {
+    "value": 65.2,
+    "confidence": 1.0,
+    "is_low_confidence": false
+  }
+}

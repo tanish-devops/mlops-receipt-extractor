@@ -1,0 +1,35 @@
+{
+  "store_name": {
+    "value": "Geoventure",
+    "confidence": 1.0,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "GTG02",
+      "price": "55.0"
+    },
+    {
+      "name": "GTG02",
+      "price": "58.3"
+    },
+    {
+      "name": "ServiceChrgIncl.GST6",
+      "price": "5.83"
+    },
+    {
+      "name": "Rounding Ad justment",
+      "price": "0.02"
+    }
+  ],
+  "total_amount": {
+    "value": 64.15,
+    "confidence": 0.73,
+    "is_low_confidence": false
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "3-1708032",
+    "confidence": 1.0,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "26-03-18",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "14ATCGLAS5CLEANERPIN",
+      "price": "10.6"
+    },
+    {
+      "name": "5=6",
+      "price": "10.0"
+    }
+  ],
+  "total_amount": {
+    "value": 10.6,
+    "confidence": 0.73,
+    "is_low_confidence": false
+  }
+}

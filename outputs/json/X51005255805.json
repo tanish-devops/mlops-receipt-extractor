@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "SAM SAM TRADING CO",
+    "confidence": 0.97,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "9557368063013",
+      "price": "5.2"
+    },
+    {
+      "name": "9557368063013",
+      "price": "5.2"
+    },
+    {
+      "name": "GST6",
+      "price": "0.8"
+    },
+    {
+      "name": "GST O",
+      "price": "0.0"
+    },
+    {
+      "name": "EXC GST 6",
+      "price": "0.0"
+    }
+  ],
+  "total_amount": {
+    "value": 14.1,
+    "confidence": 1.0,
+    "is_low_confidence": false
+  }
+}

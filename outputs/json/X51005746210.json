@@ -1,0 +1,91 @@
+{
+  "store_name": {
+    "value": "Segi Cash & Carry Sdn. Bhd.(317041-w",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "1x25.80",
+      "price": "25.8"
+    },
+    {
+      "name": "1x7.69",
+      "price": "7.69"
+    },
+    {
+      "name": "1x13.50",
+      "price": "13.5"
+    },
+    {
+      "name": "1x10.90",
+      "price": "10.9"
+    },
+    {
+      "name": "1x10.90",
+      "price": "10.9"
+    },
+    {
+      "name": "1x10.90",
+      "price": "10.9"
+    },
+    {
+      "name": "1x10.90",
+      "price": "10.9"
+    },
+    {
+      "name": "1x10.90",
+      "price": "10.9"
+    },
+    {
+      "name": "1x10.90",
+      "price": "10.9"
+    },
+    {
+      "name": "1x10.90",
+      "price": "10.9"
+    },
+    {
+      "name": "1 x10.90",
+      "price": "10.9"
+    },
+    {
+      "name": "1 x10.90",
+      "price": "10.9"
+    },
+    {
+      "name": "Rounding:RM",
+      "price": "0.01"
+    },
+    {
+      "name": "Master xxxxxxxxxxxx0000",
+      "price": "145.1"
+    },
+    {
+      "name": "Z 00.0",
+      "price": "123.9"
+    },
+    {
+      "name": "Z 00.0",
+      "price": "0.0"
+    },
+    {
+      "name": "S06.0",
+      "price": "19.99"
+    },
+    {
+      "name": "S06.0",
+      "price": "1.2"
+    }
+  ],
+  "total_amount": {
+    "value": 145.09,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

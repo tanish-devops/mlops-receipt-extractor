@@ -1,0 +1,51 @@
+{
+  "store_name": {
+    "value": "IKANO HANDEL SDN BHD",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "27/07/17",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "2 pc @269.00",
+      "price": "538.0"
+    },
+    {
+      "name": "Tota1 RM Including GST 6",
+      "price": "538.0"
+    },
+    {
+      "name": "Rounding Adj",
+      "price": "0.0"
+    },
+    {
+      "name": "Tota1 Rounded",
+      "price": "538.0"
+    },
+    {
+      "name": "Visa",
+      "price": "538.0"
+    },
+    {
+      "name": "GSTSR",
+      "price": "538.0"
+    },
+    {
+      "name": "GSTSR",
+      "price": "30.45"
+    },
+    {
+      "name": "Amt.Excl.GST",
+      "price": "507.55"
+    }
+  ],
+  "total_amount": {
+    "value": 538.0,
+    "confidence": 0.54,
+    "is_low_confidence": true
+  }
+}

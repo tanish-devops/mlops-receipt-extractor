@@ -1,0 +1,35 @@
+{
+  "store_name": {
+    "value": "MR.D.I.YMSDNBHO",
+    "confidence": 0.96,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "23-03-18",
+    "confidence": 0.97,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "9553114461423",
+      "price": "25.9"
+    },
+    {
+      "name": "9553114461423",
+      "price": "25.9"
+    },
+    {
+      "name": "99999",
+      "price": "0.2"
+    },
+    {
+      "name": "99999",
+      "price": "0.2"
+    }
+  ],
+  "total_amount": {
+    "value": 26.1,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

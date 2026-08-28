@@ -1,0 +1,31 @@
+{
+  "store_name": {
+    "value": "86W.WD",
+    "confidence": 0.86,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "07/22/16",
+    "confidence": 1.0,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "068113131172H",
+      "price": "12.58"
+    },
+    {
+      "name": "ioitto",
+      "price": "12.58"
+    },
+    {
+      "name": "VISA TEND",
+      "price": "12.58"
+    }
+  ],
+  "total_amount": {
+    "value": 12.58,
+    "confidence": 0.73,
+    "is_low_confidence": false
+  }
+}

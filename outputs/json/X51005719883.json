@@ -1,0 +1,31 @@
+{
+  "store_name": {
+    "value": "99SPEEDMARTS/B519537-X",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "17-02-18",
+    "confidence": 1.0,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "489 TIGER BEERCAN 4*6*320M",
+      "price": "108.5"
+    },
+    {
+      "name": "S=6",
+      "price": "102.36"
+    },
+    {
+      "name": "S=6",
+      "price": "6.14"
+    }
+  ],
+  "total_amount": {
+    "value": 108.5,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

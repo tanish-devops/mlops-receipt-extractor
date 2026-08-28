@@ -1,0 +1,75 @@
+{
+  "store_name": {
+    "value": "MYDIN",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "10/08/2017",
+    "confidence": 0.97,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "3555023304662",
+      "price": "2.6"
+    },
+    {
+      "name": "3555023304662",
+      "price": "5.2"
+    },
+    {
+      "name": "2300000017984",
+      "price": "0.2"
+    },
+    {
+      "name": "2300000017984",
+      "price": "0.2"
+    },
+    {
+      "name": "5555495400985",
+      "price": "3.0"
+    },
+    {
+      "name": "5555495400985",
+      "price": "3.0"
+    },
+    {
+      "name": "9555495401814",
+      "price": "2.5"
+    },
+    {
+      "name": "9555495401814",
+      "price": "2.5"
+    },
+    {
+      "name": "Totafe",
+      "price": "21.4"
+    },
+    {
+      "name": "Rounidiniga",
+      "price": "0.0"
+    },
+    {
+      "name": "5=6",
+      "price": "20.19"
+    },
+    {
+      "name": "5=6",
+      "price": "1.21"
+    },
+    {
+      "name": "0",
+      "price": "0.0"
+    },
+    {
+      "name": "0",
+      "price": "0.0"
+    }
+  ],
+  "total_amount": {
+    "value": 21.4,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "store_name": {
+    "value": "99SPEEDMARTS/B519537-X",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "07-02-18",
+    "confidence": 1.0,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "2471888 LYCHEES INSYRUP 5",
+      "price": "10.14"
+    },
+    {
+      "name": "270 CSRGULA 12*1KG",
+      "price": "35.2"
+    },
+    {
+      "name": "Rounding RM",
+      "price": "45.35"
+    },
+    {
+      "name": "CREDIT RM",
+      "price": "45.35"
+    },
+    {
+      "name": "57",
+      "price": "9.57"
+    },
+    {
+      "name": "00",
+      "price": "35.2"
+    }
+  ],
+  "total_amount": {
+    "value": 45.34,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

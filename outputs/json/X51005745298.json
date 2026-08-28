@@ -1,0 +1,35 @@
+{
+  "store_name": {
+    "value": "99SPEEDMARTS/B519537-X",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "31-03-18",
+    "confidence": 1.0,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "503100PLUS CAN325MLICE",
+      "price": "1.49"
+    },
+    {
+      "name": "501 MALTACAN320MLICE",
+      "price": "2.5"
+    },
+    {
+      "name": "RoundingRM",
+      "price": "4.0"
+    },
+    {
+      "name": "22",
+      "price": "3.77"
+    }
+  ],
+  "total_amount": {
+    "value": 3.99,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

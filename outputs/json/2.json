@@ -1,0 +1,51 @@
+{
+  "store_name": {
+    "value": "Walmart",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "10/18/20",
+    "confidence": 1.0,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "007874243408F",
+      "price": "1.76"
+    },
+    {
+      "name": "OT 200Z TUM",
+      "price": "6.74"
+    },
+    {
+      "name": "019104567781",
+      "price": "24.97"
+    },
+    {
+      "name": "008429710921",
+      "price": "12.97"
+    },
+    {
+      "name": "008429710921",
+      "price": "46.44"
+    },
+    {
+      "name": "DEBIT TEND",
+      "price": "49.9"
+    },
+    {
+      "name": "DEBIT TEND",
+      "price": "49.9"
+    },
+    {
+      "name": "EFT DEBIT",
+      "price": "0.0"
+    }
+  ],
+  "total_amount": {
+    "value": 46.44,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

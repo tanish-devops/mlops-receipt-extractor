@@ -1,0 +1,47 @@
+{
+  "store_name": {
+    "value": "HON HWA HARDWARE TRADING",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "0.9 3/4ALUMNUMROD",
+      "price": "6.0"
+    },
+    {
+      "name": "0.9 3/4ALUMNUMROD",
+      "price": "5.4"
+    },
+    {
+      "name": "5PVC WALLPLUG",
+      "price": "1.0"
+    },
+    {
+      "name": "5PVC WALLPLUG",
+      "price": "5.0"
+    },
+    {
+      "name": "5.9 Type2",
+      "price": "10.4"
+    },
+    {
+      "name": "Discount",
+      "price": "0.0"
+    },
+    {
+      "name": "Rounding Adj",
+      "price": "0.0"
+    }
+  ],
+  "total_amount": {
+    "value": 10.4,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

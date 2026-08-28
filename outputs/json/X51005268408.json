@@ -1,0 +1,43 @@
+{
+  "store_name": {
+    "value": "995PEE0MART5/B(519537-X",
+    "confidence": 0.95,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "20-11-17",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "2973PEDIASURE COMPLETE SAS",
+      "price": "117.9"
+    },
+    {
+      "name": "069MILO 2KG",
+      "price": "34.9"
+    },
+    {
+      "name": "7709ZING HEING OAT WHEAT",
+      "price": "4.1"
+    },
+    {
+      "name": "Totel Saies (Inclusive Gst) k",
+      "price": "149.78"
+    },
+    {
+      "name": "Rounding RM",
+      "price": "1169.8"
+    },
+    {
+      "name": "GST Sumnary",
+      "price": "9.41"
+    }
+  ],
+  "total_amount": {
+    "value": 1169.8,
+    "confidence": 0.47,
+    "is_low_confidence": true
+  }
+}

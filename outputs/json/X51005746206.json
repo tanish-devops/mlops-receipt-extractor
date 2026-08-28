@@ -1,0 +1,43 @@
+{
+  "store_name": {
+    "value": "PANA JAYA ENTERPAISE",
+    "confidence": 0.96,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "1 x",
+      "price": "35.0"
+    },
+    {
+      "name": "1 x",
+      "price": "70.0"
+    },
+    {
+      "name": "Tota1Exciuding GST",
+      "price": "99.06"
+    },
+    {
+      "name": "GST payable 6",
+      "price": "5.94"
+    },
+    {
+      "name": "6",
+      "price": "99.06"
+    },
+    {
+      "name": "6",
+      "price": "5.94"
+    }
+  ],
+  "total_amount": {
+    "value": 105.0,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "store_name": {
+    "value": "ECONSAVE",
+    "confidence": 1.0,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "22/03/1810",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "items": [],
+  "total_amount": {
+    "value": 5.15,
+    "confidence": 1.0,
+    "is_low_confidence": false
+  }
+}

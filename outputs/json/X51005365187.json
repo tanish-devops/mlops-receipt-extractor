@@ -1,0 +1,47 @@
+{
+  "store_name": {
+    "value": "3-1707067",
+    "confidence": 1.0,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "02/03/2018",
+    "confidence": 1.0,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "Time",
+      "price": "16.46"
+    },
+    {
+      "name": "9557892105258",
+      "price": "5.66"
+    },
+    {
+      "name": "1155",
+      "price": "6.5"
+    },
+    {
+      "name": "Discount",
+      "price": "0.0"
+    },
+    {
+      "name": "Rounding",
+      "price": "0.0"
+    },
+    {
+      "name": "2038",
+      "price": "1.22"
+    },
+    {
+      "name": "ZRL",
+      "price": "0.0"
+    }
+  ],
+  "total_amount": {
+    "value": 30.68,
+    "confidence": 1.0,
+    "is_low_confidence": false
+  }
+}

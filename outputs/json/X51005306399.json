@@ -1,0 +1,35 @@
+{
+  "store_name": {
+    "value": "Shell ISNI PEIRO TRADING",
+    "confidence": 0.96,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "R11",
+      "price": "86.0"
+    },
+    {
+      "name": "Visa",
+      "price": "86.0"
+    },
+    {
+      "name": "ARM",
+      "price": "4.87"
+    },
+    {
+      "name": "A RM",
+      "price": "86.0"
+    }
+  ],
+  "total_amount": {
+    "value": 86.0,
+    "confidence": 0.52,
+    "is_low_confidence": true
+  }
+}

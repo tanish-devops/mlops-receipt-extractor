@@ -1,0 +1,23 @@
+{
+  "store_name": {
+    "value": "GL HANDICRAFT &TAILORING",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "Paynent",
+      "price": "102.0"
+    }
+  ],
+  "total_amount": {
+    "value": 102.0,
+    "confidence": 1.0,
+    "is_low_confidence": false
+  }
+}

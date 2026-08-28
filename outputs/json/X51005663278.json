@@ -1,0 +1,55 @@
+{
+  "store_name": {
+    "value": "IKANO HANDEL SDN BHD",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "23/12/17",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "910347623 Almond Cak",
+      "price": "22.5"
+    },
+    {
+      "name": "999900245 IKEA Retai",
+      "price": "36.0"
+    },
+    {
+      "name": "539937000 TKEA Drink",
+      "price": "1.0"
+    },
+    {
+      "name": "2p6.90",
+      "price": "13.8"
+    },
+    {
+      "name": "Totai RM Including GST 6",
+      "price": "73.3"
+    },
+    {
+      "name": "Rounding Adj",
+      "price": "0.0"
+    },
+    {
+      "name": "GST SR",
+      "price": "73.3"
+    },
+    {
+      "name": "GST SR",
+      "price": "4.15"
+    },
+    {
+      "name": "Amt.Exc1.GST",
+      "price": "69.15"
+    }
+  ],
+  "total_amount": {
+    "value": 73.3,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "store_name": {
+    "value": "PappaRich BMC",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "D28 MILODINOIE",
+      "price": "7.45"
+    },
+    {
+      "name": "2R03 NLEMAK+fCE@17.83",
+      "price": "35.66"
+    },
+    {
+      "name": "N22SPRG NDL+Su+Cr E",
+      "price": "9.34"
+    },
+    {
+      "name": "B02HALF BLEGG E",
+      "price": "4.53"
+    },
+    {
+      "name": "D19 CHAMIE",
+      "price": "5.57"
+    },
+    {
+      "name": "10%SrvChg",
+      "price": "6.25"
+    },
+    {
+      "name": "6%GST",
+      "price": "4.13"
+    },
+    {
+      "name": "RND ADJ",
+      "price": "0.02"
+    },
+    {
+      "name": "TTL ATF RND",
+      "price": "72.95"
+    },
+    {
+      "name": "Payment",
+      "price": "73.0"
+    },
+    {
+      "name": "S=GST@6%68.82",
+      "price": "4.13"
+    },
+    {
+      "name": "Z=GST@O%0.00",
+      "price": "0.0"
+    }
+  ],
+  "total_amount": {
+    "value": 62.55,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "store_name": {
+    "value": "PERNIAGAAN ZHENG HUI",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "3934",
+      "price": "7.56"
+    },
+    {
+      "name": "3934",
+      "price": "7.55"
+    },
+    {
+      "name": "DiscountRM",
+      "price": "0.0"
+    },
+    {
+      "name": "Rounding RM",
+      "price": "0.0"
+    }
+  ],
+  "total_amount": {
+    "value": 7.55,
+    "confidence": 0.7,
+    "is_low_confidence": false
+  }
+}

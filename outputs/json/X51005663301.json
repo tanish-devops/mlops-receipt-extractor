@@ -1,0 +1,35 @@
+{
+  "store_name": {
+    "value": "LIM SENG THOHARDWARE TRADING",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "10.00NOS",
+      "price": "0.7"
+    },
+    {
+      "name": "10.00NOS",
+      "price": "7.0"
+    },
+    {
+      "name": "Payment",
+      "price": "7.0"
+    },
+    {
+      "name": "040",
+      "price": "6.6"
+    }
+  ],
+  "total_amount": {
+    "value": 7.0,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

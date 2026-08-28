@@ -1,0 +1,31 @@
+{
+  "store_name": {
+    "value": "MB3 ICHo9C",
+    "confidence": 0.86,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "12/03/2018",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "101869",
+      "price": "60.0"
+    },
+    {
+      "name": "Discount",
+      "price": "0.0"
+    },
+    {
+      "name": "Rounding",
+      "price": "0.0"
+    }
+  ],
+  "total_amount": {
+    "value": 283.55,
+    "confidence": 1.0,
+    "is_low_confidence": false
+  }
+}

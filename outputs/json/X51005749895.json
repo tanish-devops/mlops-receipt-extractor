@@ -1,0 +1,43 @@
+{
+  "store_name": {
+    "value": "MR.O.I.MSDNBHD",
+    "confidence": 0.94,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "9072351",
+      "price": "23.9"
+    },
+    {
+      "name": "9072351",
+      "price": "47.8"
+    },
+    {
+      "name": "9556111988559",
+      "price": "8.9"
+    },
+    {
+      "name": "9556111988559",
+      "price": "8.9"
+    },
+    {
+      "name": "GST S@6",
+      "price": "67.83"
+    },
+    {
+      "name": "GST S@6",
+      "price": "4.07"
+    }
+  ],
+  "total_amount": {
+    "value": 71.9,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

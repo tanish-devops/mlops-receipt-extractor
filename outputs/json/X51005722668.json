@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "MYHAPPYPHARMACYPLT",
+    "confidence": 1.0,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "OTC-000127",
+      "price": "20.5"
+    },
+    {
+      "name": "OTC-000127",
+      "price": "20.5"
+    },
+    {
+      "name": "Toiai SaiesExcluding GST",
+      "price": "19.34"
+    },
+    {
+      "name": "Discount",
+      "price": "0.0"
+    },
+    {
+      "name": "Rounding",
+      "price": "0.0"
+    }
+  ],
+  "total_amount": {
+    "value": 1.16,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

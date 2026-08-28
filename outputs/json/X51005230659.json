@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "SWCENTERPRISE SDNBHD",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "08/01/2018",
+    "confidence": 1.0,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "20X301KG",
+      "price": "8.0"
+    },
+    {
+      "name": "20X301KG",
+      "price": "8.0"
+    }
+  ],
+  "total_amount": {
+    "value": 8.0,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

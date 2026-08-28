@@ -1,0 +1,99 @@
+{
+  "store_name": {
+    "value": "STARGROCERSDNBHD1171881-W",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "25/03/18",
+    "confidence": 1.0,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "1800001501",
+      "price": "1.59"
+    },
+    {
+      "name": "1800001501",
+      "price": "12.72"
+    },
+    {
+      "name": "200033100148002149",
+      "price": "6.92"
+    },
+    {
+      "name": "200033100148002149",
+      "price": "1.48"
+    },
+    {
+      "name": "200010800259005280",
+      "price": "4.91"
+    },
+    {
+      "name": "200010800259005280",
+      "price": "2.59"
+    },
+    {
+      "name": "1810064501",
+      "price": "8.6"
+    },
+    {
+      "name": "1810064501",
+      "price": "17.2"
+    },
+    {
+      "name": "200017100108008367",
+      "price": "1.29"
+    },
+    {
+      "name": "200017100108008367",
+      "price": "1.08"
+    },
+    {
+      "name": "1810078202",
+      "price": "7.5"
+    },
+    {
+      "name": "1810078202",
+      "price": "7.5"
+    },
+    {
+      "name": "1810061602",
+      "price": "5.9"
+    },
+    {
+      "name": "1810061602",
+      "price": "23.6"
+    },
+    {
+      "name": "Item7",
+      "price": "66.17"
+    },
+    {
+      "name": "Qty",
+      "price": "0.02"
+    },
+    {
+      "name": "S=6",
+      "price": "0.0"
+    },
+    {
+      "name": "S=6",
+      "price": "0.0"
+    },
+    {
+      "name": "Z=0",
+      "price": "66.17"
+    },
+    {
+      "name": "Z=0",
+      "price": "0.0"
+    }
+  ],
+  "total_amount": {
+    "value": 66.17,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

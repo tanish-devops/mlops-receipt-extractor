@@ -1,0 +1,43 @@
+{
+  "store_name": {
+    "value": "A03096",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "2018-03-23",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "Ribs Platter",
+      "price": "259.9"
+    },
+    {
+      "name": "Naughty Spare Rib -Fu11",
+      "price": "106.9"
+    },
+    {
+      "name": "Fruity Garden Salad",
+      "price": "21.9"
+    },
+    {
+      "name": "Sub-tota",
+      "price": "593.1"
+    },
+    {
+      "name": "InclusiveGST 6",
+      "price": "33.57"
+    },
+    {
+      "name": "19:32:35",
+      "price": "593.1"
+    }
+  ],
+  "total_amount": {
+    "value": 593.1,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "store_name": {
+    "value": "YHM Aeon Tebrau City",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "FG-A00019",
+      "price": "1.5"
+    },
+    {
+      "name": "FG-A00019",
+      "price": "1.5"
+    },
+    {
+      "name": "FG-Y00183",
+      "price": "15.8"
+    },
+    {
+      "name": "Payment Details",
+      "price": "50.0"
+    }
+  ],
+  "total_amount": {
+    "value": 49.7,
+    "confidence": 0.74,
+    "is_low_confidence": false
+  }
+}

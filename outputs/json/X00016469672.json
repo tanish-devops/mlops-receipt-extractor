@@ -1,0 +1,91 @@
+{
+  "store_name": {
+    "value": "tan chay yee",
+    "confidence": 1.0,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "80.00",
+      "price": "80.0"
+    },
+    {
+      "name": "80.00",
+      "price": "80.0"
+    },
+    {
+      "name": "160.00",
+      "price": "160.0"
+    },
+    {
+      "name": "160.00",
+      "price": "160.0"
+    },
+    {
+      "name": "17.00",
+      "price": "17.0"
+    },
+    {
+      "name": "17.00",
+      "price": "17.0"
+    },
+    {
+      "name": "10.00",
+      "price": "10.0"
+    },
+    {
+      "name": "10.00",
+      "price": "10.0"
+    },
+    {
+      "name": "6.00",
+      "price": "6.0"
+    },
+    {
+      "name": "8.00",
+      "price": "8.0"
+    },
+    {
+      "name": "8.00",
+      "price": "8.0"
+    },
+    {
+      "name": "10.00",
+      "price": "10.0"
+    },
+    {
+      "name": "10.00",
+      "price": "10.0"
+    },
+    {
+      "name": "18.00",
+      "price": "18.0"
+    },
+    {
+      "name": "18.00",
+      "price": "36.0"
+    },
+    {
+      "name": "Discount",
+      "price": "0.0"
+    },
+    {
+      "name": "327.00",
+      "price": "0.0"
+    },
+    {
+      "name": "Rounding",
+      "price": "0.0"
+    }
+  ],
+  "total_amount": {
+    "value": 327.0,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "store_name": {
+    "value": "CARREFOUR RESTAURANT",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "20/03/2018",
+    "confidence": 1.0,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "238",
+      "price": "10.0"
+    },
+    {
+      "name": "238",
+      "price": "10.0"
+    },
+    {
+      "name": "1033",
+      "price": "3.0"
+    },
+    {
+      "name": "1033",
+      "price": "3.0"
+    },
+    {
+      "name": "DISC",
+      "price": "13.0"
+    },
+    {
+      "name": "DISC",
+      "price": "0.0"
+    },
+    {
+      "name": "SERVICE CHARGE",
+      "price": "0.0"
+    },
+    {
+      "name": "ROUNDING",
+      "price": "0.78"
+    },
+    {
+      "name": "ROUNDING",
+      "price": "0.02"
+    }
+  ],
+  "total_amount": {
+    "value": 0.0,
+    "confidence": 0.72,
+    "is_low_confidence": false
+  }
+}

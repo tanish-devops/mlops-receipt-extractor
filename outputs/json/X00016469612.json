@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "tan woon yann",
+    "confidence": 1.0,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "1PC",
+      "price": "0.0"
+    },
+    {
+      "name": "1PC",
+      "price": "9.0"
+    },
+    {
+      "name": "Rour Jing Adjustment",
+      "price": "0.0"
+    },
+    {
+      "name": "Roundd TotaiRM",
+      "price": "9.0"
+    },
+    {
+      "name": "100",
+      "price": "10.0"
+    }
+  ],
+  "total_amount": {
+    "value": 9.0,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

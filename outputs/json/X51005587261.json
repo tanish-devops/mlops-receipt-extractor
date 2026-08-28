@@ -1,0 +1,18 @@
+{
+  "store_name": {
+    "value": "CHOP YEW LIAN",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "23/03/1714",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "items": [],
+  "total_amount": {
+    "value": 30.0,
+    "confidence": 0.76,
+    "is_low_confidence": false
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "995PEEDMART5/3(519537-X",
+    "confidence": 0.95,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "28-01-18",
+    "confidence": 0.97,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "5593LEA8PERRINS SOSWORC",
+      "price": "98.89"
+    },
+    {
+      "name": "CREDIT RM",
+      "price": "98.9"
+    }
+  ],
+  "total_amount": {
+    "value": 98.89,
+    "confidence": 0.69,
+    "is_low_confidence": true
+  }
+}

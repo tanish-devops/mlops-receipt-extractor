@@ -1,0 +1,43 @@
+{
+  "store_name": {
+    "value": "tan chay yee",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
+  },
+  "items": [
+    {
+      "name": "1170.00",
+      "price": "170.0"
+    },
+    {
+      "name": "Round Amt",
+      "price": "170.0"
+    },
+    {
+      "name": "Round Amt",
+      "price": "0.0"
+    },
+    {
+      "name": "VISA CARD",
+      "price": "170.0"
+    },
+    {
+      "name": "VISA CARD",
+      "price": "170.0"
+    },
+    {
+      "name": "ApprovalCode:123",
+      "price": "170.0"
+    }
+  ],
+  "total_amount": {
+    "value": 0.0,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

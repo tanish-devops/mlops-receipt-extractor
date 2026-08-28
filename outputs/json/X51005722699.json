@@ -1,0 +1,35 @@
+{
+  "store_name": {
+    "value": "POPULAR BOOK",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "11/02/1819",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "PB D/S Tape 12mm",
+      "price": "1.9"
+    },
+    {
+      "name": "H/C A4400'S",
+      "price": "9.9"
+    },
+    {
+      "name": "T@ 6",
+      "price": "11.13"
+    },
+    {
+      "name": "T@ 6",
+      "price": "0.67"
+    }
+  ],
+  "total_amount": {
+    "value": 11.8,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

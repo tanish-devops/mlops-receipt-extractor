@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "93rmwbnt",
+    "confidence": 0.83,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "02/12/2017",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "Item",
+      "price": "7.42"
+    },
+    {
+      "name": "Discount",
+      "price": "0.0"
+    },
+    {
+      "name": "Rounding",
+      "price": "0.0"
+    },
+    {
+      "name": "Totel",
+      "price": "0.42"
+    },
+    {
+      "name": "Totel",
+      "price": "7.0"
+    }
+  ],
+  "total_amount": {
+    "value": 0.0,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

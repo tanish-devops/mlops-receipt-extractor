@@ -1,0 +1,59 @@
+{
+  "store_name": {
+    "value": "SUSHI MENTAI -PANDAN INDAH",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "09-04-2018",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "1 x",
+      "price": "0.0"
+    },
+    {
+      "name": "1 x",
+      "price": "0.0"
+    },
+    {
+      "name": "4 x",
+      "price": "1.8"
+    },
+    {
+      "name": "4 x",
+      "price": "7.2"
+    },
+    {
+      "name": "2 x",
+      "price": "5.6"
+    },
+    {
+      "name": "Serv.Charge10",
+      "price": "2.66"
+    },
+    {
+      "name": "GST Payable",
+      "price": "1.76"
+    },
+    {
+      "name": "Rounding Adj",
+      "price": "0.02"
+    },
+    {
+      "name": "6",
+      "price": "29.26"
+    },
+    {
+      "name": "6",
+      "price": "1.76"
+    }
+  ],
+  "total_amount": {
+    "value": 26.6,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "store_name": {
+    "value": "B.I.G",
+    "confidence": 0.98,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "09/03/18",
+    "confidence": 1.0,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "3068320113784",
+      "price": "53.5"
+    },
+    {
+      "name": "3068320113784",
+      "price": "107.0"
+    },
+    {
+      "name": "1430018201",
+      "price": "8.9"
+    },
+    {
+      "name": "1430018201",
+      "price": "26.7"
+    },
+    {
+      "name": "Item2",
+      "price": "133.7"
+    },
+    {
+      "name": "Qty5",
+      "price": "0.0"
+    },
+    {
+      "name": "Totai Saving",
+      "price": "0.0"
+    },
+    {
+      "name": "Totai Saving",
+      "price": "133.7"
+    },
+    {
+      "name": "S=6",
+      "price": "100.94"
+    },
+    {
+      "name": "S=6",
+      "price": "6.06"
+    },
+    {
+      "name": "Z= 0",
+      "price": "26.7"
+    },
+    {
+      "name": "Z= 0",
+      "price": "0.0"
+    }
+  ],
+  "total_amount": {
+    "value": 133.7,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}

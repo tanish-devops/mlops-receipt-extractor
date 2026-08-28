@@ -1,0 +1,43 @@
+{
+  "store_name": {
+    "value": "Cash Sale",
+    "confidence": 0.99,
+    "is_low_confidence": false
+  },
+  "date": {
+    "value": "06/02/2018",
+    "confidence": 1.0,
+    "is_low_confidence": false
+  },
+  "items": [
+    {
+      "name": "1UNIT",
+      "price": "13.5"
+    },
+    {
+      "name": "1UNIT",
+      "price": "0.0"
+    },
+    {
+      "name": "1UNIT",
+      "price": "13.5"
+    },
+    {
+      "name": "Rounding Adjustment",
+      "price": "0.0"
+    },
+    {
+      "name": "SR@6",
+      "price": "12.74"
+    },
+    {
+      "name": "SR@6",
+      "price": "0.76"
+    }
+  ],
+  "total_amount": {
+    "value": 13.5,
+    "confidence": 0.75,
+    "is_low_confidence": false
+  }
+}
