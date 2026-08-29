@@ -3,13 +3,17 @@ Receipt OCR and Expense Extraction Pipeline
 Project Overview:
 This project is built to process scanned and mobile-captured receipt images containing noise, lighting issues, and varied layouts.
 The pipeline performs:
+```bash
 
-Image Preprocessing: Straightens tilted images (deskewing), removes image noise, and enhances contrast.
-Text Extraction (OCR): Uses PaddleOCR to read text, polygon bounding boxes, and detection confidence scores.
-Key Field Extraction: Extracts merchant name, transaction date, line items with prices, and grand total.
-Confidence & Reliability Scoring: Combines OCR scores with regex pattern validation, keyword heuristics, and math cross-validation to assign a score ($0.0$ to $1.0$) and flag low-confidence values ($< 0.70$).
-Financial Summary: Aggregates total spend, counts transactions, and merges similar store names using fuzzy matching
+1.Image Preprocessing: Straightens tilted images (deskewing), removes image noise, and enhances contrast.
+1.Text Extraction (OCR): Uses PaddleOCR to read text, polygon bounding boxes, and detection confidence scores.
+2.Key Field Extraction: Extracts merchant name, transaction date, line items with prices, and grand total.
+3.Confidence & Reliability Scoring: Combines OCR scores with regex pattern validation, keyword heuristics,
+and math cross-validation to assign a score ($0.0$ to $1.0$) and flag low-confidence values ($< 0.70$).
+4.Financial Summary: Aggregates total spend, counts transactions, and merges similar store names using fuzzy matching
+```
 
+```bash
 receipt-ocr-pipeline/
 ├── data/
 │   └── receipts/               # Raw receipt images (.png, .jpg)
@@ -28,13 +32,16 @@ receipt-ocr-pipeline/
 ├── fast_parse.py               # Fast parser (Uses cached OCR results -> Instant JSONs)
 ├── requirements.txt            # Python dependencies
 └── README.md                   # Documentation
+```
 
 
 Tech Stack & ToolsProgramming Language:
+```bash
 Python
 Computer Vision: OpenCV (cv2), NumPy
 OCR Framework: PaddleOCR
 Data Processing & Utilities: re (Regular Expressions), difflib, tqdm, json
+```
 
 Setup & Installation-
 
@@ -68,6 +75,7 @@ python main.py
 ```
 
 # Financial Summary
+```bash
 
 {
   "total_spend": $23734.97,
@@ -79,7 +87,7 @@ python main.py
     "PERNIAGAAN ZHENG HUI": 857.45,
   }
 }
-
+```
 # Future Improvements
 Adding GPU batching for faster large-scale OCR processing.
 
