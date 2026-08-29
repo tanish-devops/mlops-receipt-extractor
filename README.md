@@ -70,13 +70,13 @@ python main.py
 # Financial Summary
 
 {
-  "total_spend": 27006.38,
+  "total_spend": $23734.97,
   "number_of_transactions": 371,
-  "low_confidence_transactions_count": 14,
-  "spend_per_store": {
-    "WALMART": 412.50,
-    "WHOLE FOODS MARKET": 310.20,
-    "DOLLAR TREE": 124.00
+  "low_confidence_transactions_count": 25,
+  "top3_stores_spending": {
+    "SYARIKAT PERNIAGAAN GIN KEE": 1748.04,
+    "KEDAI PAPAN YEW CHUAN": 1131.0,
+    "PERNIAGAAN ZHENG HUI": 857.45,
   }
 }
 
