@@ -6,33 +6,25 @@
   },
   "date": {
     "value": "31-03-2018",
-    "confidence": 0.98,
+    "confidence": 0.99,
     "is_low_confidence": false
   },
   "items": [
-    {
-      "name": "1 X",
-      "price": "19.8"
-    },
-    {
-      "name": "4 X",
-      "price": "1.8"
-    },
-    {
-      "name": "4 X",
-      "price": "7.2"
-    },
     {
       "name": "Tota1 Excluding GST",
       "price": "56.2"
     },
     {
-      "name": "Serv.Charge (10",
+      "name": "Serv.Charge 10x",
       "price": "5.62"
     },
     {
       "name": "GST Payable",
       "price": "3.71"
+    },
+    {
+      "name": "Tota1 Inclusive of GST",
+      "price": "65.53"
     },
     {
       "name": "Rounding Adj",
@@ -52,7 +44,7 @@
     }
   ],
   "total_amount": {
-    "value": 65.53,
+    "value": 65.55,
     "confidence": 0.75,
     "is_low_confidence": false
   }

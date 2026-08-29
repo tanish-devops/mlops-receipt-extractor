@@ -1,31 +1,31 @@
 {
   "store_name": {
     "value": "Subway#42210-0 Phone 03-78870693",
-    "confidence": 0.99,
+    "confidence": 1.0,
     "is_low_confidence": false
   },
   "date": {
-    "value": null,
-    "confidence": 0.36,
-    "is_low_confidence": true
+    "value": "27/02/2018",
+    "confidence": 1.0,
+    "is_low_confidence": false
   },
   "items": [
     {
-      "name": "MY) EDV Mea",
+      "name": "MY) EDV Mea1",
       "price": "11.9"
     },
     {
-      "name": "MY) EDV Meal",
+      "name": "MY) EDV Mea1",
       "price": "11.9"
     },
     {
-      "name": "Tota1-Excl-GST",
+      "name": "Tota1-Exc1-GST",
       "price": "22.65"
     }
   ],
   "total_amount": {
     "value": 24.0,
-    "confidence": 0.73,
+    "confidence": 0.72,
     "is_low_confidence": false
   }
 }

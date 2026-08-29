@@ -1,22 +1,26 @@
 {
   "store_name": {
     "value": "SYARIKAT PERNIAGAAN GIN KEE",
-    "confidence": 0.98,
+    "confidence": 0.99,
     "is_low_confidence": false
   },
   "date": {
-    "value": null,
-    "confidence": 0.36,
-    "is_low_confidence": true
+    "value": "04/12/2017",
+    "confidence": 0.99,
+    "is_low_confidence": false
   },
   "items": [
     {
-      "name": "Tolal Sales (Excluding GsT",
-      "price": "45.0"
+      "name": "USER",
+      "price": "16.15"
     },
     {
-      "name": "Discount",
-      "price": "0.0"
+      "name": "4770",
+      "price": "15.9"
+    },
+    {
+      "name": "Tolal Sales (Excluding GsT",
+      "price": "45.0"
     },
     {
       "name": "Rounding",
@@ -25,7 +29,7 @@
   ],
   "total_amount": {
     "value": 2.7,
-    "confidence": 0.74,
+    "confidence": 0.75,
     "is_low_confidence": false
   }
 }

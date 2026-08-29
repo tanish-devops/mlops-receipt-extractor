@@ -1,34 +1,30 @@
 {
   "store_name": {
-    "value": "EVERGREENLIGHT SDNBHD",
-    "confidence": 0.98,
+    "value": "EVERGREEN LIGHT SDN BHD",
+    "confidence": 0.97,
     "is_low_confidence": false
   },
   "date": {
-    "value": null,
-    "confidence": 0.36,
-    "is_low_confidence": true
+    "value": "18/09/2017",
+    "confidence": 0.99,
+    "is_low_confidence": false
   },
   "items": [
     {
-      "name": "11598",
-      "price": "12.26"
-    },
-    {
-      "name": "11598",
-      "price": "24.57"
-    },
-    {
-      "name": "TOIGETE",
+      "name": "ToGSTE",
       "price": "1.47"
     },
     {
-      "name": "ROUNDING ADILET",
+      "name": "ROUNDING ADJUET",
       "price": "0.01"
     },
     {
-      "name": "8RE-6",
-      "price": "34.52"
+      "name": "s-8RE)-6",
+      "price": "24.52"
+    },
+    {
+      "name": "s-8RE)-6",
+      "price": "1.47"
     }
   ],
   "total_amount": {

@@ -1,6 +1,6 @@
 {
   "store_name": {
-    "value": "SWCENTERPRISE SDNBHI",
+    "value": "SWC ENTERPRISE SDNBHD",
     "confidence": 0.98,
     "is_low_confidence": false
   },
@@ -11,15 +11,11 @@
   },
   "items": [
     {
-      "name": "0L523B621-1",
+      "name": "OLS23B621-1",
       "price": "2.0"
     },
     {
-      "name": "0L523B621-1",
-      "price": "2.0"
-    },
-    {
-      "name": "OPPTAPE1.5",
+      "name": "OLS23B621-1",
       "price": "2.0"
     },
     {
@@ -27,8 +23,8 @@
       "price": "2.0"
     },
     {
-      "name": "GST o% Incnded n Tots",
-      "price": "0.22"
+      "name": "OPPTAPE1.5",
+      "price": "2.0"
     }
   ],
   "total_amount": {

@@ -1,12 +1,12 @@
 {
   "store_name": {
     "value": "POPULAR BOOK",
-    "confidence": 0.98,
+    "confidence": 0.99,
     "is_low_confidence": false
   },
   "date": {
-    "value": "12/01/1816",
-    "confidence": 0.99,
+    "value": "12/01/18",
+    "confidence": 1.0,
     "is_low_confidence": false
   },
   "items": [

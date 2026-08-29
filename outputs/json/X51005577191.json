@@ -1,7 +1,7 @@
 {
   "store_name": {
-    "value": "FY EAGLE ENTERPRTSE",
-    "confidence": 0.94,
+    "value": "FY EAOLE ENTERPRISE",
+    "confidence": 0.96,
     "is_low_confidence": false
   },
   "date": {
@@ -10,14 +10,6 @@
     "is_low_confidence": false
   },
   "items": [
-    {
-      "name": "13451",
-      "price": "10.0"
-    },
-    {
-      "name": "13451",
-      "price": "10.0"
-    },
     {
       "name": "DISC",
       "price": "0.0"
@@ -33,7 +25,7 @@
   ],
   "total_amount": {
     "value": 9.43,
-    "confidence": 0.74,
+    "confidence": 1.0,
     "is_low_confidence": false
   }
 }

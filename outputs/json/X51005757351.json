@@ -1,12 +1,12 @@
 {
   "store_name": {
-    "value": "MR.D.I.YMSDNBHD",
-    "confidence": 0.97,
+    "value": "318 03054",
+    "confidence": 0.98,
     "is_low_confidence": false
   },
   "date": {
     "value": "33-53-12",
-    "confidence": 0.99,
+    "confidence": 1.0,
     "is_low_confidence": false
   },
   "items": [
@@ -29,7 +29,7 @@
   ],
   "total_amount": {
     "value": 14.9,
-    "confidence": 0.75,
+    "confidence": 0.73,
     "is_low_confidence": false
   }
 }

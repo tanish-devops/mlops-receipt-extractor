@@ -1,7 +1,7 @@
 {
   "store_name": {
-    "value": "Q0543",
-    "confidence": 0.9,
+    "value": "Q05P3",
+    "confidence": 0.86,
     "is_low_confidence": false
   },
   "date": {
@@ -21,11 +21,15 @@
     {
       "name": "1 Sma11 Cone",
       "price": "1.0"
+    },
+    {
+      "name": "Tota1 Rounded",
+      "price": "38.9"
     }
   ],
   "total_amount": {
     "value": 38.9,
-    "confidence": 1.0,
+    "confidence": 0.75,
     "is_low_confidence": false
   }
 }

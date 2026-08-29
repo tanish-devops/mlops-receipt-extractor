@@ -1,7 +1,7 @@
 {
   "store_name": {
     "value": "TEO HENG STATIONERY & BOOKS",
-    "confidence": 0.97,
+    "confidence": 0.99,
     "is_low_confidence": false
   },
   "date": {
@@ -21,18 +21,6 @@
     {
       "name": "1355",
       "price": "3.8"
-    },
-    {
-      "name": "9557950605126",
-      "price": "2.74"
-    },
-    {
-      "name": "9557950605126",
-      "price": "4.96"
-    },
-    {
-      "name": "9557950605126",
-      "price": "13.0"
     },
     {
       "name": "9557369315029",
@@ -64,7 +52,7 @@
     }
   ],
   "total_amount": {
-    "value": 25.8,
+    "value": 1.55,
     "confidence": 0.75,
     "is_low_confidence": false
   }

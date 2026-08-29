@@ -5,8 +5,8 @@
     "is_low_confidence": false
   },
   "date": {
-    "value": "01-03-185",
-    "confidence": 0.98,
+    "value": "01-03-18",
+    "confidence": 0.97,
     "is_low_confidence": false
   },
   "items": [
@@ -15,25 +15,17 @@
       "price": "20.0"
     },
     {
-      "name": "GST @6",
+      "name": "GST @ 6",
       "price": "1.2"
     },
     {
       "name": "Rounding Adj",
       "price": "0.0"
-    },
-    {
-      "name": "SR@6",
-      "price": "20.0"
-    },
-    {
-      "name": "SR@6",
-      "price": "1.2"
     }
   ],
   "total_amount": {
     "value": 20.0,
-    "confidence": 0.75,
+    "confidence": 1.0,
     "is_low_confidence": false
   }
 }

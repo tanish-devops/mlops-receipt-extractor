@@ -1,38 +1,38 @@
 {
   "store_name": {
-    "value": "SIN LIANHAP SON BHD",
-    "confidence": 0.97,
+    "value": "SIN LIANHAP SON GHD",
+    "confidence": 0.94,
     "is_low_confidence": false
   },
   "date": {
     "value": "05/02/2018",
-    "confidence": 0.99,
+    "confidence": 0.98,
     "is_low_confidence": false
   },
   "items": [
     {
-      "name": "1.000PCx",
+      "name": "1.000PC",
       "price": "2.0"
     },
     {
-      "name": "1.000PCX",
+      "name": "1.000PC",
       "price": "5.3"
     },
     {
-      "name": "TutaSaes Erng GsT",
-      "price": "6.69"
+      "name": "Ta Saes Erotng GST",
+      "price": "6.89"
     },
     {
-      "name": "tounding Adjustment",
-      "price": "0.0"
-    },
-    {
-      "name": "Payment",
+      "name": "Tatal Sales Inclustve of GST",
       "price": "7.3"
     },
     {
-      "name": "SR6",
-      "price": "6.89"
+      "name": "ounding Adjustment",
+      "price": "0.0"
+    },
+    {
+      "name": "Paymert",
+      "price": "7.3"
     },
     {
       "name": "SR6",

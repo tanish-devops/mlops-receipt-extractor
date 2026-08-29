@@ -1,25 +1,25 @@
 {
   "store_name": {
-    "value": "7450 CYPRESS GARDENS BLVD",
-    "confidence": 0.97,
+    "value": "ak yu 1# 7QD13/15/NX5",
+    "confidence": 0.91,
     "is_low_confidence": false
   },
   "date": {
-    "value": "10/31/2110",
-    "confidence": 0.98,
+    "value": "10/31/21",
+    "confidence": 1.0,
     "is_low_confidence": false
   },
   "items": [
     {
-      "name": "007874235191F",
+      "name": "0078/4235191F",
       "price": "0.98"
     },
     {
-      "name": "007874206203F",
+      "name": "0078/4206203F",
       "price": "0.98"
     },
     {
-      "name": "GREAT VALUE",
+      "name": "GREAI VAL",
       "price": "2.84"
     },
     {
@@ -27,16 +27,8 @@
       "price": "2.84"
     },
     {
-      "name": "003700077007",
+      "name": "GAIN",
       "price": "6.97"
-    },
-    {
-      "name": "GVVEG On",
-      "price": "4.94"
-    },
-    {
-      "name": "SNICKER ES",
-      "price": "7.82"
     },
     {
       "name": "GDBR FS 6PK",
@@ -47,19 +39,19 @@
       "price": "4.76"
     },
     {
-      "name": "004000047587F",
+      "name": "004000047587",
       "price": "13.24"
     },
     {
-      "name": "004326880002F",
+      "name": "004326880002",
       "price": "1.78"
     },
     {
-      "name": "003700082355",
+      "name": "003700082365",
       "price": "1.97"
     },
     {
-      "name": "BATTERIES",
+      "name": "035497333521H",
       "price": "9.97"
     },
     {
@@ -75,7 +67,7 @@
       "price": "1.58"
     },
     {
-      "name": "002740026499",
+      "name": "002740026499F",
       "price": "3.46"
     },
     {
@@ -87,15 +79,7 @@
       "price": "82.75"
     },
     {
-      "name": "Detauyayor",
-      "price": "7.0"
-    },
-    {
-      "name": "Detauyayor",
-      "price": "3.6"
-    },
-    {
-      "name": "Detauyayor",
+      "name": "DEBIT TEND",
       "price": "86.35"
     },
     {

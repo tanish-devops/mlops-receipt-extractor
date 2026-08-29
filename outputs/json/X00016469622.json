@@ -11,14 +11,6 @@
   },
   "items": [
     {
-      "name": "USER",
-      "price": "1231.0"
-    },
-    {
-      "name": "TolaGST",
-      "price": "0.0"
-    },
-    {
       "name": "80.90",
       "price": "100.0"
     },
@@ -28,8 +20,8 @@
     }
   ],
   "total_amount": {
-    "value": 80.91,
-    "confidence": 0.73,
+    "value": 80.9,
+    "confidence": 0.71,
     "is_low_confidence": false
   }
 }

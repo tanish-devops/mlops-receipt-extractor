@@ -1,6 +1,6 @@
 {
   "store_name": {
-    "value": "LA STATIONERY SDN BHD(640899-P",
+    "value": "LA STATIONERY SDN BHD (640899-P",
     "confidence": 0.97,
     "is_low_confidence": false
   },
@@ -23,27 +23,15 @@
       "price": "14.3"
     },
     {
-      "name": "5PCS",
+      "name": "2 PCS",
       "price": "2.86"
     },
     {
-      "name": "5PCS",
+      "name": "2 PCS",
       "price": "0.0"
     },
     {
-      "name": "5PCS",
-      "price": "14.3"
-    },
-    {
-      "name": "2PCS",
-      "price": "2.86"
-    },
-    {
-      "name": "2PCS",
-      "price": "0.0"
-    },
-    {
-      "name": "2PCS",
+      "name": "2 PCS",
       "price": "5.72"
     },
     {
@@ -71,15 +59,15 @@
       "price": "7.42"
     },
     {
-      "name": "1 PCS",
+      "name": "1PCS",
       "price": "2.33"
     },
     {
-      "name": "1 PCS",
+      "name": "1PCS",
       "price": "0.0"
     },
     {
-      "name": "1 PCS",
+      "name": "1PCS",
       "price": "2.33"
     },
     {
@@ -101,10 +89,6 @@
     {
       "name": "R@6",
       "price": "53.58"
-    },
-    {
-      "name": "R@6",
-      "price": "3.21"
     }
   ],
   "total_amount": {

@@ -1,17 +1,17 @@
 {
   "store_name": {
-    "value": "Subway#42210-0Phone 03-78870693",
+    "value": "Subway#42210-0 Phone 03-78870693",
     "confidence": 0.98,
     "is_low_confidence": false
   },
   "date": {
-    "value": null,
-    "confidence": 0.36,
-    "is_low_confidence": true
+    "value": "14/02/2018",
+    "confidence": 0.98,
+    "is_low_confidence": false
   },
   "items": [
     {
-      "name": "MYEDV Mea1",
+      "name": "MY) EDV Mea1",
       "price": "11.9"
     }
   ],

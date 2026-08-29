@@ -1,7 +1,7 @@
 {
   "store_name": {
-    "value": "SWCENTERPRISE SDNBHD",
-    "confidence": 0.99,
+    "value": "SWC ENTERPRISE SDNBHD",
+    "confidence": 0.98,
     "is_low_confidence": false
   },
   "date": {
@@ -13,15 +13,11 @@
     {
       "name": "20X301KG",
       "price": "8.0"
-    },
-    {
-      "name": "20X301KG",
-      "price": "8.0"
     }
   ],
   "total_amount": {
     "value": 8.0,
-    "confidence": 0.75,
+    "confidence": 1.0,
     "is_low_confidence": false
   }
 }

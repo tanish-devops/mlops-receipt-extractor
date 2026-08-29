@@ -5,26 +5,22 @@
     "is_low_confidence": false
   },
   "date": {
-    "value": "20/01/2018",
-    "confidence": 0.98,
-    "is_low_confidence": false
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
   },
   "items": [
     {
-      "name": "1X18.00",
-      "price": "19.08"
+      "name": "1X55.00",
+      "price": "58.3"
     },
     {
-      "name": "1X13.00",
-      "price": "13.78"
+      "name": "1X30.00",
+      "price": "31.8"
     },
     {
-      "name": "6X1.00",
-      "price": "6.36"
-    },
-    {
-      "name": "TotaSalesInclusiveGsT@6",
-      "price": "132.5"
+      "name": "1X3.00",
+      "price": "3.18"
     },
     {
       "name": "SR@6",
@@ -37,7 +33,7 @@
   ],
   "total_amount": {
     "value": 132.5,
-    "confidence": 0.54,
-    "is_low_confidence": true
+    "confidence": 0.75,
+    "is_low_confidence": false
   }
 }

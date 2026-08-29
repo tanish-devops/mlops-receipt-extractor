@@ -1,7 +1,7 @@
 {
   "store_name": {
-    "value": "FUYIMINEMARKET",
-    "confidence": 0.97,
+    "value": "FUYI MINI MARKET",
+    "confidence": 0.96,
     "is_low_confidence": false
   },
   "date": {
@@ -9,10 +9,19 @@
     "confidence": 0.36,
     "is_low_confidence": true
   },
-  "items": [],
+  "items": [
+    {
+      "name": "Customer's Payment",
+      "price": "50.0"
+    },
+    {
+      "name": "GST Summary",
+      "price": "0.51"
+    }
+  ],
   "total_amount": {
     "value": 1.0,
-    "confidence": 0.97,
+    "confidence": 0.72,
     "is_low_confidence": false
   }
 }

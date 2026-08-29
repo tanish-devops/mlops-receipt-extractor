@@ -1,29 +1,37 @@
 {
   "store_name": {
     "value": "LIGHTROOM GALLERY SDN BHD",
-    "confidence": 0.98,
+    "confidence": 1.0,
     "is_low_confidence": false
   },
   "date": {
     "value": "20/11/2017",
-    "confidence": 0.97,
+    "confidence": 0.99,
     "is_low_confidence": false
   },
   "items": [
     {
-      "name": "RM45.29UNI5.43=RM",
+      "name": "YT52683",
       "price": "90.57"
     },
     {
-      "name": "RM155.66UNI9.34=RM",
+      "name": "CH50688",
+      "price": "9.34"
+    },
+    {
+      "name": "CH50688",
       "price": "155.66"
     },
     {
-      "name": "SR@6",
-      "price": "263.02"
+      "name": "1*RM16.99UNI",
+      "price": "1.01"
     },
     {
-      "name": "SR@6",
+      "name": "1*RM16.99UNI",
+      "price": "16.79"
+    },
+    {
+      "name": "263. 02",
       "price": "15.78"
     },
     {

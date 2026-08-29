@@ -1,12 +1,12 @@
 {
   "store_name": {
-    "value": "MR.D.I.YMSON BHD",
+    "value": "MR.D.I.Y.MSON BHD",
     "confidence": 0.96,
     "is_low_confidence": false
   },
   "date": {
-    "value": "25-03-1818",
-    "confidence": 0.98,
+    "value": "25-03-18",
+    "confidence": 0.97,
     "is_low_confidence": false
   },
   "items": [
@@ -29,7 +29,7 @@
   ],
   "total_amount": {
     "value": 50.8,
-    "confidence": 0.75,
+    "confidence": 0.73,
     "is_low_confidence": false
   }
 }

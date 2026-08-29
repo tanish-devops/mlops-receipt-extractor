@@ -1,7 +1,7 @@
 {
   "store_name": {
     "value": "B.I.G",
-    "confidence": 0.97,
+    "confidence": 0.95,
     "is_low_confidence": false
   },
   "date": {
@@ -55,27 +55,27 @@
       "price": "81.0"
     },
     {
-      "name": "Qty9",
+      "name": "Qty 9",
       "price": "0.0"
     },
     {
-      "name": "Pmpcdebit)0012App:578149",
+      "name": "Pmpc debit0012 App:578149",
       "price": "81.0"
     },
     {
-      "name": "S=6",
+      "name": "S = 6",
       "price": "28.86"
     },
     {
-      "name": "S=6",
+      "name": "S = 6",
       "price": "1.74"
     },
     {
-      "name": "Z=0",
+      "name": "Z =0",
       "price": "50.4"
     },
     {
-      "name": "Z=0",
+      "name": "Z =0",
       "price": "0.0"
     }
   ],

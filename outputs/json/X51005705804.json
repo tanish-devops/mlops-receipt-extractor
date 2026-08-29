@@ -5,38 +5,30 @@
     "is_low_confidence": false
   },
   "date": {
-    "value": "04/12/201",
-    "confidence": 0.99,
+    "value": "04/12/2017",
+    "confidence": 1.0,
     "is_low_confidence": false
   },
   "items": [
     {
-      "name": "Qty",
-      "price": "47.06"
-    },
-    {
       "name": "Item",
       "price": "47.06"
     },
     {
       "name": "Item",
-      "price": "44.4"
+      "price": "47.06"
     },
     {
-      "name": "SR:FUJI CONTACTOR,SC-03,240VAC",
+      "name": "SR: FUJI CONTACTOR, SC-03, 240VAC",
       "price": "51.94"
     },
     {
-      "name": "SR:FUJI CONTACTOR,SC-03,240VAC",
-      "price": "51.94"
+      "name": "106766",
+      "price": "49.0"
     },
     {
-      "name": "SR: ANLY FLOATLESS RELAY 240V,AFS-1",
+      "name": "SR: ANLY FLOATLESS RELAY 240V. AFS-1",
       "price": "99.0"
-    },
-    {
-      "name": "TOTQTY",
-      "price": "93.4"
     },
     {
       "name": "Discount",

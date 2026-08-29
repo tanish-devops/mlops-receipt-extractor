@@ -1,12 +1,12 @@
 {
   "store_name": {
     "value": "IKANO HANDEL SDN BHD",
-    "confidence": 0.98,
+    "confidence": 0.99,
     "is_low_confidence": false
   },
   "date": {
     "value": "23/12/17",
-    "confidence": 0.98,
+    "confidence": 1.0,
     "is_low_confidence": false
   },
   "items": [
@@ -19,12 +19,8 @@
       "price": "36.0"
     },
     {
-      "name": "539937000 TKEA Drink",
+      "name": "559937000 TKEA Drink",
       "price": "1.0"
-    },
-    {
-      "name": "2p6.90",
-      "price": "13.8"
     },
     {
       "name": "Totai RM Including GST 6",
@@ -43,7 +39,7 @@
       "price": "4.15"
     },
     {
-      "name": "Amt.Exc1.GST",
+      "name": "Amt.Excl.GST",
       "price": "69.15"
     }
   ],

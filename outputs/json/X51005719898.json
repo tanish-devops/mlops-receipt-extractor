@@ -1,11 +1,11 @@
 {
   "store_name": {
-    "value": "MR.D.I.Y.KUCHAISDN BHD",
-    "confidence": 0.97,
+    "value": "MR.O.I.Y.KUCHAI) SON BHD",
+    "confidence": 0.96,
     "is_low_confidence": false
   },
   "date": {
-    "value": "19-03-1813",
+    "value": "19-03-18",
     "confidence": 0.97,
     "is_low_confidence": false
   },
@@ -19,10 +19,6 @@
       "price": "11.9"
     },
     {
-      "name": "tota1incl.GST @6",
-      "price": "11.9"
-    },
-    {
       "name": "GST S@6",
       "price": "11.23"
     },
@@ -32,8 +28,8 @@
     }
   ],
   "total_amount": {
-    "value": 22.0,
-    "confidence": 0.54,
-    "is_low_confidence": true
+    "value": 11.9,
+    "confidence": 0.75,
+    "is_low_confidence": false
   }
 }

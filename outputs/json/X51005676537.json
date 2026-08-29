@@ -1,22 +1,22 @@
 {
   "store_name": {
-    "value": "318.01",
-    "confidence": 0.93,
+    "value": "318.0",
+    "confidence": 0.98,
     "is_low_confidence": false
   },
   "date": {
     "value": "03/01/2018",
-    "confidence": 0.99,
+    "confidence": 0.98,
     "is_low_confidence": false
   },
   "items": [
     {
-      "name": "1611",
-      "price": "4.24"
+      "name": "1539",
+      "price": "90.1"
     },
     {
-      "name": "Discount",
-      "price": "0.0"
+      "name": "1611",
+      "price": "4.24"
     },
     {
       "name": "Rounding",
@@ -24,8 +24,8 @@
     }
   ],
   "total_amount": {
-    "value": 89.0,
-    "confidence": 1.0,
+    "value": 5.34,
+    "confidence": 0.75,
     "is_low_confidence": false
   }
 }

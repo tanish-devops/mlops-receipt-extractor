@@ -15,11 +15,11 @@
       "price": "67.67"
     },
     {
-      "name": "NY STRIP",
+      "name": "1 NY STRIP",
       "price": "67.67"
     },
     {
-      "name": "NY STRIP",
+      "name": "1NY STRIP",
       "price": "67.67"
     },
     {
@@ -36,6 +36,10 @@
     },
     {
       "name": "10%Srv Chg",
+      "price": "231.06"
+    },
+    {
+      "name": "10%Srv Chg",
       "price": "23.1"
     },
     {
@@ -43,23 +47,19 @@
       "price": "15.25"
     },
     {
-      "name": "GST @6",
-      "price": "269.4"
-    },
-    {
-      "name": "S-GST6",
+      "name": "S=GST6",
       "price": "254.17"
     },
     {
-      "name": "S-GST6",
+      "name": "S=GST6",
       "price": "15.25"
     },
     {
-      "name": "Z=GST 00",
+      "name": "Z=GST00",
       "price": "0.0"
     },
     {
-      "name": "Z=GST 00",
+      "name": "Z=GST00",
       "price": "0.0"
     }
   ],

@@ -1,15 +1,20 @@
 {
   "store_name": {
-    "value": "000002 BAIFU M Sdn Bhd",
-    "confidence": 0.93,
+    "value": "000002 BAIFU (M) Sdn Bhd",
+    "confidence": 0.96,
     "is_low_confidence": false
   },
   "date": {
-    "value": null,
-    "confidence": 0.36,
-    "is_low_confidence": true
+    "value": "20/03/2018",
+    "confidence": 0.98,
+    "is_low_confidence": false
   },
-  "items": [],
+  "items": [
+    {
+      "name": "4997642045482",
+      "price": "17.7"
+    }
+  ],
   "total_amount": {
     "value": 35.4,
     "confidence": 1.0,

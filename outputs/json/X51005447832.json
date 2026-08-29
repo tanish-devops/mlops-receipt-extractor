@@ -1,17 +1,21 @@
 {
   "store_name": {
     "value": "PETRODELI ENTERPRISE",
-    "confidence": 0.98,
+    "confidence": 0.99,
     "is_low_confidence": false
   },
   "date": {
-    "value": "26/02/1808",
-    "confidence": 0.99,
+    "value": "26/02/18",
+    "confidence": 0.98,
     "is_low_confidence": false
   },
   "items": [
     {
-      "name": "Relief GST",
+      "name": "Visa",
+      "price": "85.54"
+    },
+    {
+      "name": "CRM",
       "price": "0.0"
     },
     {
@@ -21,7 +25,7 @@
   ],
   "total_amount": {
     "value": 85.54,
-    "confidence": 0.94,
-    "is_low_confidence": false
+    "confidence": 0.53,
+    "is_low_confidence": true
   }
 }

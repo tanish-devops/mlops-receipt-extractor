@@ -1,7 +1,7 @@
 {
   "store_name": {
     "value": "UNIHAKKA INTERNATIONAL SDN BHD",
-    "confidence": 0.98,
+    "confidence": 0.99,
     "is_low_confidence": false
   },
   "date": {
@@ -11,25 +11,37 @@
   },
   "items": [
     {
+      "name": "SR 100100000035-1 Meat +3 Vege",
+      "price": "7.1"
+    },
+    {
+      "name": "SR 100100000035-1 Meat +3 Vege",
+      "price": "7.1"
+    },
+    {
+      "name": "GST6%$0.4",
+      "price": "7.1"
+    },
+    {
+      "name": "GST6%$0.4",
+      "price": "7.1"
+    },
+    {
       "name": "Payment Mode",
       "price": "7.1"
     },
     {
-      "name": "Amount",
-      "price": "7.1"
-    },
-    {
-      "name": "3n=S",
+      "name": "3n",
       "price": "6.7"
     },
     {
-      "name": "3n=S",
+      "name": "3n",
       "price": "0.4"
     }
   ],
   "total_amount": {
     "value": 7.1,
-    "confidence": 0.72,
+    "confidence": 0.73,
     "is_low_confidence": false
   }
 }

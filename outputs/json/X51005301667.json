@@ -1,34 +1,26 @@
 {
   "store_name": {
-    "value": "No:28,JALAN ASTANA 1C",
-    "confidence": 0.97,
+    "value": "SONTA",
+    "confidence": 0.81,
     "is_low_confidence": false
   },
   "date": {
     "value": "20/11/2017",
-    "confidence": 0.98,
+    "confidence": 1.0,
     "is_low_confidence": false
   },
   "items": [
     {
-      "name": "2RM18.77UNI",
-      "price": "2.25"
-    },
-    {
-      "name": "2RM18.77UNI",
+      "name": "2*RM18.77UNI2.25=RM",
       "price": "37.55"
     },
     {
-      "name": "SR@6",
+      "name": "SR @ 6",
       "price": "37.55"
-    },
-    {
-      "name": "SR@6",
-      "price": "2.25"
     },
     {
       "name": "ZR/OS/EZ",
-      "price": "0.0"
+      "price": "2.25"
     },
     {
       "name": "ZR/OS/EZ",

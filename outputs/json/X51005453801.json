@@ -1,7 +1,7 @@
 {
   "store_name": {
-    "value": "GL HANDICRAFT &TAILORING",
-    "confidence": 0.98,
+    "value": "GL HANDICRAFT & TAILORING",
+    "confidence": 0.97,
     "is_low_confidence": false
   },
   "date": {
@@ -11,13 +11,29 @@
   },
   "items": [
     {
-      "name": "Paynent",
+      "name": "Date",
+      "price": "201813.01"
+    },
+    {
+      "name": "6.00BS",
+      "price": "17.0"
+    },
+    {
+      "name": "Payment",
       "price": "102.0"
+    },
+    {
+      "name": "6",
+      "price": "96.23"
+    },
+    {
+      "name": "6",
+      "price": "5.77"
     }
   ],
   "total_amount": {
     "value": 102.0,
-    "confidence": 1.0,
+    "confidence": 0.75,
     "is_low_confidence": false
   }
 }

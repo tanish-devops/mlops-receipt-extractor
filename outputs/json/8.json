@@ -1,7 +1,7 @@
 {
   "store_name": {
     "value": "COSTCO",
-    "confidence": 0.98,
+    "confidence": 0.99,
     "is_low_confidence": false
   },
   "date": {
@@ -11,7 +11,7 @@
   },
   "items": [
     {
-      "name": "2XMember 111826278335",
+      "name": "2X Member 111826278335",
       "price": "23.99"
     },
     {
@@ -36,7 +36,7 @@
     }
   ],
   "total_amount": {
-    "value": 85.61,
+    "value": 3.52,
     "confidence": 0.75,
     "is_low_confidence": false
   }

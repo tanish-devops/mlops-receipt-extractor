@@ -1,7 +1,7 @@
 {
   "store_name": {
     "value": "tan chay yee",
-    "confidence": 0.99,
+    "confidence": 0.98,
     "is_low_confidence": false
   },
   "date": {
@@ -11,7 +11,7 @@
   },
   "items": [
     {
-      "name": "1170.00",
+      "name": "P004",
       "price": "170.0"
     },
     {
@@ -27,11 +27,7 @@
       "price": "170.0"
     },
     {
-      "name": "VISA CARD",
-      "price": "170.0"
-    },
-    {
-      "name": "ApprovalCode:123",
+      "name": "XXXxxXXXxxxx4318",
       "price": "170.0"
     }
   ],

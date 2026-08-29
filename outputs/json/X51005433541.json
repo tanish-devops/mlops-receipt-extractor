@@ -1,7 +1,7 @@
 {
   "store_name": {
-    "value": "UNIHAKKA INTERNATIONAL SDN BHD",
-    "confidence": 0.98,
+    "value": "UNIHAKKAINTERNATIONAL SDN BHD",
+    "confidence": 0.99,
     "is_low_confidence": false
   },
   "date": {
@@ -11,33 +11,21 @@
   },
   "items": [
     {
-      "name": "SR100100000006-Pork",
-      "price": "2.7"
-    },
-    {
-      "name": "SR100100000006-Pork",
-      "price": "2.7"
-    },
-    {
-      "name": "Amount",
-      "price": "8.2"
-    },
-    {
       "name": "Payment Mode",
       "price": "8.2"
     },
     {
-      "name": "SR=35@6",
+      "name": "SR=35",
       "price": "7.74"
     },
     {
-      "name": "SR=35@6",
+      "name": "SR=35",
       "price": "0.46"
     }
   ],
   "total_amount": {
     "value": 8.2,
-    "confidence": 0.72,
+    "confidence": 0.74,
     "is_low_confidence": false
   }
 }

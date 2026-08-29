@@ -1,7 +1,7 @@
 {
   "store_name": {
-    "value": "VIVOPACMARKETING SDNBHD 1070687-M",
-    "confidence": 0.98,
+    "value": "VIVOPAC MARKETING SDN BHD (1070687-M",
+    "confidence": 0.97,
     "is_low_confidence": false
   },
   "date": {
@@ -20,18 +20,14 @@
     },
     {
       "name": "1.00PKT",
-      "price": "14.6"
-    },
-    {
-      "name": "1.00PKT",
-      "price": "6.0"
+      "price": "8.0"
     },
     {
       "name": "1.00PCS",
       "price": "0.8"
     },
     {
-      "name": "ItemCount:5",
+      "name": "Item Qty",
       "price": "5.0"
     },
     {

@@ -1,7 +1,7 @@
 {
   "store_name": {
     "value": "YONG CEN ENTERPRISE",
-    "confidence": 0.99,
+    "confidence": 1.0,
     "is_low_confidence": false
   },
   "date": {
@@ -11,11 +11,7 @@
   },
   "items": [
     {
-      "name": "9555223500000",
-      "price": "2.58"
-    },
-    {
-      "name": "9555223500000",
+      "name": "DISC",
       "price": "61.99"
     },
     {
@@ -25,7 +21,7 @@
   ],
   "total_amount": {
     "value": 61.99,
-    "confidence": 0.75,
+    "confidence": 1.0,
     "is_low_confidence": false
   }
 }

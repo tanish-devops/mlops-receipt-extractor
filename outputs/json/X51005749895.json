@@ -1,7 +1,7 @@
 {
   "store_name": {
-    "value": "MR.O.I.MSDNBHD",
-    "confidence": 0.94,
+    "value": "MR.O.I.MSONBHD",
+    "confidence": 0.97,
     "is_low_confidence": false
   },
   "date": {
@@ -27,6 +27,22 @@
       "price": "8.9"
     },
     {
+      "name": "9064017",
+      "price": "3.0"
+    },
+    {
+      "name": "9064017",
+      "price": "12.0"
+    },
+    {
+      "name": "99999",
+      "price": "0.2"
+    },
+    {
+      "name": "99999",
+      "price": "0.2"
+    },
+    {
       "name": "GST S@6",
       "price": "67.83"
     },
@@ -37,7 +53,7 @@
   ],
   "total_amount": {
     "value": 71.9,
-    "confidence": 0.75,
+    "confidence": 0.72,
     "is_low_confidence": false
   }
 }

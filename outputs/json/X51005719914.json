@@ -1,7 +1,7 @@
 {
   "store_name": {
-    "value": "MR.D.I.Y.KUCHAISDN BHD",
-    "confidence": 0.98,
+    "value": "MR.D.I.Y.(KUCHAI SONBHD",
+    "confidence": 0.97,
     "is_low_confidence": false
   },
   "date": {
@@ -43,22 +43,6 @@
       "price": "2.5"
     },
     {
-      "name": "9002148",
-      "price": "4.5"
-    },
-    {
-      "name": "9002148",
-      "price": "13.5"
-    },
-    {
-      "name": "9750009",
-      "price": "6.3"
-    },
-    {
-      "name": "9750009",
-      "price": "6.3"
-    },
-    {
       "name": "9045734",
       "price": "7.5"
     },
@@ -75,7 +59,7 @@
       "price": "9.8"
     },
     {
-      "name": "EDC",
+      "name": "EDCA",
       "price": "53.3"
     },
     {

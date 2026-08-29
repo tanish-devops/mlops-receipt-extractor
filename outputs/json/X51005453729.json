@@ -1,47 +1,31 @@
 {
   "store_name": {
-    "value": "LIAN HING STATIONERY SDN BHD",
+    "value": "LAN HING STATIONERY SDN BHD",
     "confidence": 0.97,
     "is_low_confidence": false
   },
   "date": {
-    "value": "27/03/2018",
-    "confidence": 0.97,
-    "is_low_confidence": false
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
   },
   "items": [
-    {
-      "name": "100SR",
-      "price": "58.3"
-    },
-    {
-      "name": "809 Metal Narne Badge Clip",
-      "price": "21.2"
-    },
     {
       "name": "Paid Amount",
       "price": "100.0"
     },
     {
       "name": "SR@A",
-      "price": "15.0"
-    },
-    {
-      "name": "SR@A",
-      "price": "4.5"
-    },
-    {
-      "name": "SR@A",
       "price": "75.0"
     },
     {
-      "name": "SR@A",
-      "price": "4.5"
+      "name": "450",
+      "price": "75.0"
     }
   ],
   "total_amount": {
-    "value": 79.5,
-    "confidence": 0.75,
-    "is_low_confidence": false
+    "value": 100.0,
+    "confidence": 0.53,
+    "is_low_confidence": true
   }
 }

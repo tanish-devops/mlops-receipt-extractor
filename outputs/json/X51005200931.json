@@ -1,7 +1,7 @@
 {
   "store_name": {
-    "value": "PERNIAGAAN ZHENG HU",
-    "confidence": 0.99,
+    "value": "PERNIAGAAN ZHENG HUI",
+    "confidence": 0.98,
     "is_low_confidence": false
   },
   "date": {
@@ -11,23 +11,23 @@
   },
   "items": [
     {
-      "name": "6783",
+      "name": "17.5C",
       "price": "3.5"
     },
     {
-      "name": "55.DC",
+      "name": "55.0C",
       "price": "55.0"
     },
     {
-      "name": "99.0c",
+      "name": "99.0C",
       "price": "33.0"
     },
     {
-      "name": "9428",
-      "price": "10.0"
+      "name": "6A2",
+      "price": "43.0"
     },
     {
-      "name": "TOT QTY:46",
+      "name": "TOT QTY45",
       "price": "411.5"
     },
     {
@@ -39,17 +39,17 @@
       "price": "24.69"
     },
     {
-      "name": "Rounding (RM",
+      "name": "RoundingRM",
       "price": "0.01"
     },
     {
-      "name": "Rounding (RM",
+      "name": "TotaRM",
       "price": "436.2"
     }
   ],
   "total_amount": {
     "value": 411.5,
-    "confidence": 0.74,
+    "confidence": 0.71,
     "is_low_confidence": false
   }
 }

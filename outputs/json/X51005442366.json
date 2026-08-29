@@ -5,29 +5,29 @@
     "is_low_confidence": false
   },
   "date": {
-    "value": null,
-    "confidence": 0.36,
-    "is_low_confidence": true
+    "value": "22-03-2018",
+    "confidence": 0.97,
+    "is_low_confidence": false
   },
   "items": [
     {
-      "name": "1xVS FUJ|500ml",
+      "name": "1xVSFUJ|500ml",
       "price": "10.0"
     },
     {
-      "name": "1xVS FUJ|500ml",
+      "name": "1xVSFUJ|500ml",
       "price": "10.0"
     },
     {
-      "name": "1xApollo cake",
+      "name": "1x Apollo cake",
       "price": "6.8"
     },
     {
-      "name": "1xApollo cake",
+      "name": "1x Apollo cake",
       "price": "6.5"
     },
     {
-      "name": "original30s",
+      "name": "original 30s",
       "price": "0.3"
     },
     {
@@ -39,11 +39,11 @@
       "price": "4.2"
     },
     {
-      "name": "1xTG Coated",
+      "name": "1x TG Coated",
       "price": "1.9"
     },
     {
-      "name": "1xTG Coated",
+      "name": "1x TG Coated",
       "price": "1.9"
     },
     {

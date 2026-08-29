@@ -1,12 +1,12 @@
 {
   "store_name": {
-    "value": "erbang Alaf Restaurants Sdn Bhd",
+    "value": "ertang Alaf Restaurants Sdn Bhd",
     "confidence": 0.97,
     "is_low_confidence": false
   },
   "date": {
     "value": "19-02/03",
-    "confidence": 0.98,
+    "confidence": 0.99,
     "is_low_confidence": false
   },
   "items": [
@@ -23,7 +23,7 @@
       "price": "9.9"
     },
     {
-      "name": "Che",
+      "name": "Ch",
       "price": "21.5"
     }
   ],

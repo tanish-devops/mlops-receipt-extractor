@@ -1,6 +1,6 @@
 {
   "store_name": {
-    "value": "LIMSENG THO HARDWARE TRADING",
+    "value": "LIM SENG THO HARDWARE TRADING",
     "confidence": 0.98,
     "is_low_confidence": false
   },
@@ -11,21 +11,17 @@
   },
   "items": [
     {
-      "name": "1200NOS",
+      "name": "12.00 NOS",
       "price": "0.7"
     },
     {
-      "name": "Payment",
+      "name": "Totai Incl of GST",
       "price": "8.4"
-    },
-    {
-      "name": "048",
-      "price": "7.92"
     }
   ],
   "total_amount": {
     "value": 8.4,
-    "confidence": 0.75,
+    "confidence": 1.0,
     "is_low_confidence": false
   }
 }

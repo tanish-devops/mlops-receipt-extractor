@@ -1,7 +1,7 @@
 {
   "store_name": {
     "value": "PANA JAYA ENTERPRISE",
-    "confidence": 0.98,
+    "confidence": 0.99,
     "is_low_confidence": false
   },
   "date": {
@@ -11,6 +11,10 @@
   },
   "items": [
     {
+      "name": "1 x",
+      "price": "35.0"
+    },
+    {
       "name": "10 x",
       "price": "6.25"
     },
@@ -19,7 +23,7 @@
       "price": "108.0"
     },
     {
-      "name": "GST payable 6",
+      "name": "GST payab1e (6",
       "price": "11.63"
     },
     {
@@ -27,13 +31,13 @@
       "price": "205.5"
     },
     {
-      "name": "19387",
+      "name": "193 87",
       "price": "11.63"
     }
   ],
   "total_amount": {
     "value": 205.5,
-    "confidence": 0.74,
+    "confidence": 0.75,
     "is_low_confidence": false
   }
 }

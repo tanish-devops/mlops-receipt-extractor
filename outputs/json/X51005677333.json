@@ -1,6 +1,6 @@
 {
   "store_name": {
-    "value": "SYARIKATPERNIAGAAN GIN KEE",
+    "value": "SYARIKAT PERNIAGAAN GIN KEE",
     "confidence": 0.98,
     "is_low_confidence": false
   },
@@ -12,7 +12,19 @@
   "items": [
     {
       "name": "USER",
-      "price": "41.0"
+      "price": "10.41"
+    },
+    {
+      "name": "3122",
+      "price": "29.68"
+    },
+    {
+      "name": "3122",
+      "price": "59.36"
+    },
+    {
+      "name": "3383",
+      "price": "3.18"
     },
     {
       "name": "3383",
@@ -29,7 +41,7 @@
   ],
   "total_amount": {
     "value": 96.0,
-    "confidence": 1.0,
+    "confidence": 0.74,
     "is_low_confidence": false
   }
 }

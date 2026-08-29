@@ -11,8 +11,8 @@
   },
   "items": [
     {
-      "name": "10.00NOS",
-      "price": "0.7"
+      "name": "070",
+      "price": "7.0"
     },
     {
       "name": "Payment",
@@ -21,7 +21,7 @@
   ],
   "total_amount": {
     "value": 7.0,
-    "confidence": 1.0,
+    "confidence": 0.75,
     "is_low_confidence": false
   }
 }

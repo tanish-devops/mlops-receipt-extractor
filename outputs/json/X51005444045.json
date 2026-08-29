@@ -1,7 +1,7 @@
 {
   "store_name": {
-    "value": "99SPEEDMART5/B519537-X",
-    "confidence": 0.97,
+    "value": "99SPEEDMARTS/B519537-X",
+    "confidence": 0.98,
     "is_low_confidence": false
   },
   "date": {
@@ -11,11 +11,11 @@
   },
   "items": [
     {
-      "name": "103 SUNQUICKQREN 840ML",
+      "name": "103 SUNQUICKOREN840ML",
       "price": "11.4"
     },
     {
-      "name": "s=6",
+      "name": "S=6",
       "price": "10.75"
     }
   ],

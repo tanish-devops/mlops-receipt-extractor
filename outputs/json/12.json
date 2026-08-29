@@ -11,37 +11,17 @@
   },
   "items": [
     {
-      "name": "065356920144",
-      "price": "6.63"
-    },
-    {
-      "name": "TOOTHBRUSH",
-      "price": "0.96"
-    },
-    {
-      "name": "TOOTHBRUSH",
-      "price": "7.59"
-    },
-    {
-      "name": "WOMEN SLIPPE009725614790",
-      "price": "9.86"
-    },
-    {
-      "name": "WOMEN SLIPPE009725614790",
-      "price": "17.45"
-    },
-    {
       "name": "MCARD TEND",
       "price": "18.75"
     },
     {
-      "name": "MCARD TEND",
-      "price": "18.75"
+      "name": "PAYMENT SERVICE",
+      "price": "0.0"
     }
   ],
   "total_amount": {
-    "value": 7.59,
-    "confidence": 0.75,
+    "value": 18.75,
+    "confidence": 0.94,
     "is_low_confidence": false
   }
 }

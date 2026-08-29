@@ -1,7 +1,7 @@
 {
   "store_name": {
-    "value": "AEON CO.MBHD126926-H",
-    "confidence": 0.98,
+    "value": "AEON CO.MBHD 126926-H",
+    "confidence": 0.97,
     "is_low_confidence": false
   },
   "date": {
@@ -12,6 +12,14 @@
   "items": [
     {
       "name": "1x000007996511",
+      "price": "75.0"
+    },
+    {
+      "name": "Sub-tctal",
+      "price": "75.0"
+    },
+    {
+      "name": "Sub-tctal",
       "price": "75.0"
     },
     {
@@ -33,7 +41,7 @@
   ],
   "total_amount": {
     "value": 75.0,
-    "confidence": 0.72,
+    "confidence": 0.73,
     "is_low_confidence": false
   }
 }

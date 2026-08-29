@@ -11,19 +11,15 @@
   },
   "items": [
     {
-      "name": "WALK",
+      "name": "1WALK",
       "price": "1.6"
     },
     {
-      "name": "WALK",
+      "name": "1WALK",
       "price": "1.6"
     },
     {
-      "name": "WALK",
-      "price": "1.6"
-    },
-    {
-      "name": "WALK",
+      "name": "1WALK",
       "price": "1.6"
     },
     {
@@ -36,24 +32,36 @@
     },
     {
       "name": "WALK",
-      "price": "0.5"
+      "price": "4.5"
     },
     {
       "name": "WALK",
+      "price": "4.5"
+    },
+    {
+      "name": "1.WALK",
       "price": "0.5"
     },
     {
-      "name": "ZRL=0",
+      "name": "1.WALK",
+      "price": "0.5"
+    },
+    {
+      "name": "1.WALK",
+      "price": "0.5"
+    },
+    {
+      "name": "ZRL= 0",
       "price": "8.2"
     },
     {
-      "name": "ZRL=0",
+      "name": "ZRL= 0",
       "price": "0.0"
     }
   ],
   "total_amount": {
     "value": 4.0,
-    "confidence": 0.72,
+    "confidence": 0.73,
     "is_low_confidence": false
   }
 }

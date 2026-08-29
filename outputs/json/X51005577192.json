@@ -1,23 +1,15 @@
 {
   "store_name": {
-    "value": "EAGLE ENTERPRISE",
+    "value": "FY EAGLE ENTERPRISE",
     "confidence": 0.98,
     "is_low_confidence": false
   },
   "date": {
-    "value": null,
-    "confidence": 0.36,
-    "is_low_confidence": true
+    "value": "04/12/2017",
+    "confidence": 0.97,
+    "is_low_confidence": false
   },
   "items": [
-    {
-      "name": "12089",
-      "price": "3.5"
-    },
-    {
-      "name": "12089",
-      "price": "7.0"
-    },
     {
       "name": "DISC",
       "price": "0.0"
@@ -29,11 +21,15 @@
     {
       "name": "ROUNDING",
       "price": "0.0"
+    },
+    {
+      "name": "CIIANGE",
+      "price": "0.0"
     }
   ],
   "total_amount": {
     "value": 6.6,
-    "confidence": 0.73,
+    "confidence": 1.0,
     "is_low_confidence": false
   }
 }

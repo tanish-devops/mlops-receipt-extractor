@@ -1,13 +1,13 @@
 {
   "store_name": {
-    "value": "WAHIN HARDWARE SIN BHD",
-    "confidence": 0.96,
+    "value": "WAHIN HARDWARE SDN BHD",
+    "confidence": 0.98,
     "is_low_confidence": false
   },
   "date": {
-    "value": null,
-    "confidence": 0.36,
-    "is_low_confidence": true
+    "value": "04/12/17",
+    "confidence": 0.97,
+    "is_low_confidence": false
   },
   "items": [
     {
@@ -23,17 +23,17 @@
       "price": "42.4"
     },
     {
-      "name": "SR@6",
+      "name": "SR06",
       "price": "40.0"
     },
     {
-      "name": "SR@6",
+      "name": "SR06",
       "price": "2.4"
     }
   ],
   "total_amount": {
     "value": 2.4,
-    "confidence": 0.74,
+    "confidence": 0.75,
     "is_low_confidence": false
   }
 }

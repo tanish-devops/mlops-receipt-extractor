@@ -1,7 +1,7 @@
 {
   "store_name": {
     "value": "SLPER SEVEN CASH & CA",
-    "confidence": 0.96,
+    "confidence": 0.97,
     "is_low_confidence": false
   },
   "date": {
@@ -16,7 +16,7 @@
     },
     {
       "name": "D31 TENDFRLOIN",
-      "price": "149.66"
+      "price": "49.66"
     },
     {
       "name": "9556276020392",
@@ -27,7 +27,11 @@
       "price": "9.9"
     },
     {
-      "name": "BUTTERCUP LUXURY SPREAD SOOG",
+      "name": "8888010995552",
+      "price": "9.9"
+    },
+    {
+      "name": "BLTTERCUP LUXURY SPREAD 5O0G",
       "price": "9.9"
     },
     {
@@ -39,25 +43,25 @@
       "price": "408.45"
     },
     {
-      "name": "ZR0",
+      "name": "ZR (0",
       "price": "186.35"
     },
     {
-      "name": "ZR0",
+      "name": "ZR (0",
       "price": "0.0"
     },
     {
-      "name": "SR6",
+      "name": "SR (6",
       "price": "209.53"
     },
     {
-      "name": "SR6",
+      "name": "SR (6",
       "price": "12.57"
     }
   ],
   "total_amount": {
     "value": 408.45,
-    "confidence": 0.74,
-    "is_low_confidence": false
+    "confidence": 0.54,
+    "is_low_confidence": true
   }
 }

@@ -1,7 +1,7 @@
 {
   "store_name": {
     "value": "UNIHAKKA INTERNATIONAL SDN BHD",
-    "confidence": 0.98,
+    "confidence": 0.99,
     "is_low_confidence": false
   },
   "date": {
@@ -11,15 +11,15 @@
   },
   "items": [
     {
-      "name": "1.1.0",
+      "name": "SR 100100000015-Vegetable",
+      "price": "7.1"
+    },
+    {
+      "name": "SR 100100000015-Vegetable",
       "price": "1.1"
     },
     {
-      "name": "GST@6%$.46",
-      "price": "8.2"
-    },
-    {
-      "name": "GST@6%$.46",
+      "name": "Payrnent Mode",
       "price": "8.2"
     },
     {
@@ -27,13 +27,17 @@
       "price": "8.2"
     },
     {
+      "name": "GST Summary",
+      "price": "0.0"
+    },
+    {
       "name": "774",
       "price": "0.4"
     }
   ],
   "total_amount": {
-    "value": 8.2,
-    "confidence": 0.73,
+    "value": 7.1,
+    "confidence": 0.75,
     "is_low_confidence": false
   }
 }

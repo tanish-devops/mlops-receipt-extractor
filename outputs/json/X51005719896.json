@@ -1,17 +1,21 @@
 {
   "store_name": {
-    "value": "THE STORE MALAYSIA SDN BHD 8199K",
-    "confidence": 0.96,
+    "value": "THE STORE HALAYSIA SDN HD 819",
+    "confidence": 0.95,
     "is_low_confidence": false
   },
   "date": {
-    "value": null,
-    "confidence": 0.36,
-    "is_low_confidence": true
+    "value": "14-01-2018",
+    "confidence": 0.97,
+    "is_low_confidence": false
   },
   "items": [
     {
-      "name": "20000004500%403.10",
+      "name": "20000004300%4",
+      "price": "3.1"
+    },
+    {
+      "name": "20000004300%4",
       "price": "12.4"
     },
     {
@@ -20,14 +24,14 @@
     },
     {
       "name": "2000001592021180",
-      "price": "25.4"
+      "price": "23.4"
     },
     {
-      "name": "SG9T6",
+      "name": "SGST6",
       "price": "33.82"
     },
     {
-      "name": "SG9T6",
+      "name": "SGST6",
       "price": "1.98"
     },
     {

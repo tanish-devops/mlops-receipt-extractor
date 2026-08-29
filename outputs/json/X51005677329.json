@@ -6,10 +6,14 @@
   },
   "date": {
     "value": "12/02/2018",
-    "confidence": 0.99,
+    "confidence": 0.98,
     "is_low_confidence": false
   },
   "items": [
+    {
+      "name": "USER",
+      "price": "31.0"
+    },
     {
       "name": "1099",
       "price": "90.1"

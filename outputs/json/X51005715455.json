@@ -6,22 +6,22 @@
   },
   "date": {
     "value": "26-03-18",
-    "confidence": 0.98,
+    "confidence": 0.99,
     "is_low_confidence": false
   },
   "items": [
     {
-      "name": "14ATCGLAS5CLEANERPIN",
+      "name": "146TC GLAS5CLEANER PIN",
       "price": "10.6"
     },
     {
-      "name": "5=6",
+      "name": "5 = 6",
       "price": "10.0"
     }
   ],
   "total_amount": {
     "value": 10.6,
-    "confidence": 0.73,
+    "confidence": 0.7,
     "is_low_confidence": false
   }
 }

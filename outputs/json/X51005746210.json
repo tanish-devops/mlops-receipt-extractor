@@ -1,7 +1,7 @@
 {
   "store_name": {
     "value": "Segi Cash & Carry Sdn. Bhd.(317041-w",
-    "confidence": 0.98,
+    "confidence": 0.99,
     "is_low_confidence": false
   },
   "date": {
@@ -11,51 +11,51 @@
   },
   "items": [
     {
-      "name": "1x25.80",
+      "name": "1 x 25.80",
       "price": "25.8"
     },
     {
-      "name": "1x7.69",
+      "name": "1 x 7.69",
       "price": "7.69"
     },
     {
-      "name": "1x13.50",
+      "name": "1 x 13.50",
       "price": "13.5"
     },
     {
-      "name": "1x10.90",
+      "name": "1 x 10.90",
       "price": "10.9"
     },
     {
-      "name": "1x10.90",
+      "name": "1 x 10.90",
       "price": "10.9"
     },
     {
-      "name": "1x10.90",
+      "name": "1 x 10.90",
       "price": "10.9"
     },
     {
-      "name": "1x10.90",
+      "name": "1 x 10.90",
       "price": "10.9"
     },
     {
-      "name": "1x10.90",
+      "name": "1 x 10.90",
       "price": "10.9"
     },
     {
-      "name": "1x10.90",
+      "name": "1 x 10.90",
       "price": "10.9"
     },
     {
-      "name": "1x10.90",
+      "name": "1 x 10.90",
       "price": "10.9"
     },
     {
-      "name": "1 x10.90",
+      "name": "1 x 10.90",
       "price": "10.9"
     },
     {
-      "name": "1 x10.90",
+      "name": "1 x 10.90",
       "price": "10.9"
     },
     {
@@ -75,11 +75,11 @@
       "price": "0.0"
     },
     {
-      "name": "S06.0",
+      "name": "S 06.0",
       "price": "19.99"
     },
     {
-      "name": "S06.0",
+      "name": "S 06.0",
       "price": "1.2"
     }
   ],

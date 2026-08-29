@@ -1,7 +1,7 @@
 {
   "store_name": {
-    "value": "GOODS SOD ARE NOT RETURNABLE.HANA YOU",
-    "confidence": 0.94,
+    "value": "GOUDS SOL D ARE NOT RETURNABLE, THANA YOU",
+    "confidence": 0.96,
     "is_low_confidence": false
   },
   "date": {
@@ -9,12 +9,7 @@
     "confidence": 0.36,
     "is_low_confidence": true
   },
-  "items": [
-    {
-      "name": "ToialQy",
-      "price": "21.2"
-    }
-  ],
+  "items": [],
   "total_amount": {
     "value": 21.2,
     "confidence": 1.0,

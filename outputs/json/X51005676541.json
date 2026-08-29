@@ -6,17 +6,29 @@
   },
   "date": {
     "value": "03/01/2018",
-    "confidence": 0.99,
+    "confidence": 0.98,
     "is_low_confidence": false
   },
   "items": [
     {
       "name": "1938",
+      "price": "6.89"
+    },
+    {
+      "name": "1938",
       "price": "13.78"
     },
     {
-      "name": "1618",
-      "price": "40.28"
+      "name": "2430",
+      "price": "18.02"
+    },
+    {
+      "name": "2430",
+      "price": "36.04"
+    },
+    {
+      "name": "2225",
+      "price": "4.77"
     },
     {
       "name": "2225",

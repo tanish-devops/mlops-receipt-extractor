@@ -12,19 +12,11 @@
   "items": [
     {
       "name": "USER",
-      "price": "15.43"
+      "price": "43.0"
     },
     {
-      "name": "3922",
-      "price": "39.22"
-    },
-    {
-      "name": "400",
-      "price": "4.24"
-    },
-    {
-      "name": "Discount",
-      "price": "0.0"
+      "name": "800",
+      "price": "8.48"
     },
     {
       "name": "Rounding",
@@ -32,7 +24,7 @@
     }
   ],
   "total_amount": {
-    "value": 67.94,
+    "value": 67.84,
     "confidence": 1.0,
     "is_low_confidence": false
   }

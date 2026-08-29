@@ -1,7 +1,7 @@
 {
   "store_name": {
-    "value": "HONHWA HARDWARETRADING",
-    "confidence": 0.99,
+    "value": "HON HWA HARDWARETRADING",
+    "confidence": 0.98,
     "is_low_confidence": false
   },
   "date": {
@@ -11,25 +11,33 @@
   },
   "items": [
     {
-      "name": "5PVCWALLPLUG",
+      "name": "CB#66549",
+      "price": "47.51"
+    },
+    {
+      "name": "5 PVC WALLPLUG",
       "price": "1.0"
     },
     {
-      "name": "5PVCWALLPLUG",
-      "price": "5.0"
-    },
-    {
-      "name": "5Type",
+      "name": "5 PVC WALLPLUG",
       "price": "5.0"
     },
     {
       "name": "Rounding Adj",
       "price": "0.0"
+    },
+    {
+      "name": "500",
+      "price": "4.72"
+    },
+    {
+      "name": "500",
+      "price": "0.28"
     }
   ],
   "total_amount": {
     "value": 5.0,
-    "confidence": 0.7,
+    "confidence": 0.74,
     "is_low_confidence": false
   }
 }

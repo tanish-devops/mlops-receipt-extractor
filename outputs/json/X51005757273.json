@@ -1,12 +1,12 @@
 {
   "store_name": {
-    "value": "MR.D.I.Y.KUCHAISDN BHD",
+    "value": "MR.D.I.Y.KUCHAISON BHD",
     "confidence": 0.97,
     "is_low_confidence": false
   },
   "date": {
-    "value": "12-03-1814",
-    "confidence": 0.98,
+    "value": "12-03-18",
+    "confidence": 0.97,
     "is_low_confidence": false
   },
   "items": [
@@ -29,7 +29,7 @@
   ],
   "total_amount": {
     "value": 45.0,
-    "confidence": 0.73,
+    "confidence": 0.75,
     "is_low_confidence": false
   }
 }

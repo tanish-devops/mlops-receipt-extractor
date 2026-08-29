@@ -5,13 +5,13 @@
     "is_low_confidence": false
   },
   "date": {
-    "value": null,
-    "confidence": 0.36,
-    "is_low_confidence": true
+    "value": "04/01/2018",
+    "confidence": 0.97,
+    "is_low_confidence": false
   },
   "items": [
     {
-      "name": "AA00007 PLASTIC PLATE",
+      "name": "AA000O7 PLASTIC PLATE",
       "price": "1.0"
     },
     {

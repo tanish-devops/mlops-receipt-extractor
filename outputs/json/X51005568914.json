@@ -11,16 +11,12 @@
   },
   "items": [
     {
-      "name": "SRM",
+      "name": "2pc@4.90",
       "price": "9.8"
     },
     {
-      "name": "70350938 TE0D0RES CH",
+      "name": "70350938 TEOD0RES CH",
       "price": "90.0"
-    },
-    {
-      "name": "Tota1 RM Including GST 6",
-      "price": "99.8"
     },
     {
       "name": "Rounding Adj",
@@ -35,11 +31,11 @@
       "price": "99.8"
     },
     {
-      "name": "GSTSR",
+      "name": "GSTSR6",
       "price": "99.8"
     },
     {
-      "name": "GSTSR",
+      "name": "GSTSR6",
       "price": "5.64"
     },
     {
@@ -49,7 +45,7 @@
   ],
   "total_amount": {
     "value": 99.8,
-    "confidence": 0.54,
-    "is_low_confidence": true
+    "confidence": 0.75,
+    "is_low_confidence": false
   }
 }

@@ -1,6 +1,6 @@
 {
   "store_name": {
-    "value": "VIVOPAC MARKETING SDNBHD 1070687-M",
+    "value": "VIVOPAC MARKETING SDN BHD (1070687-M",
     "confidence": 0.98,
     "is_low_confidence": false
   },
@@ -11,7 +11,7 @@
   },
   "items": [
     {
-      "name": "1.00ROLL",
+      "name": "1.00 ROLL",
       "price": "4.5"
     },
     {
@@ -23,11 +23,11 @@
       "price": "15.0"
     },
     {
-      "name": "Item Count3",
+      "name": "Item Count:3",
       "price": "4.0"
     },
     {
-      "name": "GST6",
+      "name": "GST 6",
       "price": "2.97"
     },
     {

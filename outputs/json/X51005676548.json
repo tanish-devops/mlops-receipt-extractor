@@ -1,15 +1,19 @@
 {
   "store_name": {
-    "value": "SYARIKATPERNIAGAAN GIN KEE",
+    "value": "SYARIKAT PERNIAGAAN GIN KEE",
     "confidence": 0.98,
     "is_low_confidence": false
   },
   "date": {
-    "value": null,
-    "confidence": 0.36,
-    "is_low_confidence": true
+    "value": "15/01/2018",
+    "confidence": 0.99,
+    "is_low_confidence": false
   },
   "items": [
+    {
+      "name": "2876",
+      "price": "1.06"
+    },
     {
       "name": "Totai Sales (Excluding GST",
       "price": "10.5"
@@ -24,8 +28,8 @@
     }
   ],
   "total_amount": {
-    "value": 0.63,
-    "confidence": 0.74,
+    "value": 11.13,
+    "confidence": 1.0,
     "is_low_confidence": false
   }
 }

@@ -5,18 +5,14 @@
     "is_low_confidence": false
   },
   "date": {
-    "value": "20/03/2018",
-    "confidence": 1.0,
-    "is_low_confidence": false
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
   },
   "items": [
     {
-      "name": "238",
-      "price": "10.0"
-    },
-    {
-      "name": "238",
-      "price": "10.0"
+      "name": "RECEIPT",
+      "price": "0.0"
     },
     {
       "name": "1033",

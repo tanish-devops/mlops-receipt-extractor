@@ -1,7 +1,7 @@
 {
   "store_name": {
-    "value": "SYARIKAT PERNIAGAANGINKEE",
-    "confidence": 0.99,
+    "value": "SYARIKAT PERNIAGAAN GIN KEE",
+    "confidence": 0.98,
     "is_low_confidence": false
   },
   "date": {
@@ -10,6 +10,10 @@
     "is_low_confidence": false
   },
   "items": [
+    {
+      "name": "USER",
+      "price": "15.29"
+    },
     {
       "name": "Discount",
       "price": "0.0"
@@ -21,7 +25,7 @@
   ],
   "total_amount": {
     "value": 5.0,
-    "confidence": 1.0,
+    "confidence": 0.75,
     "is_low_confidence": false
   }
 }

@@ -1,7 +1,7 @@
 {
   "store_name": {
-    "value": "KEDA",
-    "confidence": 0.99,
+    "value": "KEDAE",
+    "confidence": 0.97,
     "is_low_confidence": false
   },
   "date": {
@@ -10,10 +10,6 @@
     "is_low_confidence": true
   },
   "items": [
-    {
-      "name": "1C50",
-      "price": "17.49"
-    },
     {
       "name": "Discount",
       "price": "0.0"

@@ -1,7 +1,7 @@
 {
   "store_name": {
-    "value": "Farmasi Maluri S/B587969-U",
-    "confidence": 0.97,
+    "value": "Fr staffceor",
+    "confidence": 0.91,
     "is_low_confidence": false
   },
   "date": {
@@ -53,7 +53,7 @@
   ],
   "total_amount": {
     "value": 79.35,
-    "confidence": 0.75,
+    "confidence": 0.72,
     "is_low_confidence": false
   }
 }

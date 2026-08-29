@@ -6,7 +6,7 @@
   },
   "date": {
     "value": "02/01/2018",
-    "confidence": 0.99,
+    "confidence": 0.98,
     "is_low_confidence": false
   },
   "items": [
@@ -25,10 +25,6 @@
     {
       "name": "1042",
       "price": "18.55"
-    },
-    {
-      "name": "1042",
-      "price": "74.2"
     },
     {
       "name": "Discount",

@@ -1,43 +1,51 @@
 {
   "store_name": {
-    "value": "995PEE0MART5/B(519537-X",
-    "confidence": 0.95,
+    "value": "99SPEE0MART5/B(519537-X",
+    "confidence": 0.96,
     "is_low_confidence": false
   },
   "date": {
-    "value": "20-11-17",
-    "confidence": 0.99,
+    "value": "70-11-17",
+    "confidence": 0.97,
     "is_low_confidence": false
   },
   "items": [
     {
-      "name": "2973PEDIASURE COMPLETE SAS",
+      "name": "2973 PEDIASURE COMPLETE SOS",
       "price": "117.9"
     },
     {
-      "name": "069MILO 2KG",
+      "name": "069MILO2KG",
       "price": "34.9"
     },
     {
-      "name": "7709ZING HEING OAT WHEAT",
+      "name": "2709 ZING HEING OAT WHEAT",
       "price": "4.1"
     },
     {
-      "name": "Totel Saies (Inclusive Gst) k",
-      "price": "149.78"
+      "name": "7093 DISNEVDS112 WIDE NECK",
+      "price": "5.89"
+    },
+    {
+      "name": "4385 JOHNSONS PH5.5 2IN18O",
+      "price": "6.99"
     },
     {
       "name": "Rounding RM",
-      "price": "1169.8"
+      "price": "169.8"
     },
     {
-      "name": "GST Sumnary",
-      "price": "9.41"
+      "name": "GST Sumsary",
+      "price": "9.61"
+    },
+    {
+      "name": "GST Sumsary",
+      "price": "160.17"
     }
   ],
   "total_amount": {
-    "value": 1169.8,
-    "confidence": 0.47,
+    "value": 200.0,
+    "confidence": 0.53,
     "is_low_confidence": true
   }
 }

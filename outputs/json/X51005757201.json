@@ -1,13 +1,13 @@
 {
   "store_name": {
-    "value": "AEON CO.MBHD126926-H",
-    "confidence": 0.99,
+    "value": "AEON CO.(M) BHD(126926-H",
+    "confidence": 0.96,
     "is_low_confidence": false
   },
   "date": {
-    "value": null,
-    "confidence": 0.36,
-    "is_low_confidence": true
+    "value": "28/02/2018",
+    "confidence": 0.99,
+    "is_low_confidence": false
   },
   "items": [
     {
@@ -15,19 +15,19 @@
       "price": "16.9"
     },
     {
-      "name": "1x000005270385",
+      "name": "1x 000005270385",
       "price": "10.45"
     },
     {
-      "name": "1x000007940774",
+      "name": "1x 000007940774",
       "price": "7.9"
     },
     {
-      "name": "1x000007940781",
+      "name": "1x 000007940781",
       "price": "7.9"
     },
     {
-      "name": "1x000007940781",
+      "name": "1x 000007940781",
       "price": "7.9"
     },
     {
@@ -35,11 +35,11 @@
       "price": "4.1"
     },
     {
-      "name": "1x000006697655",
+      "name": "1x 000006697655",
       "price": "4.9"
     },
     {
-      "name": "1x000002926759",
+      "name": "1x 000002926759",
       "price": "8.9"
     },
     {
@@ -47,7 +47,7 @@
       "price": "0.89"
     },
     {
-      "name": "1x000003767016",
+      "name": "1x 000003767016",
       "price": "7.3"
     },
     {
@@ -59,7 +59,7 @@
       "price": "0.25"
     },
     {
-      "name": "1x000004146858",
+      "name": "1x 000004146858",
       "price": "18.9"
     },
     {
@@ -67,15 +67,23 @@
       "price": "7.74"
     },
     {
-      "name": "1xC00001888854",
+      "name": "1x C00001888854",
       "price": "0.2"
     },
     {
-      "name": "loral Atter Adj Incl GST",
+      "name": "Rounding Adj",
+      "price": "88.97"
+    },
+    {
+      "name": "lotal Atter Adj Incl GST",
       "price": "88.95"
     },
     {
-      "name": "Charye Am",
+      "name": "Item Count 12",
+      "price": "100.0"
+    },
+    {
+      "name": "Char e Anl",
       "price": "11.05"
     },
     {
@@ -85,11 +93,15 @@
     {
       "name": "SR@6",
       "price": "5.04"
+    },
+    {
+      "name": "28/02/2018 20:11",
+      "price": "5.04"
     }
   ],
   "total_amount": {
     "value": 88.97,
-    "confidence": 0.73,
+    "confidence": 0.75,
     "is_low_confidence": false
   }
 }

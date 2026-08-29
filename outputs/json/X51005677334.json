@@ -1,12 +1,12 @@
 {
   "store_name": {
-    "value": "SYARIKATPERNIAGAAN GIN KEE",
-    "confidence": 0.99,
+    "value": "SYARIKAT PERNIAGAAN GIN KEE",
+    "confidence": 0.98,
     "is_low_confidence": false
   },
   "date": {
     "value": "31/01/2018",
-    "confidence": 0.99,
+    "confidence": 0.98,
     "is_low_confidence": false
   },
   "items": [
@@ -19,17 +19,25 @@
       "price": "31.8"
     },
     {
+      "name": "2167",
+      "price": "50.88"
+    },
+    {
       "name": "Discount",
       "price": "0.0"
     },
     {
       "name": "Rounding",
       "price": "0.0"
+    },
+    {
+      "name": "Totai Sales (lnclusive of GsT",
+      "price": "82.68"
     }
   ],
   "total_amount": {
     "value": 78.0,
-    "confidence": 1.0,
+    "confidence": 0.75,
     "is_low_confidence": false
   }
 }

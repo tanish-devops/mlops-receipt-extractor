@@ -1,7 +1,7 @@
 {
   "store_name": {
-    "value": "99SPEEDMARTS/B519537-X",
-    "confidence": 0.99,
+    "value": "99 SPEED MART S/B(519537-X",
+    "confidence": 0.98,
     "is_low_confidence": false
   },
   "date": {
@@ -11,11 +11,11 @@
   },
   "items": [
     {
-      "name": "2471888 LYCHEES INSYRUP 5",
+      "name": "2471 888 LYCHEES IN SYRUP 5",
       "price": "10.14"
     },
     {
-      "name": "270 CSRGULA 12*1KG",
+      "name": "270 CSR GULA 12*1KG",
       "price": "35.2"
     },
     {

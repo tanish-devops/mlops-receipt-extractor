@@ -1,7 +1,7 @@
 {
   "store_name": {
     "value": "PETRON BKT LANJAN SB",
-    "confidence": 0.96,
+    "confidence": 0.97,
     "is_low_confidence": false
   },
   "date": {
@@ -11,12 +11,8 @@
   },
   "items": [
     {
-      "name": "A2 double mint te",
+      "name": "A2 doublemint te",
       "price": "3.0"
-    },
-    {
-      "name": "A1 sandwich vanill",
-      "price": "1.9"
     },
     {
       "name": "GST RM",

@@ -1,7 +1,7 @@
 {
   "store_name": {
-    "value": "Walmart",
-    "confidence": 0.99,
+    "value": "See back of receipt for your chance",
+    "confidence": 0.95,
     "is_low_confidence": false
   },
   "date": {
@@ -11,65 +11,29 @@
   },
   "items": [
     {
-      "name": "000000004011KI",
-      "price": "1.75"
+      "name": "HARD SALAMI",
+      "price": "3.43"
     },
     {
-      "name": "000000004011KI",
-      "price": "0.95"
-    },
-    {
-      "name": "BEVERAGE",
-      "price": "2.0"
-    },
-    {
-      "name": "003120027015",
-      "price": "2.0"
-    },
-    {
-      "name": "073447501213",
-      "price": "2.98"
-    },
-    {
-      "name": "002100061526",
-      "price": "3.78"
-    },
-    {
-      "name": "44500982114",
-      "price": "3.98"
-    },
-    {
-      "name": "4AT1 FOR",
+      "name": "AT1FOR",
       "price": "0.44"
     },
     {
-      "name": "4AT1 FOR",
+      "name": "AT1FOR",
       "price": "1.76"
     },
     {
-      "name": "068113113619",
+      "name": "068113113619F",
       "price": "1.0"
     },
     {
-      "name": "SH NYLON COL 007417024836",
+      "name": "007417024836",
       "price": "2.97"
-    },
-    {
-      "name": "HAND CLEANER 004125100005",
-      "price": "1.67"
-    },
-    {
-      "name": "INJECTR CLNR 004980710003",
-      "price": "36.35"
-    },
-    {
-      "name": "ITEMS SOLD16",
-      "price": "2.0"
     }
   ],
   "total_amount": {
-    "value": 36.35,
-    "confidence": 0.74,
+    "value": 8.87,
+    "confidence": 0.93,
     "is_low_confidence": false
   }
 }

@@ -1,6 +1,6 @@
 {
   "store_name": {
-    "value": "LIM SENG THOHARDWARE TRADING",
+    "value": "LIM SENG THO HARDWARE TRADING",
     "confidence": 0.98,
     "is_low_confidence": false
   },
@@ -11,25 +11,13 @@
   },
   "items": [
     {
-      "name": "10.00NOS",
+      "name": "10.00 NOS",
       "price": "0.7"
-    },
-    {
-      "name": "10.00NOS",
-      "price": "7.0"
-    },
-    {
-      "name": "Payment",
-      "price": "7.0"
-    },
-    {
-      "name": "040",
-      "price": "6.6"
     }
   ],
   "total_amount": {
     "value": 7.0,
-    "confidence": 0.75,
+    "confidence": 1.0,
     "is_low_confidence": false
   }
 }

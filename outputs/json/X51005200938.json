@@ -6,44 +6,28 @@
   },
   "date": {
     "value": "12/02/2018",
-    "confidence": 1.0,
+    "confidence": 0.98,
     "is_low_confidence": false
   },
   "items": [
     {
-      "name": "15.0C",
-      "price": "16.0"
+      "name": "50.0C",
+      "price": "50.0"
     },
     {
-      "name": "9555075109147",
-      "price": "21.0"
-    },
-    {
-      "name": "2016",
-      "price": "0.7"
-    },
-    {
-      "name": "2016",
-      "price": "2.1"
-    },
-    {
-      "name": "Discount (RM",
+      "name": "Discount(RM",
       "price": "106.1"
     },
     {
-      "name": "Discount (RM",
+      "name": "Discount(RM",
       "price": "0.0"
     },
     {
-      "name": "Discount (RM",
-      "price": "6.37"
-    },
-    {
-      "name": "RoundIng(RM",
+      "name": "RoundIng (RM",
       "price": "0.02"
     },
     {
-      "name": "RoundIng(RM",
+      "name": "112.4",
       "price": "112.46"
     },
     {
@@ -53,7 +37,7 @@
   ],
   "total_amount": {
     "value": 106.1,
-    "confidence": 0.72,
+    "confidence": 0.74,
     "is_low_confidence": false
   }
 }

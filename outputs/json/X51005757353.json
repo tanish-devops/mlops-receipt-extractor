@@ -1,7 +1,7 @@
 {
   "store_name": {
-    "value": "MR.D.I.YMSDNBHD",
-    "confidence": 0.98,
+    "value": "MR.O.I.Y.MSDNBHD",
+    "confidence": 0.96,
     "is_low_confidence": false
   },
   "date": {
@@ -10,14 +10,6 @@
     "is_low_confidence": false
   },
   "items": [
-    {
-      "name": "9072318",
-      "price": "6.5"
-    },
-    {
-      "name": "9072318",
-      "price": "6.5"
-    },
     {
       "name": "9074333",
       "price": "1.9"
@@ -28,8 +20,8 @@
     }
   ],
   "total_amount": {
-    "value": 12.3,
-    "confidence": 0.75,
+    "value": 50.0,
+    "confidence": 1.0,
     "is_low_confidence": false
   }
 }

@@ -1,27 +1,23 @@
 {
   "store_name": {
-    "value": "Guardian Health And Heauty Sdn H",
-    "confidence": 0.93,
+    "value": "Guardian Hlealth And Beaty Sdn fnd",
+    "confidence": 0.92,
     "is_low_confidence": false
   },
   "date": {
     "value": "09/03/18",
-    "confidence": 0.99,
+    "confidence": 1.0,
     "is_low_confidence": false
   },
   "items": [
     {
-      "name": "12104837360N9R510020",
-      "price": "9.95"
-    },
-    {
-      "name": "TOIAL GST INCL",
+      "name": "1210483736NRS100+20",
       "price": "9.95"
     }
   ],
   "total_amount": {
     "value": 9.95,
-    "confidence": 0.71,
+    "confidence": 1.0,
     "is_low_confidence": false
   }
 }

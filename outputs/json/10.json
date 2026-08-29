@@ -1,7 +1,7 @@
 {
   "store_name": {
-    "value": "SPAR",
-    "confidence": 1.0,
+    "value": "SPARO",
+    "confidence": 0.95,
     "is_low_confidence": false
   },
   "date": {
@@ -109,7 +109,7 @@
   ],
   "total_amount": {
     "value": 338.16,
-    "confidence": 0.54,
+    "confidence": 0.53,
     "is_low_confidence": true
   }
 }

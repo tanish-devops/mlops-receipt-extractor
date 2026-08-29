@@ -9,10 +9,23 @@
     "confidence": 0.99,
     "is_low_confidence": false
   },
-  "items": [],
+  "items": [
+    {
+      "name": "9555221303658",
+      "price": "4.2"
+    },
+    {
+      "name": "99999",
+      "price": "0.2"
+    },
+    {
+      "name": "99999",
+      "price": "0.2"
+    }
+  ],
   "total_amount": {
     "value": 6.2,
-    "confidence": 0.97,
+    "confidence": 1.0,
     "is_low_confidence": false
   }
 }

@@ -1,39 +1,31 @@
 {
   "store_name": {
-    "value": "LAN HiING STATIONERY SDN BHD",
-    "confidence": 0.96,
+    "value": "CHEEEED",
+    "confidence": 0.87,
     "is_low_confidence": false
   },
   "date": {
-    "value": "30/03/2018",
-    "confidence": 0.99,
-    "is_low_confidence": false
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
   },
   "items": [
     {
-      "name": "Durafile H399110x95mm",
+      "name": "Name Badge H)@05500",
       "price": "116.6"
     },
     {
-      "name": "809 Metal Name Badge Clip",
-      "price": "42.4"
+      "name": "Rounding Adjustment",
+      "price": "159.0"
     },
     {
       "name": "Paid Amount",
-      "price": "200.0"
-    },
-    {
-      "name": "SR.@A",
-      "price": "150.0"
-    },
-    {
-      "name": "SR.@A",
-      "price": "9.0"
+      "price": "159.0"
     }
   ],
   "total_amount": {
     "value": 159.0,
-    "confidence": 0.75,
+    "confidence": 0.72,
     "is_low_confidence": false
   }
 }

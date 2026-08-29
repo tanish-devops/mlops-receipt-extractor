@@ -11,24 +11,12 @@
   },
   "items": [
     {
-      "name": "1SK9556173380636",
+      "name": "SK9556173380636",
       "price": "14.31"
     },
     {
-      "name": "1SK9556173380636",
+      "name": "SK9556173380636",
       "price": "14.31"
-    },
-    {
-      "name": "9556296307411",
-      "price": "12.51"
-    },
-    {
-      "name": "9556296307411",
-      "price": "12.51"
-    },
-    {
-      "name": "Rounding Adjustment",
-      "price": "26.82"
     },
     {
       "name": "Rounding Adjustment",
@@ -53,7 +41,7 @@
   ],
   "total_amount": {
     "value": 26.82,
-    "confidence": 0.75,
+    "confidence": 0.74,
     "is_low_confidence": false
   }
 }

@@ -5,26 +5,30 @@
     "is_low_confidence": false
   },
   "date": {
-    "value": "18-11-1813",
-    "confidence": 0.98,
+    "value": "16-11-1813",
+    "confidence": 0.94,
     "is_low_confidence": false
   },
   "items": [
     {
-      "name": "9556916500133",
+      "name": "9554916500133",
       "price": "3.11"
     },
     {
-      "name": "9556916500133",
+      "name": "9554916500133",
       "price": "3.11"
     },
     {
-      "name": "95559165001260",
+      "name": "9555916500126",
       "price": "4.62"
     },
     {
-      "name": "95559165001260",
+      "name": "9555916500126",
       "price": "4.62"
+    },
+    {
+      "name": "079567600084",
+      "price": "11.23"
     },
     {
       "name": "079567600084",
@@ -39,23 +43,15 @@
       "price": "7.45"
     },
     {
-      "name": "9090822",
-      "price": "4.5"
-    },
-    {
-      "name": "9090822",
-      "price": "4.5"
-    },
-    {
-      "name": "ROUNDING ADJUSTMENT",
+      "name": "ROUNDING ADJUSIMEN",
       "price": "30.91"
     },
     {
-      "name": "ROUNDING ADJUSTMENT",
+      "name": "ROUNDING ADJUSIMEN",
       "price": "0.01"
     },
     {
-      "name": "ROUNDING ADJUSTMENT",
+      "name": "ROUNDING ADJUSIMEN",
       "price": "30.9"
     }
   ],

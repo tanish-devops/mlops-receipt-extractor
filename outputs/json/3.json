@@ -1,7 +1,7 @@
 {
   "store_name": {
-    "value": "Walmart",
-    "confidence": 0.97,
+    "value": "TATER TOTS",
+    "confidence": 0.98,
     "is_low_confidence": false
   },
   "date": {
@@ -11,48 +11,16 @@
   },
   "items": [
     {
-      "name": "HRI CL CHS",
-      "price": "2.68"
-    },
-    {
-      "name": "HRI CL CHS",
-      "price": "4.98"
-    },
-    {
-      "name": "003120506000F",
-      "price": "6.88"
-    },
-    {
-      "name": "VOIDED ENTRY",
-      "price": "5.88"
-    },
-    {
-      "name": "HRI CL PEP",
-      "price": "5.88"
-    },
-    {
-      "name": "003120507000F",
-      "price": "5.88"
-    },
-    {
-      "name": "ABF THINBRST 022461710972F",
-      "price": "9.72"
-    },
-    {
-      "name": "002410053523F",
+      "name": "002410053623",
       "price": "4.0"
     },
     {
-      "name": "004400088210F",
-      "price": "2.78"
+      "name": "002410053623",
+      "price": "4.54"
     },
     {
-      "name": "007874207263",
-      "price": "1.28"
-    },
-    {
-      "name": "007874207263",
-      "price": "139.44"
+      "name": "RITZ",
+      "price": "0.64"
     },
     {
       "name": "ITEMS SOLD26",
@@ -60,8 +28,8 @@
     }
   ],
   "total_amount": {
-    "value": 139.44,
-    "confidence": 0.74,
-    "is_low_confidence": false
+    "value": 7.0,
+    "confidence": 0.51,
+    "is_low_confidence": true
   }
 }

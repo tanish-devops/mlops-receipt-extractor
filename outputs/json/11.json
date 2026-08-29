@@ -11,19 +11,15 @@
   },
   "items": [
     {
-      "name": "PL TORTILLA'S",
+      "name": "PL TORTILLAS",
       "price": "6.99"
-    },
-    {
-      "name": "CAGE FREE ALL WHIT",
-      "price": "3.69"
     },
     {
       "name": "BLACK BEANS",
       "price": "1.29"
     },
     {
-      "name": "Frozen Mansoes 160",
+      "name": "Frozen Mangoes 160",
       "price": "2.99"
     },
     {
@@ -39,10 +35,6 @@
       "price": "8.99"
     },
     {
-      "name": "2 off(1WC Fill",
-      "price": "2.0"
-    },
-    {
       "name": "California Harvest",
       "price": "2.69"
     },
@@ -51,21 +43,13 @@
       "price": "2.15"
     },
     {
-      "name": "NHP SLICED OVEN RO",
-      "price": "3.99"
-    },
-    {
-      "name": "NHP SLICED HICKORY",
-      "price": "3.99"
-    },
-    {
-      "name": "BAL",
-      "price": "45.44"
+      "name": "GALA APPLES OG",
+      "price": "3.26"
     }
   ],
   "total_amount": {
     "value": 45.44,
-    "confidence": 0.54,
-    "is_low_confidence": true
+    "confidence": 0.93,
+    "is_low_confidence": false
   }
 }

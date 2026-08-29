@@ -1,12 +1,12 @@
 {
   "store_name": {
-    "value": "AEON CO.M BHD 126926-H",
+    "value": "AEON CO. (M) BHD (126926-H",
     "confidence": 0.97,
     "is_low_confidence": false
   },
   "date": {
     "value": "09/02/2018",
-    "confidence": 0.98,
+    "confidence": 0.99,
     "is_low_confidence": false
   },
   "items": [
@@ -15,15 +15,19 @@
       "price": "5.9"
     },
     {
+      "name": "Sub-tota1",
+      "price": "5.9"
+    },
+    {
       "name": "Item Count 1",
       "price": "4.1"
     },
     {
-      "name": "SR@6",
+      "name": "SR @ 6",
       "price": "5.57"
     },
     {
-      "name": "SR@6",
+      "name": "SR @ 6",
       "price": "0.33"
     }
   ],

@@ -1,12 +1,12 @@
 {
   "store_name": {
-    "value": "32 PUB & BISTRO OWn by CNU TRADING",
+    "value": "32 PUB & BISTRO own by CNU TRADING",
     "confidence": 0.96,
     "is_low_confidence": false
   },
   "date": {
     "value": "11-03-2018",
-    "confidence": 1.0,
+    "confidence": 0.99,
     "is_low_confidence": false
   },
   "items": [
@@ -16,16 +16,12 @@
     },
     {
       "name": "6",
-      "price": "79.25"
-    },
-    {
-      "name": "6",
-      "price": "10.75"
+      "price": "171.25"
     }
   ],
   "total_amount": {
     "value": 179.25,
-    "confidence": 1.0,
+    "confidence": 0.73,
     "is_low_confidence": false
   }
 }

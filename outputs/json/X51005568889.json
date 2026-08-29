@@ -11,11 +11,11 @@
   },
   "items": [
     {
-      "name": "383/4ALUMINIUMROD",
+      "name": "1.383/4ALUMNIUMROD",
       "price": "5.8"
     },
     {
-      "name": "383/4ALUMINIUMROD",
+      "name": "1.383/4ALUMNIUMROD",
       "price": "19.6"
     },
     {
@@ -31,13 +31,25 @@
       "price": "0.0"
     },
     {
-      "name": "RoundingAdj",
+      "name": "Rounding Adj",
       "price": "0.0"
+    },
+    {
+      "name": "Tolal",
+      "price": "18.49"
+    },
+    {
+      "name": "Tolal",
+      "price": "1.11"
+    },
+    {
+      "name": "Tolal",
+      "price": "19.6"
     }
   ],
   "total_amount": {
     "value": 19.6,
-    "confidence": 0.74,
+    "confidence": 0.75,
     "is_low_confidence": false
   }
 }

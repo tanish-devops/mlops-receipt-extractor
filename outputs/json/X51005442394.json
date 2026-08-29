@@ -1,7 +1,7 @@
 {
   "store_name": {
     "value": "UNIHAKKA INTERNATIONAL SDN BHD",
-    "confidence": 0.98,
+    "confidence": 1.0,
     "is_low_confidence": false
   },
   "date": {
@@ -11,19 +11,11 @@
   },
   "items": [
     {
-      "name": "5R100100000015-Vegetable",
+      "name": "SR 100100000015-Vegetable",
       "price": "1.1"
     },
     {
-      "name": "5R100100000015-Vegetable",
-      "price": "1.1"
-    },
-    {
-      "name": "GST6%$0.4",
-      "price": "8.2"
-    },
-    {
-      "name": "GST6%$0.4",
+      "name": "Payment Mode",
       "price": "8.2"
     },
     {
@@ -31,21 +23,17 @@
       "price": "8.2"
     },
     {
-      "name": "ASH",
+      "name": "Chenge",
       "price": "0.0"
     },
     {
-      "name": "SFGST@3",
-      "price": "7.74"
-    },
-    {
-      "name": "SFGST@3",
-      "price": "0.4"
+      "name": "7 74",
+      "price": "3.4"
     }
   ],
   "total_amount": {
     "value": 8.2,
-    "confidence": 0.71,
+    "confidence": 0.72,
     "is_low_confidence": false
   }
 }

@@ -1,7 +1,7 @@
 {
   "store_name": {
-    "value": "L TWOFLORIST&HANDICRAFT",
-    "confidence": 0.99,
+    "value": "L TWO FLORIST&HANDICRAFT",
+    "confidence": 0.98,
     "is_low_confidence": false
   },
   "date": {
@@ -11,12 +11,20 @@
   },
   "items": [
     {
+      "name": "SALESPERSON",
+      "price": "1.0"
+    },
+    {
       "name": "NE3555",
       "price": "1.0"
     },
     {
       "name": "NE3555",
       "price": "2.0"
+    },
+    {
+      "name": "SB/01-3",
+      "price": "7.0"
     },
     {
       "name": "DISC",
@@ -29,7 +37,7 @@
   ],
   "total_amount": {
     "value": 9.0,
-    "confidence": 1.0,
+    "confidence": 0.75,
     "is_low_confidence": false
   }
 }

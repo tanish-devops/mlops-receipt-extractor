@@ -1,7 +1,7 @@
 {
   "store_name": {
-    "value": "JOY XHAHT",
-    "confidence": 0.88,
+    "value": "UOYXHAHT",
+    "confidence": 0.96,
     "is_low_confidence": false
   },
   "date": {
@@ -11,17 +11,21 @@
   },
   "items": [
     {
-      "name": "EQUATE LINER068113186503",
-      "price": "7.48"
+      "name": "ST#015950P#007573TE10TR",
+      "price": "3.88"
     },
     {
-      "name": "DEBIT TEND",
-      "price": "6.6"
+      "name": "CAHT",
+      "price": "0.0"
+    },
+    {
+      "name": "REF # 712400283994",
+      "price": "5.2"
     }
   ],
   "total_amount": {
-    "value": 6.6,
-    "confidence": 0.74,
+    "value": 7.0,
+    "confidence": 0.72,
     "is_low_confidence": false
   }
 }

@@ -1,25 +1,25 @@
 {
   "store_name": {
-    "value": "AEONCOMBHD126926-H",
-    "confidence": 0.99,
+    "value": "AEON COMBHD 126926-H",
+    "confidence": 0.97,
     "is_low_confidence": false
   },
   "date": {
-    "value": null,
-    "confidence": 0.36,
-    "is_low_confidence": true
+    "value": "14/03/2018",
+    "confidence": 1.0,
+    "is_low_confidence": false
   },
   "items": [
     {
-      "name": "1x000005469765",
+      "name": "1000005469765",
       "price": "6.65"
     },
     {
-      "name": "1x000001101575",
+      "name": "1x 000001101575",
       "price": "5.6"
     },
     {
-      "name": "Toial After Adi Incl GST",
+      "name": "Toial After Adj Incl GST",
       "price": "12.25"
     },
     {
@@ -27,11 +27,11 @@
       "price": "37.75"
     },
     {
-      "name": "SR@6",
+      "name": "SR 6",
       "price": "11.55"
     },
     {
-      "name": "SR@6",
+      "name": "SR 6",
       "price": "0.7"
     }
   ],

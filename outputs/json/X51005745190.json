@@ -1,17 +1,17 @@
 {
   "store_name": {
     "value": "SUPER SEVEN CASH & CARRY SDN 3HD",
-    "confidence": 0.97,
+    "confidence": 1.0,
     "is_low_confidence": false
   },
   "date": {
-    "value": "12-02-2018",
-    "confidence": 0.99,
-    "is_low_confidence": false
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
   },
   "items": [
     {
-      "name": "9556606389992",
+      "name": "9556606389892",
       "price": "53.5"
     },
     {
@@ -19,45 +19,41 @@
       "price": "8.5"
     },
     {
-      "name": "95:606500035",
+      "name": "955606500035",
       "price": "19.5"
     },
     {
-      "name": "9536065000345",
-      "price": "17.2"
-    },
-    {
-      "name": "9554100157801*1",
+      "name": "9554130157801*1",
       "price": "7.9"
     },
     {
-      "name": "olal Sales Incl.GST 6",
+      "name": "oial Sales (Incl. GSt 06",
       "price": "367.1"
     },
     {
-      "name": "Nel leta",
+      "name": "Nel lota",
       "price": "367.1"
     },
     {
-      "name": "ZR(0",
+      "name": "IR(0",
       "price": "359.2"
     },
     {
-      "name": "ZR(0",
+      "name": "IR(0",
       "price": "0.0"
     },
     {
-      "name": "SR6",
+      "name": "3R6",
       "price": "7.45"
     },
     {
-      "name": "SR6",
+      "name": "3R6",
       "price": "0.45"
     }
   ],
   "total_amount": {
     "value": 367.1,
-    "confidence": 0.53,
+    "confidence": 0.51,
     "is_low_confidence": true
   }
 }

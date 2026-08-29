@@ -1,12 +1,12 @@
 {
   "store_name": {
-    "value": "MR.D.I.YKUCHAISDN BHD",
+    "value": "MR.D.I.Y.KUCHAI)SDN BHD",
     "confidence": 0.98,
     "is_low_confidence": false
   },
   "date": {
     "value": "41-71-10",
-    "confidence": 0.99,
+    "confidence": 1.0,
     "is_low_confidence": false
   },
   "items": [
@@ -17,6 +17,18 @@
     {
       "name": "9001620",
       "price": "29.9"
+    },
+    {
+      "name": "9063977",
+      "price": "2.1"
+    },
+    {
+      "name": "9063977",
+      "price": "2.1"
+    },
+    {
+      "name": "9071246",
+      "price": "2.5"
     },
     {
       "name": "9071246",

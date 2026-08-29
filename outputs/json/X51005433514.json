@@ -11,19 +11,11 @@
   },
   "items": [
     {
-      "name": "SR100100000035-1Meat+3Vege",
-      "price": "7.1"
-    },
-    {
-      "name": "SR100100000035-1Meat+3Vege",
-      "price": "7.1"
-    },
-    {
-      "name": "SR100100000015-Vegetable",
+      "name": "SR 100100000015-Vegetable",
       "price": "1.1"
     },
     {
-      "name": "SR100100000015-Vegetable",
+      "name": "SR 100100000015-Vegetable",
       "price": "1.1"
     },
     {
@@ -33,10 +25,6 @@
     {
       "name": "Amount",
       "price": "8.2"
-    },
-    {
-      "name": "SR-GST",
-      "price": "7.74"
     }
   ],
   "total_amount": {

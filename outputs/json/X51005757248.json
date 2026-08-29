@@ -1,7 +1,7 @@
 {
   "store_name": {
-    "value": "AEON CO.MBHD126926-H",
-    "confidence": 0.97,
+    "value": "AEON CO.MBHD 126926-H",
+    "confidence": 0.98,
     "is_low_confidence": false
   },
   "date": {
@@ -15,19 +15,23 @@
       "price": "0.2"
     },
     {
-      "name": "1x000000616775",
+      "name": "1x00000616775",
       "price": "13.94"
     },
     {
-      "name": "1x00000616775",
+      "name": "1x000000616775",
       "price": "14.81"
     },
     {
-      "name": "1000000616775",
+      "name": "1000000516775",
       "price": "13.53"
     },
     {
-      "name": "Rounding Adj",
+      "name": "iotal Sales inci GST",
+      "price": "42.48"
+    },
+    {
+      "name": "Raunding Ad",
       "price": "0.02"
     },
     {
@@ -35,11 +39,11 @@
       "price": "7.5"
     },
     {
-      "name": "SR6",
+      "name": "CR6",
       "price": "0.19"
     },
     {
-      "name": "SR6",
+      "name": "CR6",
       "price": "0.01"
     },
     {

@@ -1,7 +1,7 @@
 {
   "store_name": {
-    "value": "SYARIKATPERNIAGAAN GIN KEE",
-    "confidence": 0.99,
+    "value": "SYARIKAT PERNIAGAAN GIN KEE",
+    "confidence": 0.98,
     "is_low_confidence": false
   },
   "date": {
@@ -11,20 +11,20 @@
   },
   "items": [
     {
+      "name": "USER",
+      "price": "15.46"
+    },
+    {
+      "name": "1840",
+      "price": "40.28"
+    },
+    {
       "name": "1840",
       "price": "40.28"
     },
     {
       "name": "1664",
-      "price": "26.5"
-    },
-    {
-      "name": "1664",
       "price": "53.0"
-    },
-    {
-      "name": "Totai Qty",
-      "price": "100.17"
     },
     {
       "name": "Discount",
@@ -35,12 +35,12 @@
       "price": "0.0"
     },
     {
-      "name": "Totai Sales lnclusive of GsT",
+      "name": "Totai Sales (inclusive of GsT",
       "price": "100.17"
     }
   ],
   "total_amount": {
-    "value": 94.5,
+    "value": 5.67,
     "confidence": 0.75,
     "is_low_confidence": false
   }

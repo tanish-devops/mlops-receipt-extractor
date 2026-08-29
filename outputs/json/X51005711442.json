@@ -23,17 +23,29 @@
       "price": "2.2"
     },
     {
-      "name": "1 x",
+      "name": "2 x",
       "price": "2.2"
     },
     {
-      "name": "GST payable6",
+      "name": "4 X",
+      "price": "0.2"
+    },
+    {
+      "name": "Tota1 Excluding GST",
+      "price": "9.07"
+    },
+    {
+      "name": "GST payable 6",
       "price": "0.53"
+    },
+    {
+      "name": "Tota1 Inclusive of GST",
+      "price": "9.6"
     }
   ],
   "total_amount": {
-    "value": 9.07,
-    "confidence": 1.0,
+    "value": 9.6,
+    "confidence": 0.75,
     "is_low_confidence": false
   }
 }

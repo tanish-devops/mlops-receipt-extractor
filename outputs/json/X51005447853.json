@@ -1,7 +1,7 @@
 {
   "store_name": {
-    "value": "09SPEEDMARTS/D519537X",
-    "confidence": 0.96,
+    "value": "9SPEEDMARTS/D519537X",
+    "confidence": 0.98,
     "is_low_confidence": false
   },
   "date": {
@@ -11,15 +11,15 @@
   },
   "items": [
     {
-      "name": "2503 YONCCHUN LOKAM MNDRN S",
+      "name": "250S YONCCHUN LOKAM MNDRN S",
       "price": "62.5"
     },
     {
-      "name": "2508YCNGCHUNLOKAKMNDRN",
+      "name": "2508 YCNGCHUN LOKAK MNDRNM",
       "price": "79.0"
     },
     {
-      "name": "z=0",
+      "name": "Z=0",
       "price": "141.5"
     }
   ],

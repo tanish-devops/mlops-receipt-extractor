@@ -1,17 +1,17 @@
 {
   "store_name": {
-    "value": "995PEEDM9RTS/B(519537-X",
-    "confidence": 0.95,
+    "value": "99SPEEDMARTS/B519537-X",
+    "confidence": 0.99,
     "is_low_confidence": false
   },
   "date": {
     "value": "10-03-18",
-    "confidence": 0.99,
+    "confidence": 1.0,
     "is_low_confidence": false
   },
   "items": [
     {
-      "name": "104 SUNQUICKOREN330ML",
+      "name": "104 SUNQUICK OREN330ML",
       "price": "5.35"
     },
     {

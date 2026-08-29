@@ -11,20 +11,24 @@
   },
   "items": [
     {
-      "name": "Tota Incl.ofGST",
+      "name": "1.00",
+      "price": "15.9"
+    },
+    {
+      "name": "1.00",
+      "price": "15.9"
+    },
+    {
+      "name": "Tota Excl.of GST",
+      "price": "15.0"
+    },
+    {
+      "name": "Tota Incl.oT GST",
       "price": "15.9"
     },
     {
       "name": "Payment",
       "price": "50.0"
-    },
-    {
-      "name": "6",
-      "price": "15.0"
-    },
-    {
-      "name": "6",
-      "price": "0.9"
     }
   ],
   "total_amount": {

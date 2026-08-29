@@ -1,12 +1,12 @@
 {
   "store_name": {
-    "value": "MRD.1.YMSDNBHD",
-    "confidence": 0.95,
+    "value": "MR.D.1.YMSONBHD",
+    "confidence": 0.96,
     "is_low_confidence": false
   },
   "date": {
-    "value": "52-62-25",
-    "confidence": 0.99,
+    "value": "18-03-1815",
+    "confidence": 0.98,
     "is_low_confidence": false
   },
   "items": [
@@ -16,8 +16,8 @@
     }
   ],
   "total_amount": {
-    "value": 20.0,
-    "confidence": 0.93,
+    "value": 10.6,
+    "confidence": 1.0,
     "is_low_confidence": false
   }
 }

@@ -5,9 +5,9 @@
     "is_low_confidence": false
   },
   "date": {
-    "value": null,
-    "confidence": 0.36,
-    "is_low_confidence": true
+    "value": "4/02/2017",
+    "confidence": 0.98,
+    "is_low_confidence": false
   },
   "items": [
     {
@@ -35,23 +35,15 @@
       "price": "10.0"
     },
     {
-      "name": "9555052401196",
-      "price": "14.9"
-    },
-    {
-      "name": "9555052401196",
-      "price": "44.7"
-    },
-    {
       "name": "Rounding Adjustment",
       "price": "0.0"
     },
     {
-      "name": "3=6",
+      "name": "S=6",
       "price": "80.27"
     },
     {
-      "name": "3=6",
+      "name": "S=6",
       "price": "4.83"
     },
     {
@@ -65,7 +57,7 @@
   ],
   "total_amount": {
     "value": 85.1,
-    "confidence": 0.74,
+    "confidence": 0.75,
     "is_low_confidence": false
   }
 }

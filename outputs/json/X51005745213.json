@@ -1,29 +1,29 @@
 {
   "store_name": {
-    "value": "MUN HENG ELECTRICAL",
-    "confidence": 0.96,
+    "value": "MUN HENGELECTRICAL",
+    "confidence": 0.98,
     "is_low_confidence": false
   },
   "date": {
     "value": "01/02/2018",
-    "confidence": 0.98,
+    "confidence": 0.99,
     "is_low_confidence": false
   },
   "items": [
     {
-      "name": "ESWHITE SPRAY",
+      "name": "EWHITE SPRAY",
       "price": "1.0"
     },
     {
-      "name": "ESWHITE SPRAY",
+      "name": "EWHITE SPRAY",
       "price": "7.0"
     },
     {
-      "name": "ToaAninol.GSTO",
+      "name": "TotaAmi lnd.GSTO6",
       "price": "7.0"
     },
     {
-      "name": "Rounding Adjusment",
+      "name": "Rounding Adjusiment",
       "price": "0.01"
     },
     {
@@ -31,17 +31,21 @@
       "price": "7.0"
     },
     {
-      "name": "Chenge",
-      "price": "0.0"
+      "name": "50",
+      "price": "0.4"
     },
     {
-      "name": "50",
+      "name": "1Toral",
+      "price": "6.0"
+    },
+    {
+      "name": "1Toral",
       "price": "0.4"
     }
   ],
   "total_amount": {
     "value": 7.0,
-    "confidence": 0.74,
+    "confidence": 0.75,
     "is_low_confidence": false
   }
 }

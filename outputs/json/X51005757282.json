@@ -1,19 +1,15 @@
 {
   "store_name": {
-    "value": "TSH'POWER HARDWARE",
-    "confidence": 0.97,
+    "value": "TSH`POWER HARDWARE",
+    "confidence": 0.99,
     "is_low_confidence": false
   },
   "date": {
-    "value": null,
-    "confidence": 0.36,
-    "is_low_confidence": true
+    "value": "12/09/2017",
+    "confidence": 1.0,
+    "is_low_confidence": false
   },
   "items": [
-    {
-      "name": "308# DRAWER",
-      "price": "6.0"
-    },
     {
       "name": "Round Amt",
       "price": "0.0"

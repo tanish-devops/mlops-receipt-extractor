@@ -15,21 +15,13 @@
       "price": "55.0"
     },
     {
-      "name": "GTG02",
-      "price": "58.3"
-    },
-    {
-      "name": "ServiceChrgIncl.GST6",
-      "price": "5.83"
-    },
-    {
-      "name": "Rounding Ad justment",
-      "price": "0.02"
+      "name": "000",
+      "price": "0.0"
     }
   ],
   "total_amount": {
     "value": 64.15,
-    "confidence": 0.73,
+    "confidence": 1.0,
     "is_low_confidence": false
   }
 }

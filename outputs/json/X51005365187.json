@@ -6,7 +6,7 @@
   },
   "date": {
     "value": "02/03/2018",
-    "confidence": 1.0,
+    "confidence": 0.99,
     "is_low_confidence": false
   },
   "items": [
@@ -15,19 +15,11 @@
       "price": "16.46"
     },
     {
-      "name": "9557892105258",
-      "price": "5.66"
-    },
-    {
-      "name": "1155",
-      "price": "6.5"
-    },
-    {
       "name": "Discount",
       "price": "0.0"
     },
     {
-      "name": "Rounding",
+      "name": "Rounrding",
       "price": "0.0"
     },
     {
@@ -35,7 +27,7 @@
       "price": "1.22"
     },
     {
-      "name": "ZRL",
+      "name": "1030",
       "price": "0.0"
     }
   ],

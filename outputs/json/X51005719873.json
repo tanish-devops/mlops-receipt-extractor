@@ -1,39 +1,31 @@
 {
   "store_name": {
     "value": "Your order number is",
-    "confidence": 1.0,
+    "confidence": 0.99,
     "is_low_confidence": false
   },
   "date": {
     "value": "21/01/2018",
-    "confidence": 0.99,
+    "confidence": 1.0,
     "is_low_confidence": false
   },
   "items": [
-    {
-      "name": "Date",
-      "price": "15.46"
-    },
     {
       "name": "Pearl",
       "price": "1.1"
     },
     {
-      "name": "Tendered",
-      "price": "9.0"
-    },
-    {
-      "name": "SR@6",
+      "name": "SR @ 6",
       "price": "8.12"
     },
     {
-      "name": "SR@6",
+      "name": "SR @ 6",
       "price": "0.48"
     }
   ],
   "total_amount": {
     "value": 8.6,
-    "confidence": 0.74,
+    "confidence": 1.0,
     "is_low_confidence": false
   }
 }

@@ -1,7 +1,7 @@
 {
   "store_name": {
-    "value": "RESTAURANT SIN DPS",
-    "confidence": 0.96,
+    "value": "K3-113JL IBRAHIMSULTAN",
+    "confidence": 0.97,
     "is_low_confidence": false
   },
   "date": {
@@ -11,17 +11,17 @@
   },
   "items": [
     {
-      "name": "DPT.05",
+      "name": "OPT.05",
       "price": "149.0"
     },
     {
-      "name": "DPI.04",
+      "name": "DPI.O4",
       "price": "21.0"
     }
   ],
   "total_amount": {
     "value": 170.0,
-    "confidence": 0.94,
+    "confidence": 0.93,
     "is_low_confidence": false
   }
 }

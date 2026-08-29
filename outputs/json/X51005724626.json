@@ -21,7 +21,7 @@
   ],
   "total_amount": {
     "value": 255.0,
-    "confidence": 1.0,
+    "confidence": 0.98,
     "is_low_confidence": false
   }
 }

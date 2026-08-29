@@ -1,24 +1,16 @@
 {
   "store_name": {
     "value": "MYDIN",
-    "confidence": 0.98,
+    "confidence": 0.97,
     "is_low_confidence": false
   },
   "date": {
     "value": "10/08/2017",
-    "confidence": 0.97,
+    "confidence": 0.98,
     "is_low_confidence": false
   },
   "items": [
     {
-      "name": "3555023304662",
-      "price": "2.6"
-    },
-    {
-      "name": "3555023304662",
-      "price": "5.2"
-    },
-    {
       "name": "2300000017984",
       "price": "0.2"
     },
@@ -27,7 +19,11 @@
       "price": "0.2"
     },
     {
-      "name": "5555495400985",
+      "name": "9555495401722",
+      "price": "3.0"
+    },
+    {
+      "name": "9555495401722",
       "price": "3.0"
     },
     {
@@ -35,7 +31,11 @@
       "price": "3.0"
     },
     {
-      "name": "9555495401814",
+      "name": "955495400961",
+      "price": "2.5"
+    },
+    {
+      "name": "955495400961",
       "price": "2.5"
     },
     {
@@ -43,27 +43,31 @@
       "price": "2.5"
     },
     {
-      "name": "Totafe",
+      "name": "9555495401814",
+      "price": "2.5"
+    },
+    {
+      "name": "Tota",
       "price": "21.4"
     },
     {
-      "name": "Rounidiniga",
+      "name": "Adjustiment",
       "price": "0.0"
     },
     {
-      "name": "5=6",
+      "name": "S=6",
       "price": "20.19"
     },
     {
-      "name": "5=6",
+      "name": "S=6",
       "price": "1.21"
     },
     {
-      "name": "0",
+      "name": "1 = 0",
       "price": "0.0"
     },
     {
-      "name": "0",
+      "name": "1 = 0",
       "price": "0.0"
     }
   ],

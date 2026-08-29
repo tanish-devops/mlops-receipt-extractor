@@ -1,7 +1,7 @@
 {
   "store_name": {
-    "value": "baskinBRrobbiNs",
-    "confidence": 0.95,
+    "value": "baskinBRrobbins",
+    "confidence": 0.96,
     "is_low_confidence": false
   },
   "date": {
@@ -11,12 +11,16 @@
   },
   "items": [
     {
-      "name": "Double Rg.Cup",
-      "price": "20.0"
+      "name": "Date & time",
+      "price": "4.58"
     },
     {
-      "name": "Double Rg.Cup",
-      "price": "20.0"
+      "name": "Colour Rice",
+      "price": "1.5"
+    },
+    {
+      "name": "Colour Rice",
+      "price": "1.5"
     },
     {
       "name": "6.0",

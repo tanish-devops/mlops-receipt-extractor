@@ -11,11 +11,15 @@
   },
   "items": [
     {
-      "name": "1PC",
+      "name": "1 PC",
+      "price": "9.0"
+    },
+    {
+      "name": "1 PC",
       "price": "0.0"
     },
     {
-      "name": "1PC",
+      "name": "1 PC",
       "price": "9.0"
     },
     {
@@ -23,17 +27,13 @@
       "price": "0.0"
     },
     {
-      "name": "Roundd TotaiRM",
+      "name": "Round d Totai RM",
       "price": "9.0"
-    },
-    {
-      "name": "100",
-      "price": "10.0"
     }
   ],
   "total_amount": {
     "value": 9.0,
-    "confidence": 0.75,
+    "confidence": 0.71,
     "is_low_confidence": false
   }
 }

@@ -11,8 +11,12 @@
   },
   "items": [
     {
-      "name": "3483",
-      "price": "7.95"
+      "name": "USER",
+      "price": "2.0"
+    },
+    {
+      "name": "Totai Sales (Excluding GST",
+      "price": "7.5"
     },
     {
       "name": "Discount",
@@ -21,14 +25,10 @@
     {
       "name": "Rounding",
       "price": "0.0"
-    },
-    {
-      "name": "045",
-      "price": "7.5"
     }
   ],
   "total_amount": {
-    "value": 7.5,
+    "value": 0.45,
     "confidence": 0.75,
     "is_low_confidence": false
   }

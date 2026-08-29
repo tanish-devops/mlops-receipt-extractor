@@ -11,31 +11,43 @@
   },
   "items": [
     {
-      "name": "1 x",
+      "name": "1 X",
+      "price": "2.2"
+    },
+    {
+      "name": "1 X",
+      "price": "2.2"
+    },
+    {
+      "name": "1 X",
       "price": "2.2"
     },
     {
       "name": "1 x",
-      "price": "2.2"
+      "price": "1.7"
     },
     {
       "name": "3 x",
       "price": "0.2"
     },
     {
-      "name": "TatalExcluding GST",
+      "name": "3 x",
+      "price": "0.6"
+    },
+    {
+      "name": "Tata1 Excluding GST",
       "price": "6.33"
     },
     {
-      "name": "GSTpayable 6",
+      "name": "GST payable 6",
       "price": "0.37"
     },
     {
-      "name": "6",
+      "name": "06",
       "price": "6.33"
     },
     {
-      "name": "6",
+      "name": "06",
       "price": "0.37"
     }
   ],

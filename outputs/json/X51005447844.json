@@ -5,13 +5,13 @@
     "is_low_confidence": false
   },
   "date": {
-    "value": null,
-    "confidence": 0.36,
-    "is_low_confidence": true
+    "value": "23/2/2018",
+    "confidence": 0.97,
+    "is_low_confidence": false
   },
   "items": [
     {
-      "name": "42",
+      "name": "42.1",
       "price": "0.0"
     },
     {
@@ -37,15 +37,11 @@
     {
       "name": "Service Char",
       "price": "0.0"
-    },
-    {
-      "name": "Rounding Adjustment",
-      "price": "0.0"
     }
   ],
   "total_amount": {
     "value": 110.0,
-    "confidence": 0.75,
+    "confidence": 0.73,
     "is_low_confidence": false
   }
 }

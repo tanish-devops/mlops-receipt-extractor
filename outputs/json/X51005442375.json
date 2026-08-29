@@ -11,12 +11,12 @@
   },
   "items": [
     {
-      "name": "SR 100100000057-Fried N00dle(L",
-      "price": "3.0"
+      "name": "SR 100100000060-4Vege",
+      "price": "5.5"
     },
     {
-      "name": "SR 100100000057-Fried N00dle(L",
-      "price": "3.0"
+      "name": "SR 100100000057-Fried No0dle (L",
+      "price": "5.5"
     },
     {
       "name": "Payment Mode",
@@ -37,7 +37,7 @@
   ],
   "total_amount": {
     "value": 8.5,
-    "confidence": 0.72,
+    "confidence": 0.73,
     "is_low_confidence": false
   }
 }

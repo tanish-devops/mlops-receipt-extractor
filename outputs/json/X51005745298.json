@@ -15,11 +15,11 @@
       "price": "1.49"
     },
     {
-      "name": "501 MALTACAN320MLICE",
+      "name": "501MALTA CAN320ML ICE",
       "price": "2.5"
     },
     {
-      "name": "RoundingRM",
+      "name": "Rounding RM",
       "price": "4.0"
     },
     {
@@ -29,7 +29,7 @@
   ],
   "total_amount": {
     "value": 3.99,
-    "confidence": 0.75,
+    "confidence": 0.73,
     "is_low_confidence": false
   }
 }

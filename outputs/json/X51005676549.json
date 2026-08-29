@@ -6,7 +6,7 @@
   },
   "date": {
     "value": "02/01/2018",
-    "confidence": 0.98,
+    "confidence": 0.99,
     "is_low_confidence": false
   },
   "items": [
@@ -33,11 +33,15 @@
     {
       "name": "Rounding",
       "price": "0.0"
+    },
+    {
+      "name": "225",
+      "price": "37.5"
     }
   ],
   "total_amount": {
-    "value": 37.5,
-    "confidence": 0.75,
+    "value": 2.25,
+    "confidence": 0.71,
     "is_low_confidence": false
   }
 }

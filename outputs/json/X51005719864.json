@@ -1,6 +1,6 @@
 {
   "store_name": {
-    "value": "FUNNCHEER(MALURI",
+    "value": "FUNN CHEER (MALURI",
     "confidence": 0.98,
     "is_low_confidence": false
   },
@@ -10,6 +10,14 @@
     "is_low_confidence": false
   },
   "items": [
+    {
+      "name": "0412638",
+      "price": "14.9"
+    },
+    {
+      "name": "0412638",
+      "price": "29.8"
+    },
     {
       "name": "ADDGST6%On",
       "price": "1.69"

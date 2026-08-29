@@ -1,12 +1,12 @@
 {
   "store_name": {
-    "value": "Gerbang Alaf RestaurantsSdn Bhd",
+    "value": "Gerbang Alaf Restaurants Sdn Bhd",
     "confidence": 0.98,
     "is_low_confidence": false
   },
   "date": {
     "value": "19-21/03",
-    "confidence": 0.98,
+    "confidence": 0.97,
     "is_low_confidence": false
   },
   "items": [
@@ -15,15 +15,15 @@
       "price": "9.5"
     },
     {
-      "name": "1McChicken",
+      "name": "1 McChicken",
       "price": "5.0"
     },
     {
-      "name": "19Nuggets",
+      "name": "1 9Nuggets",
       "price": "10.9"
     },
     {
-      "name": "TakeOut Tota (incl GST",
+      "name": "Tota1 Rounded",
       "price": "25.4"
     }
   ],

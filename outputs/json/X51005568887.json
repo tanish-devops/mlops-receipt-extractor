@@ -1,7 +1,7 @@
 {
   "store_name": {
-    "value": "HONHWAHARDWARETRADING",
-    "confidence": 0.99,
+    "value": "HON HWA HARDWARE TRADING",
+    "confidence": 0.97,
     "is_low_confidence": false
   },
   "date": {
@@ -11,15 +11,15 @@
   },
   "items": [
     {
-      "name": "1.234ALUMINIUMROD",
+      "name": "1.23/4ALUMINIUMROD",
       "price": "6.0"
     },
     {
-      "name": "1.234ALUMINIUMROD",
+      "name": "1.23/4ALUMINIUMROD",
       "price": "7.2"
     },
     {
-      "name": "1.2Type1",
+      "name": "1.2 Type: 1",
       "price": "7.2"
     },
     {
@@ -31,17 +31,21 @@
       "price": "0.0"
     },
     {
-      "name": "041",
+      "name": "Totel",
       "price": "6.79"
     },
     {
-      "name": "041",
+      "name": "Totel",
+      "price": "0.41"
+    },
+    {
+      "name": "Totel",
       "price": "7.2"
     }
   ],
   "total_amount": {
     "value": 7.2,
-    "confidence": 0.74,
+    "confidence": 0.75,
     "is_low_confidence": false
   }
 }

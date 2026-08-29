@@ -5,9 +5,9 @@
     "is_low_confidence": false
   },
   "date": {
-    "value": null,
-    "confidence": 0.36,
-    "is_low_confidence": true
+    "value": "07-03-2018",
+    "confidence": 0.97,
+    "is_low_confidence": false
   },
   "items": [
     {
@@ -15,8 +15,20 @@
       "price": "2.2"
     },
     {
-      "name": "GSTpayable6",
+      "name": "2 x",
+      "price": "4.4"
+    },
+    {
+      "name": "Tota1 Excluding GST",
+      "price": "4.54"
+    },
+    {
+      "name": "GST payable 6",
       "price": "0.26"
+    },
+    {
+      "name": "6",
+      "price": "4.54"
     },
     {
       "name": "6",
@@ -24,8 +36,8 @@
     }
   ],
   "total_amount": {
-    "value": 4.54,
-    "confidence": 1.0,
+    "value": 4.8,
+    "confidence": 0.75,
     "is_low_confidence": false
   }
 }

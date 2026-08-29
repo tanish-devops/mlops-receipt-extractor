@@ -1,7 +1,7 @@
 {
   "store_name": {
-    "value": "TEO HENG STATIONERY &BDAKS",
-    "confidence": 0.96,
+    "value": "TEO HENG STATIONERY & BOOKS",
+    "confidence": 0.97,
     "is_low_confidence": false
   },
   "date": {
@@ -12,14 +12,6 @@
   "items": [
     {
       "name": "9557068000035",
-      "price": "3.5"
-    },
-    {
-      "name": "9557068000035",
-      "price": "5.69"
-    },
-    {
-      "name": "9557068000035",
       "price": "3.3"
     },
     {
@@ -28,8 +20,8 @@
     }
   ],
   "total_amount": {
-    "value": 0.28,
-    "confidence": 0.75,
+    "value": 4.6,
+    "confidence": 1.0,
     "is_low_confidence": false
   }
 }

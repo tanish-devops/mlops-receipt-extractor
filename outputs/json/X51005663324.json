@@ -5,9 +5,9 @@
     "is_low_confidence": false
   },
   "date": {
-    "value": "28/12/2017",
-    "confidence": 0.99,
-    "is_low_confidence": false
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
   },
   "items": [
     {
@@ -19,15 +19,23 @@
       "price": "4.24"
     },
     {
+      "name": "3483",
+      "price": "7.95"
+    },
+    {
+      "name": "1452",
+      "price": "10.07"
+    },
+    {
+      "name": "1452",
+      "price": "10.07"
+    },
+    {
       "name": "1664",
       "price": "26.5"
     },
     {
-      "name": "1664",
-      "price": "53.0"
-    },
-    {
-      "name": "1665",
+      "name": "450",
       "price": "0.3"
     },
     {
@@ -51,16 +59,12 @@
       "price": "16.96"
     },
     {
-      "name": "1812",
-      "price": "33.92"
+      "name": "4028",
+      "price": "80.56"
     },
     {
       "name": "470",
       "price": "465.34"
-    },
-    {
-      "name": "Discount",
-      "price": "0.0"
     },
     {
       "name": "Rounding",

@@ -1,12 +1,12 @@
 {
   "store_name": {
     "value": "3-1708032",
-    "confidence": 1.0,
+    "confidence": 0.98,
     "is_low_confidence": false
   },
   "date": {
-    "value": "06/02/1818",
-    "confidence": 0.99,
+    "value": "06/02/18",
+    "confidence": 0.97,
     "is_low_confidence": false
   },
   "items": [
@@ -15,25 +15,29 @@
       "price": "7.05"
     },
     {
-      "name": "PB F/ RING FILE W/CLI",
-      "price": "6.99"
+      "name": "PB F/ RING FILE W/GL1",
+      "price": "6.49"
+    },
+    {
+      "name": "TotaI RM Incl. of GST",
+      "price": "14.64"
     },
     {
       "name": "Rounding Adj",
       "price": "0.01"
     },
     {
-      "name": "T6",
+      "name": "T @ 6",
       "price": "13.81"
     },
     {
-      "name": "T6",
+      "name": "T @ 6",
       "price": "0.83"
     }
   ],
   "total_amount": {
-    "value": 14.64,
-    "confidence": 0.75,
+    "value": 14.65,
+    "confidence": 0.73,
     "is_low_confidence": false
   }
 }

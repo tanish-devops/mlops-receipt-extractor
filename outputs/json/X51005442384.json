@@ -11,6 +11,18 @@
   },
   "items": [
     {
+      "name": "SR 100100000001-Chicken",
+      "price": "2.7"
+    },
+    {
+      "name": "SR 100100000060-4Vege",
+      "price": "2.7"
+    },
+    {
+      "name": "Payment Mode",
+      "price": "8.2"
+    },
+    {
       "name": "Amount",
       "price": "8.2"
     },
@@ -25,7 +37,7 @@
   ],
   "total_amount": {
     "value": 8.2,
-    "confidence": 0.72,
+    "confidence": 0.73,
     "is_low_confidence": false
   }
 }

@@ -1,29 +1,29 @@
 {
   "store_name": {
-    "value": "BEMEDSP)SDN.BHD",
-    "confidence": 0.97,
+    "value": "BEMED (SP) SDN. BHD",
+    "confidence": 0.98,
     "is_low_confidence": false
   },
   "date": {
-    "value": null,
-    "confidence": 0.36,
-    "is_low_confidence": true
+    "value": "27/31/2013",
+    "confidence": 0.97,
+    "is_low_confidence": false
   },
   "items": [
     {
-      "name": "1465920",
+      "name": "1 465920",
       "price": "143.7"
     },
     {
-      "name": "1465920",
+      "name": "1 465920",
       "price": "143.7"
     },
     {
-      "name": "1184810",
+      "name": "1 184810",
       "price": "165.0"
     },
     {
-      "name": "1184810",
+      "name": "1 184810",
       "price": "165.0"
     },
     {
@@ -37,7 +37,7 @@
   ],
   "total_amount": {
     "value": 308.7,
-    "confidence": 0.74,
+    "confidence": 0.75,
     "is_low_confidence": false
   }
 }

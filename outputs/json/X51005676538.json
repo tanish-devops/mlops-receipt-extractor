@@ -11,16 +11,16 @@
   },
   "items": [
     {
-      "name": "2402",
-      "price": "3.71"
+      "name": "1462",
+      "price": "0.64"
     },
     {
       "name": "1462",
       "price": "1.27"
     },
     {
-      "name": "2247",
-      "price": "33.92"
+      "name": "1748",
+      "price": "5.83"
     },
     {
       "name": "2247",
@@ -37,7 +37,7 @@
   ],
   "total_amount": {
     "value": 42.2,
-    "confidence": 0.75,
+    "confidence": 1.0,
     "is_low_confidence": false
   }
 }

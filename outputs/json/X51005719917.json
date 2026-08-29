@@ -6,12 +6,12 @@
   },
   "date": {
     "value": "26/03/18",
-    "confidence": 0.98,
+    "confidence": 1.0,
     "is_low_confidence": false
   },
   "items": [
     {
-      "name": "9HT",
+      "name": "9\"HT",
       "price": "30.3"
     },
     {
@@ -23,7 +23,11 @@
       "price": "27.6"
     },
     {
-      "name": "6% GST Included",
+      "name": "Payment",
+      "price": "50.0"
+    },
+    {
+      "name": "6 GST Included",
       "price": "1.87"
     }
   ],

@@ -1,7 +1,7 @@
 {
   "store_name": {
-    "value": "AAPHARMACT",
-    "confidence": 0.99,
+    "value": "AAPHARMACY",
+    "confidence": 1.0,
     "is_low_confidence": false
   },
   "date": {
@@ -60,8 +60,8 @@
     }
   ],
   "total_amount": {
-    "value": 1.26,
-    "confidence": 0.74,
+    "value": 44.94,
+    "confidence": 0.75,
     "is_low_confidence": false
   }
 }

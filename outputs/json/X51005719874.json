@@ -1,6 +1,6 @@
 {
   "store_name": {
-    "value": "NADEJE PRESTIGE SDNBHD",
+    "value": "NADEJE PRESTIGE SDN BHD",
     "confidence": 0.98,
     "is_low_confidence": false
   },
@@ -11,11 +11,11 @@
   },
   "items": [
     {
-      "name": "OriginalSlice",
+      "name": "Original Slice",
       "price": "26.0"
     },
     {
-      "name": "DoubleChoc Slice",
+      "name": "DoubleChocSlice",
       "price": "13.0"
     }
   ],

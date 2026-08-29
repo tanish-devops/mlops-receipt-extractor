@@ -1,29 +1,33 @@
 {
   "store_name": {
     "value": "ASIA MART",
-    "confidence": 0.99,
+    "confidence": 1.0,
     "is_low_confidence": false
   },
   "date": {
     "value": "22/12/2017",
-    "confidence": 0.99,
+    "confidence": 1.0,
     "is_low_confidence": false
   },
   "items": [
     {
-      "name": "9556641320027",
+      "name": "955664132002717",
       "price": "0.9"
     },
     {
-      "name": "9556231110045",
+      "name": "955664132002717",
+      "price": "0.85"
+    },
+    {
+      "name": "955623111004",
       "price": "3.55"
     },
     {
-      "name": "9556231110045",
+      "name": "955623111004",
       "price": "3.55"
     },
     {
-      "name": "9556231110045",
+      "name": "955623111004",
       "price": "3.55"
     },
     {
@@ -31,19 +35,35 @@
       "price": "1.5"
     },
     {
-      "name": "230",
+      "name": "9556127101331",
+      "price": "1.41"
+    },
+    {
+      "name": "885019932072",
+      "price": "1.51"
+    },
+    {
+      "name": "985019932072",
+      "price": "1.51"
+    },
+    {
+      "name": "8888002188511",
       "price": "2.44"
     },
     {
-      "name": "230",
+      "name": "2 30",
       "price": "2.44"
     },
     {
-      "name": "955657031213",
+      "name": "955657031215",
       "price": "2.74"
     },
     {
-      "name": "955657031213",
+      "name": "955657031215",
+      "price": "2.9"
+    },
+    {
+      "name": "955657031215",
       "price": "2.9"
     },
     {
@@ -55,8 +75,12 @@
       "price": "0.02"
     },
     {
-      "name": "Ttal Sales (Inclusive of GsT",
+      "name": "Tatal Sales (Inclusive of GST",
       "price": "32.7"
+    },
+    {
+      "name": "ZRL",
+      "price": "1.65"
     }
   ],
   "total_amount": {

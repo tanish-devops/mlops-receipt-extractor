@@ -1,7 +1,7 @@
 {
   "store_name": {
     "value": "UNIHAKKA INTERNATIONAL SDN BHD",
-    "confidence": 0.98,
+    "confidence": 0.99,
     "is_low_confidence": false
   },
   "date": {
@@ -19,7 +19,7 @@
       "price": "3.7"
     },
     {
-      "name": "Amount",
+      "name": "Payment Mode",
       "price": "8.6"
     },
     {
@@ -28,7 +28,7 @@
     }
   ],
   "total_amount": {
-    "value": 8.5,
+    "value": 8.6,
     "confidence": 0.72,
     "is_low_confidence": false
   }

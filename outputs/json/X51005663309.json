@@ -1,13 +1,13 @@
 {
   "store_name": {
     "value": "KOH SENG HARDWARE",
-    "confidence": 0.98,
+    "confidence": 0.99,
     "is_low_confidence": false
   },
   "date": {
-    "value": "01/02/2018",
-    "confidence": 0.98,
-    "is_low_confidence": false
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
   },
   "items": [
     {

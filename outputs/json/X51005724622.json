@@ -15,8 +15,8 @@
       "price": "31.0"
     },
     {
-      "name": "101870",
-      "price": "65.0"
+      "name": "22 26",
+      "price": "3.18"
     },
     {
       "name": "Discount",
@@ -29,7 +29,7 @@
   ],
   "total_amount": {
     "value": 86.0,
-    "confidence": 0.75,
+    "confidence": 1.0,
     "is_low_confidence": false
   }
 }

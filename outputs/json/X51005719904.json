@@ -1,22 +1,22 @@
 {
   "store_name": {
     "value": "Yam Fresh",
-    "confidence": 0.99,
+    "confidence": 0.98,
     "is_low_confidence": false
   },
   "date": {
-    "value": null,
-    "confidence": 0.36,
-    "is_low_confidence": true
+    "value": "2018-03-18",
+    "confidence": 0.97,
+    "is_low_confidence": false
   },
   "items": [
     {
-      "name": "A07 BlackSugar Ice",
-      "price": "7.5"
+      "name": "Herb.J",
+      "price": "3.0"
     },
     {
-      "name": "Herb",
-      "price": "3.0"
+      "name": "S02 Pudding Soybean",
+      "price": "8.9"
     }
   ],
   "total_amount": {

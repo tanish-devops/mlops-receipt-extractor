@@ -1,7 +1,7 @@
 {
   "store_name": {
-    "value": "Walmart",
-    "confidence": 0.99,
+    "value": "951 AVENIDA PICO",
+    "confidence": 0.98,
     "is_low_confidence": false
   },
   "date": {
@@ -11,7 +11,7 @@
   },
   "items": [
     {
-      "name": "007874243408F",
+      "name": "GV OATMEAL",
       "price": "1.76"
     },
     {
@@ -41,6 +41,10 @@
     {
       "name": "EFT DEBIT",
       "price": "0.0"
+    },
+    {
+      "name": "10/18/20",
+      "price": "30.46"
     }
   ],
   "total_amount": {

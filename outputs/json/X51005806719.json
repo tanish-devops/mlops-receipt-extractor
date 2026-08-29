@@ -5,18 +5,14 @@
     "is_low_confidence": false
   },
   "date": {
-    "value": null,
-    "confidence": 0.36,
-    "is_low_confidence": true
+    "value": "13/01/201",
+    "confidence": 0.96,
+    "is_low_confidence": false
   },
   "items": [
     {
       "name": "USER",
       "price": "2337.0"
-    },
-    {
-      "name": "Discount",
-      "price": "0.0"
     },
     {
       "name": "Rounding",
@@ -32,8 +28,8 @@
     }
   ],
   "total_amount": {
-    "value": 59.43,
-    "confidence": 0.74,
+    "value": 3.57,
+    "confidence": 0.75,
     "is_low_confidence": false
   }
 }

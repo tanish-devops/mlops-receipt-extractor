@@ -1,7 +1,7 @@
 {
   "store_name": {
-    "value": "juodean oi",
-    "confidence": 0.8,
+    "value": "Walmart",
+    "confidence": 0.97,
     "is_low_confidence": false
   },
   "date": {
@@ -11,12 +11,24 @@
   },
   "items": [
     {
-      "name": "RED GRAPE",
+      "name": "000000004023KF",
       "price": "2.48"
     },
     {
       "name": "RED GRAPE",
       "price": "2.51"
+    },
+    {
+      "name": "RED GRAPE",
+      "price": "1.44"
+    },
+    {
+      "name": "000",
+      "price": "34.0"
+    },
+    {
+      "name": "000",
+      "price": "1.05"
     },
     {
       "name": "SHOPPING CARD TEND",
@@ -44,8 +56,8 @@
     }
   ],
   "total_amount": {
-    "value": 3.61,
-    "confidence": 0.74,
+    "value": 1.05,
+    "confidence": 0.75,
     "is_low_confidence": false
   }
 }

@@ -1,7 +1,7 @@
 {
   "store_name": {
     "value": "IKANO HANDEL SDN BHD",
-    "confidence": 0.98,
+    "confidence": 0.97,
     "is_low_confidence": false
   },
   "date": {
@@ -11,7 +11,7 @@
   },
   "items": [
     {
-      "name": "2 pc @269.00",
+      "name": "2 pc@269.00",
       "price": "538.0"
     },
     {
@@ -39,7 +39,7 @@
       "price": "30.45"
     },
     {
-      "name": "Amt.Excl.GST",
+      "name": "Amt.Exc1.GST",
       "price": "507.55"
     }
   ],

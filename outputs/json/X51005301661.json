@@ -6,7 +6,7 @@
   },
   "date": {
     "value": "20/12/2017",
-    "confidence": 0.96,
+    "confidence": 0.99,
     "is_low_confidence": false
   },
   "items": [
@@ -23,19 +23,19 @@
       "price": "2.83"
     },
     {
-      "name": "2*RM33.02UNI",
+      "name": "RM33.02UNI",
       "price": "3.96"
     },
     {
-      "name": "2*RM33.02UNI",
+      "name": "RM33.02UNI",
       "price": "66.04"
     },
     {
-      "name": "SR@6",
+      "name": "SR @ 6",
       "price": "68.87"
     },
     {
-      "name": "SR@6",
+      "name": "SR @ 6",
       "price": "4.13"
     },
     {

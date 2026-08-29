@@ -5,14 +5,18 @@
     "is_low_confidence": false
   },
   "date": {
-    "value": null,
-    "confidence": 0.36,
-    "is_low_confidence": true
+    "value": "12/28/2017",
+    "confidence": 0.98,
+    "is_low_confidence": false
   },
   "items": [
     {
       "name": "GST 6",
       "price": "15.0"
+    },
+    {
+      "name": "Tatal Incl.63 GST",
+      "price": "0.0"
     },
     {
       "name": "Rounding",

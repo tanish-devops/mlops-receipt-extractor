@@ -5,9 +5,9 @@
     "is_low_confidence": false
   },
   "date": {
-    "value": null,
-    "confidence": 0.36,
-    "is_low_confidence": true
+    "value": "01/02/2018",
+    "confidence": 0.99,
+    "is_low_confidence": false
   },
   "items": [
     {
@@ -15,11 +15,11 @@
       "price": "20.5"
     },
     {
-      "name": "OTC-000127",
+      "name": "Tota Qty",
       "price": "20.5"
     },
     {
-      "name": "Toiai SaiesExcluding GST",
+      "name": "Toai Saies (Excluding GST",
       "price": "19.34"
     },
     {

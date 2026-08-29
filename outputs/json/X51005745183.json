@@ -5,9 +5,9 @@
     "is_low_confidence": false
   },
   "date": {
-    "value": null,
-    "confidence": 0.36,
-    "is_low_confidence": true
+    "value": "22/02/2018",
+    "confidence": 1.0,
+    "is_low_confidence": false
   },
   "items": [
     {
@@ -15,17 +15,17 @@
       "price": "0.0"
     },
     {
-      "name": "nclusive GST @6.00",
+      "name": "ales",
       "price": "83.8"
     },
     {
       "name": "Master Card",
-      "price": "63.8"
+      "price": "63.0"
     }
   ],
   "total_amount": {
     "value": 63.8,
-    "confidence": 0.73,
+    "confidence": 0.71,
     "is_low_confidence": false
   }
 }

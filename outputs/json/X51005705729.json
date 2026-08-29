@@ -1,21 +1,17 @@
 {
   "store_name": {
     "value": "ASO ELECTRICAL TRADING SDN BHD",
-    "confidence": 0.98,
+    "confidence": 0.99,
     "is_low_confidence": false
   },
   "date": {
-    "value": null,
-    "confidence": 0.36,
-    "is_low_confidence": true
+    "value": "13/10/2017",
+    "confidence": 1.0,
+    "is_low_confidence": false
   },
   "items": [
     {
-      "name": "SR:CABLE LUG50MM(M10",
-      "price": "15.12"
-    },
-    {
-      "name": "TOT QTY11",
+      "name": "TOTQTY:11",
       "price": "94.62"
     },
     {

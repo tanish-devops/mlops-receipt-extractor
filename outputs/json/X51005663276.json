@@ -1,19 +1,15 @@
 {
   "store_name": {
-    "value": "93rmwbnt",
-    "confidence": 0.83,
+    "value": "SYARIKAT PERNIAGAAN GIN KEE",
+    "confidence": 0.99,
     "is_low_confidence": false
   },
   "date": {
     "value": "02/12/2017",
-    "confidence": 0.98,
+    "confidence": 0.99,
     "is_low_confidence": false
   },
   "items": [
-    {
-      "name": "Item",
-      "price": "7.42"
-    },
     {
       "name": "Discount",
       "price": "0.0"
@@ -23,11 +19,7 @@
       "price": "0.0"
     },
     {
-      "name": "Totel",
-      "price": "0.42"
-    },
-    {
-      "name": "Totel",
+      "name": "Totl",
       "price": "7.0"
     }
   ],

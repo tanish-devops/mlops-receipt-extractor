@@ -1,7 +1,7 @@
 {
   "store_name": {
-    "value": "Zenand coffee 28 S/B",
-    "confidence": 0.96,
+    "value": "Zen and coffee 28 S/B",
+    "confidence": 0.97,
     "is_low_confidence": false
   },
   "date": {
@@ -11,7 +11,7 @@
   },
   "items": [
     {
-      "name": "1Saba shioyaki wazen 20mins",
+      "name": "1 Saba shioyaki wazen (20mins",
       "price": "26.0"
     },
     {
@@ -19,11 +19,11 @@
       "price": "28.0"
     },
     {
-      "name": "1SpicyASARI Pasta",
+      "name": "1 Spicy ASARI Pasta",
       "price": "19.0"
     },
     {
-      "name": "1 Ebi MentaiPasta",
+      "name": "1 Ebi Mentai Pasta",
       "price": "22.0"
     },
     {
@@ -31,11 +31,11 @@
       "price": "10.0"
     },
     {
-      "name": "S@6",
+      "name": "S @6",
       "price": "99.05"
     },
     {
-      "name": "S@6",
+      "name": "S @6",
       "price": "5.95"
     }
   ],

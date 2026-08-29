@@ -11,7 +11,7 @@
   },
   "items": [
     {
-      "name": "SCHNEIDERE15R 13ASWITCH",
+      "name": "SCHNEIDER E15R 13A SWITCH",
       "price": "6.36"
     },
     {
@@ -23,16 +23,8 @@
       "price": "0.01"
     },
     {
-      "name": "PaidAmount",
+      "name": "Paid Amount",
       "price": "6.35"
-    },
-    {
-      "name": "PaidAmount",
-      "price": "10.0"
-    },
-    {
-      "name": "PaidAmount",
-      "price": "3.65"
     },
     {
       "name": "SR@A",

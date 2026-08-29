@@ -1,7 +1,7 @@
 {
   "store_name": {
     "value": "OLDTOWN WHITE COFFEE",
-    "confidence": 0.98,
+    "confidence": 0.99,
     "is_low_confidence": false
   },
   "date": {
@@ -19,12 +19,20 @@
       "price": "12.07"
     },
     {
-      "name": "10% Srv Chg",
+      "name": "10%Srv Chg",
+      "price": "25.94"
+    },
+    {
+      "name": "10%Srv Chg",
       "price": "2.59"
     },
     {
       "name": "GST @6",
       "price": "1.71"
+    },
+    {
+      "name": "Rounding",
+      "price": "30.24"
     },
     {
       "name": "Rounding",
@@ -35,19 +43,11 @@
       "price": "0.0"
     },
     {
-      "name": "S=GST @6",
-      "price": "28.53"
-    },
-    {
-      "name": "S=GST @6",
+      "name": "28.53",
       "price": "1.71"
     },
     {
-      "name": "Z=GST @0",
-      "price": "0.0"
-    },
-    {
-      "name": "Z=GST @0",
+      "name": "0.00",
       "price": "0.0"
     }
   ],

@@ -1,7 +1,7 @@
 {
   "store_name": {
-    "value": "BHPetrol Subang Airport",
-    "confidence": 0.99,
+    "value": "TAX INYOICE",
+    "confidence": 0.98,
     "is_low_confidence": false
   },
   "date": {
@@ -11,11 +11,11 @@
   },
   "items": [
     {
-      "name": "iniinit!97E4MP32.570",
+      "name": "infiniti 97 E4MP3 2.570",
       "price": "16.32"
     },
     {
-      "name": "iniinit!97E4MP32.570",
+      "name": "infiniti 97 E4MP3 2.570",
       "price": "41.95"
     },
     {
@@ -33,7 +33,7 @@
   ],
   "total_amount": {
     "value": 41.95,
-    "confidence": 0.54,
+    "confidence": 0.53,
     "is_low_confidence": true
   }
 }

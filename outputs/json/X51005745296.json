@@ -6,7 +6,7 @@
   },
   "date": {
     "value": "09-04-2018",
-    "confidence": 0.99,
+    "confidence": 1.0,
     "is_low_confidence": false
   },
   "items": [
@@ -28,10 +28,14 @@
     },
     {
       "name": "2 x",
+      "price": "2.8"
+    },
+    {
+      "name": "2 x",
       "price": "5.6"
     },
     {
-      "name": "Serv.Charge10",
+      "name": "Serv.Charge 10x",
       "price": "2.66"
     },
     {

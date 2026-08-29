@@ -1,13 +1,13 @@
 {
   "store_name": {
     "value": "Gerbang Alaf Restaurants Sdn Bhd",
-    "confidence": 0.97,
+    "confidence": 0.98,
     "is_low_confidence": false
   },
   "date": {
-    "value": null,
-    "confidence": 0.36,
-    "is_low_confidence": true
+    "value": "19-11/03",
+    "confidence": 0.96,
+    "is_low_confidence": false
   },
   "items": [
     {
@@ -15,7 +15,7 @@
       "price": "4.0"
     },
     {
-      "name": "1 McFlurryOreos",
+      "name": "1McFlurryOreos",
       "price": "4.5"
     }
   ],

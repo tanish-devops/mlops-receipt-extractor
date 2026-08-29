@@ -1,7 +1,7 @@
 {
   "store_name": {
     "value": "Triple Six Point Enterprise 666",
-    "confidence": 0.97,
+    "confidence": 0.98,
     "is_low_confidence": false
   },
   "date": {
@@ -27,7 +27,7 @@
       "price": "1.0"
     },
     {
-      "name": "Totai Anount",
+      "name": "Totai Arnount",
       "price": "7.6"
     },
     {

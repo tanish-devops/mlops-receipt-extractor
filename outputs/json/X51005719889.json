@@ -1,6 +1,6 @@
 {
   "store_name": {
-    "value": "HENG KEE DEI.IGHTS BAK KUT TEH",
+    "value": "HENG KEE DELIGHTS BAK KUT TEH",
     "confidence": 0.97,
     "is_low_confidence": false
   },
@@ -11,7 +11,15 @@
   },
   "items": [
     {
+      "name": "2.00X17.00",
+      "price": "34.0"
+    },
+    {
       "name": "Voucher Discount",
+      "price": "0.0"
+    },
+    {
+      "name": "Redeem Point Discount",
       "price": "0.0"
     },
     {
@@ -23,13 +31,13 @@
       "price": "0.0"
     },
     {
-      "name": "Amount(SR",
+      "name": "Amount(sR",
       "price": "39.62"
     }
   ],
   "total_amount": {
     "value": 42.0,
-    "confidence": 1.0,
+    "confidence": 0.75,
     "is_low_confidence": false
   }
 }

@@ -1,7 +1,7 @@
 {
   "store_name": {
     "value": "A0312",
-    "confidence": 0.92,
+    "confidence": 0.94,
     "is_low_confidence": false
   },
   "date": {
@@ -11,19 +11,19 @@
   },
   "items": [
     {
-      "name": "Bubble T",
+      "name": "Bubble N T",
       "price": "5.9"
     },
     {
-      "name": "Bubble T",
+      "name": "Bubble N T",
       "price": "11.8"
     },
     {
-      "name": "Bubble T",
+      "name": "Bubble N T",
       "price": "4.9"
     },
     {
-      "name": "Bubble T",
+      "name": "YamT",
       "price": "4.9"
     },
     {
@@ -31,17 +31,17 @@
       "price": "1.0"
     },
     {
-      "name": "YamMI",
+      "name": "ADD ON",
       "price": "1.0"
     },
     {
-      "name": "1x390",
+      "name": "1390",
       "price": "3.9"
     }
   ],
   "total_amount": {
     "value": 30.0,
-    "confidence": 0.53,
+    "confidence": 0.52,
     "is_low_confidence": true
   }
 }

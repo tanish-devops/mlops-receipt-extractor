@@ -1,6 +1,6 @@
 {
   "store_name": {
-    "value": "MR.D.I.YMSONBHD",
+    "value": "MR.D.I.Y.MSONBHD",
     "confidence": 0.98,
     "is_low_confidence": false
   },
@@ -33,7 +33,7 @@
   ],
   "total_amount": {
     "value": 42.9,
-    "confidence": 0.75,
+    "confidence": 0.73,
     "is_low_confidence": false
   }
 }

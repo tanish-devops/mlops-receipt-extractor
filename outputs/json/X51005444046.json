@@ -1,7 +1,7 @@
 {
   "store_name": {
-    "value": "STARGROCERSDNBHD1171881-W",
-    "confidence": 0.99,
+    "value": "STAR GROCER SDN BHD 1171881-W",
+    "confidence": 0.97,
     "is_low_confidence": false
   },
   "date": {
@@ -15,16 +15,8 @@
       "price": "1.59"
     },
     {
-      "name": "1800001501",
-      "price": "12.72"
-    },
-    {
       "name": "200033100148002149",
       "price": "6.92"
-    },
-    {
-      "name": "200033100148002149",
-      "price": "1.48"
     },
     {
       "name": "200010800259005280",
@@ -67,11 +59,7 @@
       "price": "23.6"
     },
     {
-      "name": "Item7",
-      "price": "66.17"
-    },
-    {
-      "name": "Qty",
+      "name": "Rounding",
       "price": "0.02"
     },
     {
@@ -92,7 +80,7 @@
     }
   ],
   "total_amount": {
-    "value": 66.17,
+    "value": 0.0,
     "confidence": 0.75,
     "is_low_confidence": false
   }

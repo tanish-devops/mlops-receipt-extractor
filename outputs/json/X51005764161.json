@@ -1,7 +1,7 @@
 {
   "store_name": {
-    "value": "995PEEDMART5/3(519537-X",
-    "confidence": 0.95,
+    "value": "795PEE0MART5/3(519537-X",
+    "confidence": 0.96,
     "is_low_confidence": false
   },
   "date": {
@@ -11,16 +11,24 @@
   },
   "items": [
     {
-      "name": "5593LEA8PERRINS SOSWORC",
+      "name": "5593LEA8PEERINS 50S WORC",
       "price": "98.89"
     },
     {
       "name": "CREDIT RM",
       "price": "98.9"
+    },
+    {
+      "name": "6",
+      "price": "93.28"
+    },
+    {
+      "name": "6",
+      "price": "5.61"
     }
   ],
   "total_amount": {
-    "value": 98.89,
+    "value": 98.87,
     "confidence": 0.69,
     "is_low_confidence": true
   }

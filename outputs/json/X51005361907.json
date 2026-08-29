@@ -1,15 +1,27 @@
 {
   "store_name": {
     "value": "TEO HENG STATIONERY & BOOKS",
-    "confidence": 0.97,
+    "confidence": 0.99,
     "is_low_confidence": false
   },
   "date": {
     "value": "12/02/2018",
-    "confidence": 0.99,
+    "confidence": 1.0,
     "is_low_confidence": false
   },
   "items": [
+    {
+      "name": "4974052801334",
+      "price": "2.7"
+    },
+    {
+      "name": "4974052801334",
+      "price": "0.0"
+    },
+    {
+      "name": "4974052801334",
+      "price": "2.7"
+    },
     {
       "name": "9557546953990",
       "price": "0.85"
@@ -25,11 +37,15 @@
     {
       "name": "ROUNDING",
       "price": "0.01"
+    },
+    {
+      "name": "1 2 FER-20iu",
+      "price": "153.35"
     }
   ],
   "total_amount": {
     "value": 144.68,
-    "confidence": 1.0,
+    "confidence": 0.75,
     "is_low_confidence": false
   }
 }

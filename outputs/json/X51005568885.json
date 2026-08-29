@@ -1,7 +1,7 @@
 {
   "store_name": {
-    "value": "EYERGREEN LIGHT SDNBHD",
-    "confidence": 0.96,
+    "value": "EVERGREENLIGHT SDN BHD",
+    "confidence": 0.98,
     "is_low_confidence": false
   },
   "date": {
@@ -11,25 +11,21 @@
   },
   "items": [
     {
-      "name": "TotGTE",
+      "name": "TotIGET(E",
       "price": "3.17"
     },
     {
-      "name": "ROLINDING ADIUET",
+      "name": "ROUNDING ADJUET",
       "price": "0.01"
     },
     {
-      "name": "8E)-6",
+      "name": "8RE)-6",
       "price": "52.84"
-    },
-    {
-      "name": "8E)-6",
-      "price": "3.17"
     }
   ],
   "total_amount": {
     "value": 52.84,
-    "confidence": 0.73,
+    "confidence": 0.74,
     "is_low_confidence": false
   }
 }

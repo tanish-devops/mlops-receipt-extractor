@@ -1,12 +1,12 @@
 {
   "store_name": {
-    "value": "YONG CENENTERPRISE",
+    "value": "YONG CEN ENTERPRISE",
     "confidence": 0.99,
     "is_low_confidence": false
   },
   "date": {
     "value": "02/03/2018",
-    "confidence": 0.99,
+    "confidence": 1.0,
     "is_low_confidence": false
   },
   "items": [

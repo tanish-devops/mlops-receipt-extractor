@@ -5,9 +5,9 @@
     "is_low_confidence": false
   },
   "date": {
-    "value": "21-03-2018",
-    "confidence": 0.98,
-    "is_low_confidence": false
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
   },
   "items": [
     {
@@ -20,11 +20,7 @@
     },
     {
       "name": "1 x",
-      "price": "5.9"
-    },
-    {
-      "name": "1 x",
-      "price": "5.9"
+      "price": "12.9"
     },
     {
       "name": "1 x",
@@ -44,7 +40,7 @@
     },
     {
       "name": "6",
-      "price": "2.73"
+      "price": "45.43"
     }
   ],
   "total_amount": {

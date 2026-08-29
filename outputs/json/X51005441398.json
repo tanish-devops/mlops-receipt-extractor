@@ -1,17 +1,17 @@
 {
   "store_name": {
-    "value": "BREWERYTAF",
+    "value": "BREWERY TAP",
     "confidence": 0.97,
     "is_low_confidence": false
   },
   "date": {
-    "value": "30/03/2018",
-    "confidence": 0.99,
-    "is_low_confidence": false
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
   },
   "items": [
     {
-      "name": "Tiger 2 Bucket -HH",
+      "name": "1Tiger 2 Bucket-HH",
       "price": "95.0"
     },
     {
@@ -23,7 +23,7 @@
       "price": "12.0"
     },
     {
-      "name": "TigerEucket-HH",
+      "name": "Tiger Bucket-H",
       "price": "50.0"
     },
     {
@@ -35,11 +35,11 @@
       "price": "0.01"
     },
     {
-      "name": "SR:GST",
+      "name": "SR:GST6",
       "price": "179.0"
     },
     {
-      "name": "SR:GST",
+      "name": "SR:GST6",
       "price": "10.74"
     }
   ],

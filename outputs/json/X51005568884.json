@@ -1,7 +1,7 @@
 {
   "store_name": {
-    "value": "MRD.I.YSDNBHD",
-    "confidence": 0.98,
+    "value": "MR.D.I.Y.SDN BHD",
+    "confidence": 0.97,
     "is_low_confidence": false
   },
   "date": {
@@ -11,17 +11,21 @@
   },
   "items": [
     {
-      "name": "GSTS@6",
+      "name": "9021937",
+      "price": "3.9"
+    },
+    {
+      "name": "GST S@6",
       "price": "3.68"
     },
     {
-      "name": "GSTS@6",
+      "name": "GST S@6",
       "price": "0.22"
     }
   ],
   "total_amount": {
     "value": 3.9,
-    "confidence": 1.0,
+    "confidence": 0.72,
     "is_low_confidence": false
   }
 }

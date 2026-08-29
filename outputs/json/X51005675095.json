@@ -15,7 +15,7 @@
       "price": "4.0"
     },
     {
-      "name": "14118",
+      "name": "Amount",
       "price": "3.77"
     },
     {
@@ -23,13 +23,21 @@
       "price": "6.0"
     },
     {
+      "name": "TotaI",
+      "price": "4.0"
+    },
+    {
+      "name": "TotaI",
+      "price": "4.0"
+    },
+    {
       "name": "Paid",
       "price": "4.0"
     }
   ],
   "total_amount": {
-    "value": 4.0,
-    "confidence": 0.74,
-    "is_low_confidence": false
+    "value": 6.0,
+    "confidence": 0.51,
+    "is_low_confidence": true
   }
 }

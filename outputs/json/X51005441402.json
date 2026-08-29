@@ -6,7 +6,7 @@
   },
   "date": {
     "value": "03/03/2018",
-    "confidence": 0.99,
+    "confidence": 0.98,
     "is_low_confidence": false
   },
   "items": [
@@ -19,17 +19,17 @@
       "price": "15.0"
     },
     {
-      "name": "SRGST 6",
+      "name": "SR GST 6",
       "price": "165.0"
     },
     {
-      "name": "SRGST 6",
+      "name": "SR GST 6",
       "price": "9.9"
     }
   ],
   "total_amount": {
     "value": 150.0,
-    "confidence": 0.75,
+    "confidence": 0.74,
     "is_low_confidence": false
   }
 }

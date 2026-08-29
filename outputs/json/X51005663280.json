@@ -1,7 +1,7 @@
 {
   "store_name": {
-    "value": "Chili's",
-    "confidence": 0.97,
+    "value": "Chilis",
+    "confidence": 0.99,
     "is_low_confidence": false
   },
   "date": {
@@ -19,14 +19,6 @@
       "price": "16.95"
     },
     {
-      "name": "CHP_BWL CK",
-      "price": "29.95"
-    },
-    {
-      "name": "MARG CK",
-      "price": "27.95"
-    },
-    {
       "name": "10% Srv Chg",
       "price": "8.78"
     },
@@ -35,17 +27,17 @@
       "price": "5.81"
     },
     {
-      "name": "S=GST@6%96.58",
+      "name": "S=GST@6%:96.58",
       "price": "5.81"
     },
     {
-      "name": "Z=GST@0%0.00",
+      "name": "Z=GST@0%:0.00",
       "price": "0.0"
     }
   ],
   "total_amount": {
-    "value": 8.78,
-    "confidence": 0.75,
+    "value": 87.8,
+    "confidence": 1.0,
     "is_low_confidence": false
   }
 }

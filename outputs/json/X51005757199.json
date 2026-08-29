@@ -1,7 +1,7 @@
 {
   "store_name": {
-    "value": "POPULAR BOOK",
-    "confidence": 0.99,
+    "value": "3180300J",
+    "confidence": 0.96,
     "is_low_confidence": false
   },
   "date": {
@@ -19,11 +19,11 @@
       "price": "2.1"
     },
     {
-      "name": "T6",
+      "name": "T@6",
       "price": "3.77"
     },
     {
-      "name": "T6",
+      "name": "T@6",
       "price": "0.23"
     }
   ],

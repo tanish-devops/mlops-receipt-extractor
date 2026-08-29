@@ -9,10 +9,19 @@
     "confidence": 0.36,
     "is_low_confidence": true
   },
-  "items": [],
+  "items": [
+    {
+      "name": "Parking Fee",
+      "price": "0.94"
+    },
+    {
+      "name": "Add GST",
+      "price": "0.06"
+    }
+  ],
   "total_amount": {
     "value": 23.03,
-    "confidence": 0.79,
+    "confidence": 0.93,
     "is_low_confidence": false
   }
 }

@@ -5,13 +5,13 @@
     "is_low_confidence": false
   },
   "date": {
-    "value": null,
-    "confidence": 0.36,
-    "is_low_confidence": true
+    "value": "19-03-2018",
+    "confidence": 0.98,
+    "is_low_confidence": false
   },
   "items": [
     {
-      "name": "1 x",
+      "name": "1 X",
       "price": "2.2"
     },
     {
@@ -27,15 +27,15 @@
       "price": "8.59"
     },
     {
-      "name": "GST payable 6",
+      "name": "GST payable 6x",
       "price": "0.51"
     },
     {
-      "name": "6",
+      "name": "0 6",
       "price": "8.59"
     },
     {
-      "name": "6",
+      "name": "0 6",
       "price": "0.51"
     }
   ],

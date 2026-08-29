@@ -11,19 +11,19 @@
   },
   "items": [
     {
-      "name": "0.9 3/4ALUMNUMROD",
+      "name": "0.93/4ALUMNIUM ROD",
       "price": "6.0"
     },
     {
-      "name": "0.9 3/4ALUMNUMROD",
+      "name": "0.93/4ALUMNIUM ROD",
       "price": "5.4"
     },
     {
-      "name": "5PVC WALLPLUG",
+      "name": "5 PVC WALLPLUG",
       "price": "1.0"
     },
     {
-      "name": "5PVC WALLPLUG",
+      "name": "5 PVC WALLPLUG",
       "price": "5.0"
     },
     {
@@ -31,12 +31,24 @@
       "price": "10.4"
     },
     {
-      "name": "Discount",
+      "name": "Jiscount",
       "price": "0.0"
     },
     {
       "name": "Rounding Adj",
       "price": "0.0"
+    },
+    {
+      "name": "SRSR",
+      "price": "9.81"
+    },
+    {
+      "name": "SRSR",
+      "price": "0.59"
+    },
+    {
+      "name": "SRSR",
+      "price": "10.4"
     }
   ],
   "total_amount": {

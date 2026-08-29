@@ -1,12 +1,12 @@
 {
   "store_name": {
-    "value": "KING'SCONFECTIONERYS/B273500-UKSB",
-    "confidence": 0.96,
+    "value": "KING'S CONFECTIONERY S/B27350O-UKSB",
+    "confidence": 0.97,
     "is_low_confidence": false
   },
   "date": {
     "value": "11/03/1821",
-    "confidence": 0.95,
+    "confidence": 0.98,
     "is_low_confidence": false
   },
   "items": [
@@ -19,15 +19,15 @@
       "price": "8.7"
     },
     {
-      "name": "101110 CheeseLe",
+      "name": "101110 Cheese Le",
       "price": "3.5"
     },
     {
-      "name": "251030CheeseTa",
-      "price": "3.4"
+      "name": "101110 Cheese Le",
+      "price": "2.45"
     },
     {
-      "name": "251030CheeseTa",
+      "name": "251030 Cheese Ta",
       "price": "3.4"
     },
     {
@@ -43,13 +43,13 @@
       "price": "25.15"
     },
     {
-      "name": "Fay",
+      "name": "Pay",
       "price": "25.15"
     }
   ],
   "total_amount": {
     "value": 1.42,
-    "confidence": 0.71,
+    "confidence": 0.72,
     "is_low_confidence": false
   }
 }

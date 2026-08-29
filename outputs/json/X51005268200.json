@@ -1,17 +1,17 @@
 {
   "store_name": {
-    "value": "AIK HUAT HARDWAKE",
+    "value": "AIK_HUAT HARDWARE",
     "confidence": 0.97,
     "is_low_confidence": false
   },
   "date": {
-    "value": null,
-    "confidence": 0.36,
-    "is_low_confidence": true
+    "value": "15/06/2017",
+    "confidence": 0.97,
+    "is_low_confidence": false
   },
   "items": [
     {
-      "name": "SUB-1OTAL GS",
+      "name": "SUB-1OTAL (GST",
       "price": "15.0"
     },
     {
@@ -24,8 +24,8 @@
     }
   ],
   "total_amount": {
-    "value": 15.0,
-    "confidence": 1.0,
+    "value": 0.0,
+    "confidence": 0.75,
     "is_low_confidence": false
   }
 }

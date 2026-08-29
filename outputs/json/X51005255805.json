@@ -5,18 +5,18 @@
     "is_low_confidence": false
   },
   "date": {
-    "value": null,
-    "confidence": 0.36,
-    "is_low_confidence": true
+    "value": "29-12-2017",
+    "confidence": 0.99,
+    "is_low_confidence": false
   },
   "items": [
     {
-      "name": "9557368063013",
-      "price": "5.2"
+      "name": "232008",
+      "price": "8.9"
     },
     {
-      "name": "9557368063013",
-      "price": "5.2"
+      "name": "232008",
+      "price": "8.9"
     },
     {
       "name": "GST6",
@@ -33,7 +33,7 @@
   ],
   "total_amount": {
     "value": 14.1,
-    "confidence": 1.0,
+    "confidence": 0.74,
     "is_low_confidence": false
   }
 }

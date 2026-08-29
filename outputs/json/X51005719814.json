@@ -1,6 +1,6 @@
 {
   "store_name": {
-    "value": "KIKUJAPANESE RESTAURANT",
+    "value": "KIKU JAPANESE RESTAURANT",
     "confidence": 0.99,
     "is_low_confidence": false
   },
@@ -11,18 +11,6 @@
   },
   "items": [
     {
-      "name": "BEN02",
-      "price": "12.9"
-    },
-    {
-      "name": "BEN02",
-      "price": "0.0"
-    },
-    {
-      "name": "BEN02",
-      "price": "12.9"
-    },
-    {
       "name": "Set10",
       "price": "6.9"
     },
@@ -33,10 +21,6 @@
     {
       "name": "Set10",
       "price": "6.9"
-    },
-    {
-      "name": "TS02 Kat",
-      "price": "9.9"
     },
     {
       "name": "Service Charge",
@@ -49,7 +33,7 @@
   ],
   "total_amount": {
     "value": 29.7,
-    "confidence": 0.75,
+    "confidence": 1.0,
     "is_low_confidence": false
   }
 }

@@ -1,7 +1,7 @@
 {
   "store_name": {
     "value": "SUPER SEVEN C4SH & CARRY SDN BHD",
-    "confidence": 0.97,
+    "confidence": 0.99,
     "is_low_confidence": false
   },
   "date": {
@@ -10,10 +10,6 @@
     "is_low_confidence": false
   },
   "items": [
-    {
-      "name": "KK KACANGCiORENG 300G",
-      "price": "5.9"
-    },
     {
       "name": "10",
       "price": "59.0"

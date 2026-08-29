@@ -1,7 +1,7 @@
 {
   "store_name": {
     "value": "PANA JAYA ENTERPAISE",
-    "confidence": 0.96,
+    "confidence": 0.97,
     "is_low_confidence": false
   },
   "date": {
@@ -11,33 +11,13 @@
   },
   "items": [
     {
-      "name": "1 x",
-      "price": "35.0"
-    },
-    {
-      "name": "1 x",
-      "price": "70.0"
-    },
-    {
-      "name": "Tota1Exciuding GST",
-      "price": "99.06"
-    },
-    {
-      "name": "GST payable 6",
-      "price": "5.94"
-    },
-    {
-      "name": "6",
-      "price": "99.06"
-    },
-    {
-      "name": "6",
+      "name": "GST payab1e (6",
       "price": "5.94"
     }
   ],
   "total_amount": {
-    "value": 105.0,
-    "confidence": 0.75,
+    "value": 99.06,
+    "confidence": 1.0,
     "is_low_confidence": false
   }
 }

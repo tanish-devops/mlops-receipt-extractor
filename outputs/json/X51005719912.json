@@ -1,6 +1,6 @@
 {
   "store_name": {
-    "value": "Guardian Health.And Beauty Sdn Bhd",
+    "value": "Guardian dealth And Beauty Sdn Bhd",
     "confidence": 0.96,
     "is_low_confidence": false
   },
@@ -11,19 +11,15 @@
   },
   "items": [
     {
-      "name": "121095079 GDN MC H/W ENC ROM",
+      "name": "121095079 GDNMC H/WENC ROM",
       "price": "5.9"
     },
     {
-      "name": "121095079GDN MCH/WENCROM",
+      "name": "121095081 GDNMC H/WN/DREAN",
       "price": "5.9"
     },
     {
-      "name": "121095081GDN MC H/W N/DREAM",
-      "price": "5.9"
-    },
-    {
-      "name": "P3 KDP G HW4012",
+      "name": "P3 KDP G HW 4Q12",
       "price": "11.6"
     },
     {
@@ -33,7 +29,7 @@
   ],
   "total_amount": {
     "value": 12.0,
-    "confidence": 0.75,
+    "confidence": 0.73,
     "is_low_confidence": false
   }
 }

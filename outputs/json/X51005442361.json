@@ -6,7 +6,7 @@
   },
   "date": {
     "value": "2018-03-23",
-    "confidence": 0.99,
+    "confidence": 0.98,
     "is_low_confidence": false
   },
   "items": [
@@ -19,15 +19,23 @@
       "price": "106.9"
     },
     {
-      "name": "Fruity Garden Salad",
-      "price": "21.9"
+      "name": "Apple-350m",
+      "price": "13.9"
     },
     {
-      "name": "Sub-tota",
+      "name": "Sour Apple Mojito",
+      "price": "18.9"
+    },
+    {
+      "name": "Berry Easy",
+      "price": "18.9"
+    },
+    {
+      "name": "Sub-totai",
       "price": "593.1"
     },
     {
-      "name": "InclusiveGST 6",
+      "name": "InciusiveGST 6",
       "price": "33.57"
     },
     {

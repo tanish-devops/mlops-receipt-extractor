@@ -1,7 +1,7 @@
 {
   "store_name": {
     "value": "GOLDEN KEY MAKER",
-    "confidence": 0.97,
+    "confidence": 0.98,
     "is_low_confidence": false
   },
   "date": {
@@ -11,37 +11,13 @@
   },
   "items": [
     {
-      "name": "33100",
-      "price": "4.0"
-    },
-    {
-      "name": "33100",
-      "price": "0.0"
-    },
-    {
-      "name": "33100",
-      "price": "16.0"
-    },
-    {
-      "name": "33101",
-      "price": "5.0"
-    },
-    {
-      "name": "33101",
-      "price": "0.0"
-    },
-    {
-      "name": "33101",
-      "price": "5.0"
-    },
-    {
       "name": "Discount",
       "price": "0.0"
     }
   ],
   "total_amount": {
     "value": 21.0,
-    "confidence": 0.75,
+    "confidence": 0.98,
     "is_low_confidence": false
   }
 }

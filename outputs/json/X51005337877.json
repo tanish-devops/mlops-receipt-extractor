@@ -1,7 +1,7 @@
 {
   "store_name": {
     "value": "UROKO JAPANESE CUISINE SDN BHD",
-    "confidence": 0.97,
+    "confidence": 0.98,
     "is_low_confidence": false
   },
   "date": {
@@ -11,7 +11,7 @@
   },
   "items": [
     {
-      "name": "1 KONABE INANIWA",
+      "name": "1 KO NABE INANIWA",
       "price": "24.0"
     },
     {
@@ -19,7 +19,7 @@
       "price": "1.0"
     },
     {
-      "name": "1 GYOZA 5pCs @15.00",
+      "name": "1 GYOZA 5pcs@15.00",
       "price": "15.0"
     },
     {
@@ -27,11 +27,15 @@
       "price": "6.0"
     },
     {
-      "name": "ervice Chg10.00",
+      "name": "ervice Chg 10.00",
       "price": "4.0"
     },
     {
       "name": "GST",
+      "price": "3.0"
+    },
+    {
+      "name": "5000",
       "price": "3.0"
     }
   ],

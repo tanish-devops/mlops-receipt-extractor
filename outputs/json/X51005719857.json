@@ -6,12 +6,12 @@
   },
   "date": {
     "value": "19-02-2018",
-    "confidence": 0.99,
+    "confidence": 1.0,
     "is_low_confidence": false
   },
   "items": [
     {
-      "name": "Serv.Charge10",
+      "name": "Serv.Charge 10",
       "price": "2.04"
     },
     {

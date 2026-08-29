@@ -1,7 +1,7 @@
 {
   "store_name": {
     "value": "UNIHAKKA INTERNATIONAL SDN BHD",
-    "confidence": 0.98,
+    "confidence": 0.99,
     "is_low_confidence": false
   },
   "date": {
@@ -11,11 +11,19 @@
   },
   "items": [
     {
+      "name": "SR 100100000027-2Meal+2Vege",
+      "price": "8.7"
+    },
+    {
+      "name": "SR 100100000027-2Meal+2Vege",
+      "price": "8.7"
+    },
+    {
       "name": "Payment Mode",
       "price": "9.2"
     },
     {
-      "name": "Payment Mode",
+      "name": "Amount",
       "price": "9.2"
     },
     {
@@ -25,7 +33,7 @@
   ],
   "total_amount": {
     "value": 9.2,
-    "confidence": 0.73,
+    "confidence": 0.74,
     "is_low_confidence": false
   }
 }

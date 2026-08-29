@@ -13,11 +13,23 @@
     {
       "name": "Plastic",
       "price": "15.5"
+    },
+    {
+      "name": "Plastic",
+      "price": "31.0"
+    },
+    {
+      "name": "3100",
+      "price": "31.0"
+    },
+    {
+      "name": "10100",
+      "price": "70.0"
     }
   ],
   "total_amount": {
     "value": 31.0,
-    "confidence": 1.0,
+    "confidence": 0.75,
     "is_low_confidence": false
   }
 }

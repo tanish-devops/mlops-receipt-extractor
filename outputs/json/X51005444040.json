@@ -1,7 +1,7 @@
 {
   "store_name": {
     "value": "B.I.G",
-    "confidence": 0.98,
+    "confidence": 0.97,
     "is_low_confidence": false
   },
   "date": {
@@ -27,11 +27,11 @@
       "price": "26.7"
     },
     {
-      "name": "Item2",
+      "name": "Item 2",
       "price": "133.7"
     },
     {
-      "name": "Qty5",
+      "name": "Qty 5",
       "price": "0.0"
     },
     {
@@ -51,11 +51,11 @@
       "price": "6.06"
     },
     {
-      "name": "Z= 0",
+      "name": "0",
       "price": "26.7"
     },
     {
-      "name": "Z= 0",
+      "name": "0",
       "price": "0.0"
     }
   ],

@@ -12,6 +12,10 @@
   "items": [
     {
       "name": "3751",
+      "price": "424.0"
+    },
+    {
+      "name": "3751",
       "price": "848.0"
     },
     {
@@ -29,7 +33,7 @@
   ],
   "total_amount": {
     "value": 848.0,
-    "confidence": 0.74,
+    "confidence": 0.73,
     "is_low_confidence": false
   }
 }

@@ -1,7 +1,7 @@
 {
   "store_name": {
     "value": "tan woon yann",
-    "confidence": 1.0,
+    "confidence": 0.98,
     "is_low_confidence": false
   },
   "date": {
@@ -15,10 +15,6 @@
       "price": "19.0"
     },
     {
-      "name": "8970669",
-      "price": "19.0"
-    },
-    {
       "name": "9066468",
       "price": "8.02"
     },
@@ -27,11 +23,7 @@
       "price": "8.02"
     },
     {
-      "name": "ROUNDING ADJUSTMEN",
-      "price": "33.92"
-    },
-    {
-      "name": "ROUNDING ADJUSTMEN",
+      "name": "ROUNDING ADJUSTMEX",
       "price": "0.02"
     },
     {
@@ -45,7 +37,7 @@
   ],
   "total_amount": {
     "value": 33.92,
-    "confidence": 0.72,
+    "confidence": 0.75,
     "is_low_confidence": false
   }
 }

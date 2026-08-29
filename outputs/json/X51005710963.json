@@ -1,12 +1,12 @@
 {
   "store_name": {
-    "value": "TS TOOLS HARDTARE HACHIRERT SUN ED",
-    "confidence": 0.9,
+    "value": "IS TOLS HARDARE ACHIVERT S D",
+    "confidence": 0.89,
     "is_low_confidence": false
   },
   "date": {
     "value": "21/03/2018",
-    "confidence": 0.99,
+    "confidence": 0.98,
     "is_low_confidence": false
   },
   "items": [
@@ -29,7 +29,7 @@
   ],
   "total_amount": {
     "value": 7.0,
-    "confidence": 0.74,
+    "confidence": 0.75,
     "is_low_confidence": false
   }
 }

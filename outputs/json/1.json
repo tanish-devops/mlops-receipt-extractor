@@ -1,13 +1,13 @@
 {
   "store_name": {
     "value": "TRADER JOE'S",
-    "confidence": 0.98,
+    "confidence": 0.99,
     "is_low_confidence": false
   },
   "date": {
-    "value": "06-28-2014",
-    "confidence": 0.97,
-    "is_low_confidence": false
+    "value": null,
+    "confidence": 0.36,
+    "is_low_confidence": true
   },
   "items": [
     {
@@ -15,15 +15,11 @@
       "price": "1.29"
     },
     {
-      "name": "R-CARROTS SHREDDED 10 OZ",
+      "name": "R-CUCUMBERS PERSIAN 1 LB",
       "price": "1.99"
     },
     {
-      "name": "R-CUCUMBERS PERSIAN 1 LB",
-      "price": "1.59"
-    },
-    {
-      "name": "TOMATOES WHOLE NO SALT W/BASIL",
+      "name": "TOMATOES CRUSHED NO SALT",
       "price": "1.59"
     },
     {
@@ -33,10 +29,6 @@
     {
       "name": "MINI-PEARL TOMATOES",
       "price": "2.49"
-    },
-    {
-      "name": "MINI-PEARL TOMATOES",
-      "price": "3.99"
     },
     {
       "name": "PKG SHREDDED MOZZARELLA LITE T",
@@ -51,7 +43,7 @@
       "price": "2.99"
     },
     {
-      "name": "A-AVOCADOS HASS BAG 4CT",
+      "name": "SPROUTED CA STYLE",
       "price": "3.99"
     },
     {

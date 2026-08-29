@@ -5,25 +5,25 @@
     "is_low_confidence": false
   },
   "date": {
-    "value": null,
-    "confidence": 0.36,
-    "is_low_confidence": true
+    "value": "13/03/2018",
+    "confidence": 0.98,
+    "is_low_confidence": false
   },
   "items": [
     {
-      "name": "8603",
+      "name": "3603",
       "price": "1.0"
     },
     {
-      "name": "8603",
+      "name": "7200",
       "price": "67.92"
     },
     {
-      "name": "8603",
+      "name": "7200",
       "price": "72.0"
     },
     {
-      "name": "Tota SalesExcluding GST",
+      "name": "Tota Sales Excluding GST",
       "price": "67.92"
     },
     {
@@ -32,11 +32,15 @@
     },
     {
       "name": "Rounding",
+      "price": "4.08"
+    },
+    {
+      "name": "Rounding",
       "price": "0.0"
     }
   ],
   "total_amount": {
-    "value": 4.08,
+    "value": 72.0,
     "confidence": 0.75,
     "is_low_confidence": false
   }
